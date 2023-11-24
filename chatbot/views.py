@@ -20,15 +20,23 @@ class ChatBotFormView(FormView):
 
 	def get_context_data(self, **kwargs):
 		context = super().get_context_data(**kwargs)
-		context["form"] = self.form_class()
 		context["id_thread"] = kwargs.get('id_thread', None)
 		context["messages"] = self.request.session.get('messages', [])
 		return context
 
+	def post(self, request, *args, **kwargs):
+		form = self.get_form()
+		messages = self.request.session.get('messages', [])
+		if not form.is_valid() or (len(messages) > 0 and messages[-1]['answer'] is None):
+			return self.form_invalid(form)
+		else:
+			return self.form_valid(form)
+
 	def form_valid(self, form):
 		message = form.cleaned_data.get('message')
+		print(message)
 		messages = self.request.session.get('messages', [])
-		messages.append(message)
+		messages.append({"question": message, "answer": None})
 		self.request.session['messages'] = messages  # Save messages in session
 		return super().form_valid(form)
 
