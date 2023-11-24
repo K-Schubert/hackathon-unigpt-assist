@@ -4,3 +4,4 @@ venv_unigpt/
 /.idea/.gitignore
 /db.sqlite3
 corpus
+notebooks/.ipynb_checkpoints
