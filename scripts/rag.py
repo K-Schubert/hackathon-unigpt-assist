@@ -66,7 +66,7 @@ def init_retriever(k):
 def init_retrievalqa_chain():
 
     index = init_pinecone()
-    retriever = init_retriever(k=1)
+    retriever = init_retriever(k=5)
 
     # init llm
     llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY,

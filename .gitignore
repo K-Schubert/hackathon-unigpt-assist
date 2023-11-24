@@ -13,3 +13,5 @@ notebooks/.ipynb_checkpoints
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/unigpt-assist.iml
 /.idea/vcs.xml
+venv_unigpt
+.venv
