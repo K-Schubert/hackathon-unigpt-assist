@@ -7,3 +7,4 @@ corpus
 notebooks/.ipynb_checkpoints
 scripts/__pycache__
 venv_unigpt
+.venv
