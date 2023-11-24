@@ -34,7 +34,6 @@ class ChatBotFormView(FormView):
 
 	def form_valid(self, form):
 		message = form.cleaned_data.get('message')
-		print(message)
 		messages = self.request.session.get('messages', [])
 		messages.append({"question": message, "answer": None})
 		self.request.session['messages'] = messages  # Save messages in session
