@@ -40,30 +40,28 @@
                         {% else %}
                             {% for obj in messages %}
                                 {% if obj.question %}
-                                    <div class="media">
+                                    <div class="media chat-right">
+                                        <div class="message chat-right">
+                                            {{ obj.question }}
+                                        </div>
+                                    </div>
+                                    <div class="media chat-left">
                                         <figure class="media-left bot-icon">
                                             <p class="image is-48x48">
                                                 <img class="is-rounded" src="../static/chatbot/images/1547183.png" alt="User icon"/>
                                             </p>
                                         </figure>
-                                        <div class="message">
-                                            {{ obj.question }}
-                                        </div>
-                                    </div>
-                                    {% if obj.answer %}
-                                        <div class="media chat-right">
+                                        {% if obj.answer %}
                                             <div class="message">
                                                 {{ obj.answer }}
                                             </div>
-                                        </div>
-                                    {% else %}
-                                        <div class="media chat-right">
+                                        {% else %}
                                             <div class="message">
                                                 Waiting for answer...
                                             </div>
-                                        </div>
 
-                                    {% endif %}
+                                        {% endif %}
+                                    </div>
                                 {% endif %}
                             {% endfor %}
                         {% endif %}
