@@ -1,1 +1,3 @@
 /unigpt/.env
+/.idea/.gitignore
+/db.sqlite3
