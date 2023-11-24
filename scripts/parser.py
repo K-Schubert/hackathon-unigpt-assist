@@ -8,13 +8,13 @@ def parse_txt(file):
 
     
     # Use regular expression to find all occurrences of "Art. x" followed by any text
-    pattern = re.compile(r'^Art\. +[0-z]', re.DOTALL)
+    pattern = re.compile(r'Art\. \d+[^A-Z]*', re.DOTALL)
 
     # Extract all matches into a list
     result = pattern.findall(doc)
 
 
-    print(result)
+    print(result[2])
 
 if __name__ == "__main__":
     parse_txt("RegleGen.txt")
