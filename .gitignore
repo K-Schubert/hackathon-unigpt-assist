@@ -1,4 +1,15 @@
+.DS_Store
+venv_unigpt/
 /unigpt/.env
 /.idea/.gitignore
 /db.sqlite3
 corpus
+notebooks/.ipynb_checkpoints
+/.idea/dataSources.xml
+/.idea/jsLibraryMappings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/unigpt-assist.iml
+/.idea/vcs.xml
