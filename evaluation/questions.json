@@ -1,0 +1,146 @@
+{
+    "questions": [
+    {
+        "document": "Statut-Version-1juillet2021.pdf",
+        "reponse": [
+            {
+            "question": "Quelles sont les responsabilités du rectorat de l'université ?",
+            "reponse": "Le rectorat veille à la réalisation des missions et objectifs de l'université, au respect des valeurs académiques et éthiques, et à la réputation de l'université. La composition et le mode de désignation du rectorat sont régis par les articles 27 à 29 de la Loi sur l'université. Le recteur ou la rectrice est désigné(e) par l'assemblée de l'université après consultation du conseil d'orientation stratégique et nommé(e) par le Conseil d'État."
+            },
+            {
+            "question": "Comment sont désignés les membres de l'assemblée de l'université ?",
+            "reponse": "La composition de l'assemblée de l'université est conforme à l'article 31 de la Loi. Les membres sont désignés conformément aux dispositions du titre II du statut."
+            },
+            {
+            "question": "Quelles sont les conditions pour être considéré comme étudiant ou étudiante à l'université ?",
+            "reponse": "Une personne est considérée comme étudiant ou étudiante si elle est immatriculée à l'université et inscrite dans une unité principale d'enseignement et de recherche en vue d'obtenir un titre universitaire. Cela inclut également les personnes inscrites dans un centre ou institut interfacultaire. Les étudiants ou étudiantes qui préparent une thèse de doctorat sont immatriculés pendant toute la durée de leur travail de thèse."
+            },
+            {
+            "question": "Quels sont les critères d'élimination d'un étudiant ou d'une étudiante de l'université ?",
+            "reponse": "Un étudiant ou une étudiante est éliminé(e) d'une unité principale d'enseignement et de recherche ou d'un centre ou institut interfacultaire s'il/elle échoue à un examen ou à une session d'examens sans possibilité de se représenter, ou s'il/elle ne subit pas les examens ou n'obtient pas les crédits requis dans les délais fixés par le règlement d'études."
+            },
+            {
+            "question": "Quelles sont les conditions pour l'exmatriculation d'un étudiant ou d'une étudiante ?",
+            "reponse": "L'exmatriculation est demandée par l'étudiant ou l'étudiante quittant l'université. Elle ne peut être demandée pendant les sessions d'examens et jusqu'à la notification des décisions d'élimination. L'exmatriculation d'office survient si l'étudiant ou l'étudiante ne se conforme pas aux règles, ne s'inscrit pas au semestre ou ne paie pas les taxes semestrielles, ou a obtenu le titre visé et n'est pas inscrit à un autre titre."
+            }
+        ]
+    },      
+    {
+        "document": "RItaxes-2021.pdf",
+        "reponse": [
+            {
+            "question": "Quel est le montant des taxes universitaires par semestre ?",
+            "reponse": "Les taxes universitaires s'élèvent à Fr. 500.- par semestre et par étudiant suivant une formation de base ou approfondie."
+            },
+            {
+            "question": "Qui est automatiquement exonéré des taxes d'encadrement ?",
+            "reponse": "Les catégories exonérées automatiquement des taxes d'encadrement incluent les assistants rétribués par le Département de l'instruction publique ou par un fonds universitaire, ainsi que les assistants dont l’immatriculation en vue d’un doctorat intervient à la fin d’un semestre en cours."
+            },
+            {
+            "question": "Comment peut-on obtenir une exonération des taxes d'encadrement en cas de situation financière difficile ?",
+            "reponse": "Les étudiants en situation financière difficile doivent adresser une demande d'exonération au Service des aides financières de l'Université. La décision d'exonération est valable pour une année académique et doit être renouvelée chaque année."
+            },
+            {
+            "question": "Quelles sont les conditions pour le remboursement des taxes d'encadrement ?",
+            "reponse": "Les étudiants peuvent demander un remboursement des taxes d'encadrement si ils requièrent leur exmatriculation au plus tard six semaines après le début du semestre, ou si ils ont obtenu un titre universitaire et se sont déjà acquitté des taxes du semestre suivant."
+            },
+            {
+            "question": "Quelles sont les obligations financières pour une réimmatriculation après exmatriculation ?",
+            "reponse": "Les étudiants exmatriculés qui demandent une réimmatriculation doivent s'acquitter de toute éventuelle dette relative à des taxes universitaires dues."
+            },
+            {
+            "question": "Quelles sont les règles relatives aux taxes universitaires en cas d'élimination ?",
+            "reponse": "En cas d'élimination, les taxes fixes du semestre suivant sont dues. Le paiement des taxes d’encadrement est suspendu jusqu’à la décision sur l’opposition. Si l’opposition est acceptée, les taxes d’encadrement sont dues pour l'entier du semestre."
+            },
+            {
+            "question": "Qui doit passer l'examen de français et quel est le coût associé ?",
+            "reponse": "Les candidats étrangers, ceux sans certificat de maturité dont le français n'était pas la langue officielle d'enseignement, et les étudiants de l'Université visant un changement de programme ou une réimmatriculation doivent passer l'examen de français, coûtant Fr. 100.-."
+            },
+            {
+            "question": "Quel est le coût pour les auditrices et auditeurs par cours ou séminaire ?",
+            "reponse": "Les auditrices et auditeurs doivent payer un émolument de Fr. 50.- par intitulé de cours ou de séminaire."
+            },
+            {
+            "question": "Quel est le coût de la procédure de validation des acquis de l'expérience (VAE) ?",
+            "reponse": "Le coût pour la procédure VAE est de Fr. 1000.- pour le traitement du dossier."
+            },
+            {
+            "question": "Quels sont les frais pour une demande d'immatriculation à l'université ?",
+            "reponse": "Les candidats à l'immatriculation doivent s'acquitter d'un émolument de Fr. 65.- pour frais de dossier. Les demandes d'immatriculation formées après les délais entraînent un émolument supplémentaire de Fr. 100.-."
+            },
+            {
+            "question": "Comment sont déterminés les émoluments pour les programmes de formation spécifique ?",
+            "reponse": "Les émoluments pour les programmes de formation spécifique sont fixés par le Rectorat et restent acquis à l’Université même si le participant interrompt son programme."
+            },
+            {
+            "question": "Quels sont les émoluments pour les cours de langues de la Maison des Langues ?",
+            "reponse": "Des émoluments sont perçus pour les cours de langues de la Maison des Langues en fonction du nombre d'heures et/ou de participants. Les étudiants en mobilité bénéficient de réductions ou d'exonération de ces émoluments."
+            },
+            {
+            "question": "Quels sont les coûts associés à la délivrance des diplômes et des documents équivalents ?",
+            "reponse": "La délivrance des diplômes et suppléments au diplôme est gratuite, sauf pour les diplômes calligraphiés de l’ancien système d’études et des doctorats, coûtant Fr. 250.-. Les attestations d'équivalence coûtent CHF 50.- par attestation."
+            },
+            {
+            "question": "Quels sont les frais pour la réimpression et la délivrance de duplicatas de documents officiels ?",
+            "reponse": "La délivrance de duplicatas et de réimpressions coûte Fr. 25.- par document, sauf pour les duplicatas calligraphiés, qui coûtent Fr. 250.-."
+            },
+            {
+            "question": "Quel est le coût pour la certification conforme et l'authentification de signature ?",
+            "reponse": "La certification conforme et l'authentification de signature coûtent Fr. 10.-. Les frais postaux pour l’envoi à l’étranger et les documents officiels traduits en anglais coûtent respectivement Fr. 10.- et Fr. 15.-."
+            },
+            {
+            "question": "Quand le règlement relatif aux taxes universitaires est-il entré en vigueur ?",
+            "reponse": "Le règlement relatif aux taxes universitaires est entré en vigueur le 24 août 2021."
+            }
+        ]
+        },
+        {
+          " document": "RegleGen.pdf",
+            "reponse": [
+              {
+                "question": "Quels types de formations la Faculté des sciences propose-t-elle ?",
+                "reponse": "La Faculté des sciences propose trois types de formation : formation de base (études de bachelor et master), formation approfondie (certificats de spécialisation et études de doctorat), et formation continue, incluant des certificats complémentaires et des MAS (master of advanced studies)."
+              },
+              {
+                "question": "Quelles sont les conditions d'admission pour les étudiants désirant entreprendre une formation de base à la Faculté des sciences ?",
+                "reponse": "Les étudiants désirant entreprendre une formation de base s'inscrivent pour la rentrée universitaire du semestre d’automne. Ils peuvent être admis par dérogation au semestre du printemps si leurs études antérieures et le cursus envisagé le permettent."
+              },
+              {
+                "question": "Quelle est la durée réglementaire moyenne d’études pour obtenir un bachelor à la Faculté des sciences ?",
+                "reponse": "La durée réglementaire moyenne d’études pour obtenir un bachelor (baccalauréat universitaire) à la Faculté des sciences est de 6 semestres, correspondant à un total de 180 crédits ECTS."
+              },
+              {
+                "question": "Quelles sont les conditions pour qu'un étudiant puisse reprendre des études après avoir été éliminé d’un titre de bachelor de la Faculté ?",
+                "reponse": "Un étudiant peut reprendre des études après avoir été éliminé d'un titre de bachelor de la Faculté, à titre conditionnel, si il a réussi un titre dans une autre haute école. Toutefois, il ne peut être admis dans le master consécutif au bachelor duquel il a été éliminé."
+              },
+              {
+                "question": "Quel est le nombre maximal de crédits ECTS pouvant être acquis par voie d'équivalence pour un master ?",
+                "reponse": "Pour un master, le nombre maximal de crédits ECTS pouvant être acquis par voie d'équivalence ou de double validation ne peut excéder 30 crédits ECTS sur 90 et 40 crédits ECTS sur 120."
+              },
+              {
+                "question": "Quels sont les critères pour la réussite des examens selon l'article 14 du règlement ?",
+                "reponse": "Pour réussir les examens, le candidat doit obtenir une note au moins égale à 4 pour chaque épreuve. Exceptionnellement, des notes inférieures à 4 mais pas inférieures à 2 peuvent être admises. Dans tous les cas, la moyenne des notes doit être égale ou supérieure à 4."
+              },
+              {
+                "question": "Quelle est la sanction en cas de fraude ou de plagiat lors d'une évaluation ?",
+                "reponse": "Toute fraude, plagiat, tentative de fraude ou de plagiat correspond à un échec à l’évaluation concernée."
+              },
+              {
+                "question": "Quelles sont les dispositions particulières concernant les étudiants qui participent à des programmes de mobilité ?",
+                "reponse": "Les étudiants peuvent participer à des échanges nationaux ou internationaux après avoir réussi l'année propédeutique et l'ensemble du programme de l’année précédente. Un contrat d’études est établi et les crédits ECTS sont attribués pour chaque unité d’enseignement réussie dans l’institution d’accueil."
+              },
+              {
+                "question": "Quelles sont les conditions pour obtenir un congé d'études à la Faculté des sciences ?",
+                "reponse": "Un congé d'études est accordé pour une période d'un semestre ou d'une année, renouvelable, avec une durée totale ne pouvant excéder 3 semestres pour un baccalauréat universitaire et 2 semestres pour une maîtrise universitaire."
+              },
+              {
+                "question": "Quelles sont les conditions pour l'élimination d'un étudiant du titre qu'il brigue ?",
+                "reponse": "Un étudiant est éliminé du titre brigué s'il répète sans succès l'année propédeutique, ne peut répéter l’évaluation d’un enseignement non réussi, n'obtient pas au moins 20 crédits ECTS durant les 2 premiers semestres, ne peut répéter l’évaluation d’un enseignement à option, ou n'obtient pas le titre brigué dans les délais d'études fixés."
+              }
+            ]
+          }
+          
+    ]
+}
+      
+  

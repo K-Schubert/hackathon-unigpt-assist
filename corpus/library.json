@@ -1,1 +1,42 @@
-"[\n    \"{\\\"title\\\": \\\"Titre 1\\\", \\\"author\\\": \\\"Auteur 1\\\", \\\"url\\\": \\\"URL 1\\\", \\\"src\\\": \\\"Source 1\\\"}\",\n    \"{\\\"title\\\": \\\"Titre 2\\\", \\\"author\\\": \\\"Auteur 2\\\", \\\"url\\\": \\\"\\\", \\\"src\\\": \\\"Source 2\\\"}\"\n]"
+[
+    {
+        "title": "Règlement sur le personnel de l'Université",
+        "url": "https://www.unige.ch/files/5916/4915/1848/Regl_personnel_complet_-_final_-_modifie_decembre_2020.pdf",
+        "src": "Regl_personnel_complet_-_final_-_modifie_decembre_2020.pdf"
+    },
+    {
+        "title": "Règlement sur les finances de l’Université",
+        "url": "https://www.unige.ch/rectorat/static/R-Finances-unige-n.pdf",
+        "src": "R-Finances-unige-n.pdf"
+    },
+    {
+        "title": "Règlement d’exécution relatif à l’élection de l’assemblée de l’université et des conseils participatifs des UPER",
+        "url": "https://www.unige.ch/files/9616/6841/9291/Reglement_relatif_a_lelections_des_membres_de_lAssemblee_de_lUniversite_et_des_Conseils_participatifs_2022.pdf",
+        "src": "Reglement_relatif_a_lelections_des_membres_de_lAssemblee_de_lUniversite_et_des_Conseils_participatifs_2022.pdf"
+    },
+    {
+        "title": "Règlement relatif à la désignation des membres de la Commission du personnel de l’Université",
+        "url": "https://www.unige.ch/files/7416/6841/9325/Reglement_relatif_a_la_designation_des_membres_de_la_Commission_du_personnel_de_lUniversite_2022.pdf",
+        "src": "Reglement_relatif_a_la_designation_des_membres_de_la_Commission_du_personnel_de_lUniversite_2022.pdf"
+    },
+    {
+        "title": "Règlement interne relatif aux taxes universitaires et aux émoluments",
+        "url": "https://www.unige.ch/files/8016/3231/0064/RItaxes-2021.pdf",
+        "src": "RItaxes-2021.pdf"
+    },
+    {
+        "title": "Règlement relatif à la procédure d’opposition au sein de l’Université de Genève",
+        "url": "http://www.unige.ch/rectorat/static/RIO-UNIGE.pdf",
+        "src": "RIO-UNIGE.pdf"
+    },
+    {
+        "title": "Règlement interne relatif à l'admission à l'Université de Genève des candidat-es non titulaires d'un certificat de maturité",
+        "url": "https://www.unige.ch/files/9816/4259/9208/Reglement_interne-sans_matu-1janvier22.pdf",
+        "src": "Reglement_interne-sans_matu-1janvier22.pdf"
+    },
+    {
+        "title": "REGLEMENT D’ETUDES GENERAL DE LA FACULTE DES SCIENCES",
+        "url": "https://www.unige.ch/sciences/files/2115/3745/7266/RegleGen.pdf",
+        "src": "RegleGen.pdf"
+    }
+]
