@@ -1,3 +1,4 @@
 /unigpt/.env
 /.idea/.gitignore
 /db.sqlite3
+corpus
