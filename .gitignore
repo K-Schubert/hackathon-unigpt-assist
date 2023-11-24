@@ -3,8 +3,8 @@ venv_unigpt/
 /unigpt/.env
 /.idea/.gitignore
 /db.sqlite3
-corpus
-notebooks/.ipynb_checkpoints
+rag/corpus
+rag/notebooks/.ipynb_checkpoints
 /.idea/dataSources.xml
 /.idea/jsLibraryMappings.xml
 /.idea/misc.xml
