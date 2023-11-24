@@ -1,7 +1,8 @@
 from django.urls import path
 
-from chatbot.views import (ChatbotView)
+from chatbot.views import (ChatBotView, ChatBotCreateView)
 
 urlpatterns = [
-	path('', ChatbotView.as_view(), name='list'),
+	path('', ChatBotView.as_view(), name='list'),
+	path('create/<int:id_thread>', ChatBotCreateView.as_view(), name='create'),
 ]
