@@ -6,6 +6,10 @@ from langchain.schema import Document
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
+from langchain.retrievers.merger_retriever import MergerRetriever
+from langchain.output_parsers import PydanticOutputParser
+from langchain.pydantic_v1 import BaseModel, Field
+from langchain.schema import SystemMessage
 
 import pinecone
 from langchain.vectorstores import Pinecone
@@ -20,132 +24,275 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 PINECONE_ENVIRONMENT = os.getenv('PINECONE_ENVIRONMENT')
-PINECONE_INDEX = os.getenv('PINECONE_INDEX')
+PINECONE_INDEX_1 = os.getenv('PINECONE_INDEX_1')
+PINECONE_INDEX_2 = os.getenv('PINECONE_INDEX_2')
 
 chat_history_map = {}
 
-
 def init_pinecone():
-	# init pinecone index
-	pinecone.init(
-		api_key=PINECONE_API_KEY,
-		environment=PINECONE_ENVIRONMENT,
-	)
 
-	if PINECONE_INDEX not in pinecone.list_indexes():
-		pinecone.create_index(PINECONE_INDEX, dimension=1536, metric="cosine")
+    # init pinecone index
+    pinecone.init(
+        api_key=PINECONE_API_KEY,
+        environment=PINECONE_ENVIRONMENT,
+    )
 
-	index = pinecone.Index(PINECONE_INDEX)
+    for PINECONE_INDEX in [PINECONE_INDEX_1, PINECONE_INDEX_2]:
+        if PINECONE_INDEX not in pinecone.list_indexes():
+            pinecone.create_index(PINECONE_INDEX, dimension=1536, metric="cosine")
 
-	return index
-
+    [pinecone.Index(PINECONE_INDEX) for PINECONE_INDEX in [PINECONE_INDEX_1, PINECONE_INDEX_2]]
 
 def init_vectorstore():
-	# init embedding function
-	embedding_function = OpenAIEmbeddings(model="text-embedding-ada-002",
-	                                      disallowed_special=())
 
-	vectorstore = Pinecone.from_existing_index(
-		index_name=PINECONE_INDEX,
-		embedding=embedding_function,
-		# namespace=namespace
-	)
+    # init embedding function
+    embedding_function = OpenAIEmbeddings(model="text-embedding-ada-002",
+                                disallowed_special=())
 
-	return vectorstore
-
+    vectorstore_reglement = Pinecone.from_existing_index(
+                index_name=PINECONE_INDEX_1,
+                embedding=embedding_function,
+                #namespace=namespace
+                )
+    
+    vectorstore_cours = Pinecone.from_existing_index(
+                index_name=PINECONE_INDEX_2,
+                embedding=embedding_function,
+                #namespace=namespace
+                )
+    
+    return vectorstore_reglement, vectorstore_cours
 
 def init_retriever(k):
-	# init vectorstore
-	vectorstore = init_vectorstore()
 
-	# init retriever
-	retriever = vectorstore.as_retriever(search_kwargs={"k": k}, return_source_documents=True)
+    # init vectorstore
+    vectorstore_reglement, vectorstore_cours = init_vectorstore()
 
-	return retriever
+    # init retriever
+    retriever_reglement = vectorstore_reglement.as_retriever(search_kwargs={"k": k}, return_source_documents=True)
+    retriever_cours = vectorstore_cours.as_retriever(search_kwargs={"k": k}, return_source_documents=True)
 
+    return retriever_reglement, retriever_cours
+
+class JSON_output(BaseModel):
+    label: str = Field(description="label")
+    comment: str = Field(description="comment")
+
+class JSON_output_sources(BaseModel):
+    doc_ids: list = Field(description="list of doc ids")
+
+def llm_routing(query):
+
+    llm  = ChatOpenAI(
+        openai_api_key=OPENAI_API_KEY,
+        model_name='gpt-4-1106-preview',
+        temperature=0,
+        max_tokens=512
+    )
+
+    # ReAct prompt
+    template = """You will be presented with a user query in french. Your task is to classify the user query into one final category.
+        
+        Approach this task step by step, take your time and do not skip any steps.
+
+        1. Read the user query.
+        2. Determine whether the query is related to university regulation OR university courses.
+        - If the query is related to general university regulations or faculty regulations, assign a label of "reglement".
+        - If the query is related to course details (eg. question about a specific course, a timetable, a professor, the contents of a course, etc.), assign a label of "cours".
+        3. Output a response as JSON with keys as follows:
+            - "label": allowable values are ["reglement", "cours"]
+            - "comment": any suitable comment based on the classification you performed, if required.
+
+        Input query: {query}
+    """
+    prompt_template = PromptTemplate(input_variables=["query"], template=template)
+
+    parser = PydanticOutputParser(pydantic_object=JSON_output)
+
+    prompt = prompt_template.format(query=query)
+    res = llm([SystemMessage(content=prompt)])
+
+    label = parser.parse(res.content).label
+
+    return label
+
+def update_retriever(label, qa):
+
+    retriever_reglement, retriever_cours = init_retriever(k=5)
+
+    if label == "reglement":
+        retriever = retriever_reglement
+        print(">>> Routing to reglement DB")
+    elif label == "cours":
+        retriever = retriever_cours
+        print(">>> Routing to cours DB")
+    else:
+        retriever = MergerRetriever(retrievers=[retriever_reglement, retriever_cours])
+        raise ValueError(">>> Routing failed")
+
+    qa.retriever = retriever
+
+    return qa
 
 def init_retrievalqa_chain():
-	index = init_pinecone()
-	retriever = init_retriever(k=5)
 
-	# init llm
-	llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY,
-	                 model="gpt-4-1106-preview",
-	                 temperature=0)
+    init_pinecone()
+    retriever_reglement, retriever_cours = init_retriever(k=5)
+    retriever = MergerRetriever(retrievers=[retriever_reglement, retriever_cours])
 
-	# init prompt template
-	template = """Vous êtes un assistant qui répond à des questions sur l'Université de Genève, basée en Suisse.
-Utilisez les éléments de contexte et l'historique du chat suivants pour répondre aux questions.
-Votre réponse doit être liée à l'Université de Genève uniquement. Si la question ne figure pas dans le contexte ou l'historique du chat, répondez "Je suis désolé, je ne connais pas la réponse".
-Les réponses doivent être détaillées mais concises et courtes.
-Respirez profondément et travaillez étape par étape.
+    # init llm
+    llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY,
+                    model="gpt-4-1106-preview",
+                    temperature=0)
 
-Historique: {chat_history}
+    # init prompt template
+    template = """
+        Vous êtes un assistant qui répond à des questions sur l'Université de Genève, basée en Suisse.
+        Utilisez les éléments de contexte et l'historique du chat suivants pour répondre aux questions. 
+        Votre réponse doit être liée à l'Université de Genève uniquement. Si la question ne figure pas dans le contexte ou l'historique du chat, répondez "Je suis désolé, je ne connais pas la réponse".
+        Les réponses doivent être détaillées mais concises et courtes.
+        Respirez profondément et travaillez étape par étape.
 
-Context: {context}
+        Historique: {chat_history}
+        
+        Context: {context}
 
-Question: {question}
-
-Answer: """
-
-	prompt = PromptTemplate(input_variables=["context", "question"], template=template)
-
-	# init conversation memory
-	conversational_memory = ConversationBufferWindowMemory(
-		memory_key='chat_history',
-		input_key="question",
-		k=3,
-		return_messages=True
-	)
-
-	# init retrievalQA chain
-	qa = RetrievalQA.from_chain_type(
-		llm=llm,
-		chain_type="stuff",
-		retriever=retriever,
-		chain_type_kwargs={"prompt": prompt,
-		                   "memory": conversational_memory
-		                   },
-		return_source_documents=True,
-		verbose=False,
-	)
-
-	return qa
+        Question: {question}
+        Answer: """
 
 
-def run_query(qa, query, session_id=None):
-	global chat_history_map
+    prompt = PromptTemplate(input_variables=["context", "question"], template=template)
 
-	if session_id is None:
-		session_id = uuid.uuid4()
-		current_chat_history = ConversationBufferWindowMemory(
-			memory_key='chat_history',
-			input_key="question",
-			k=3,
-			return_messages=True
-		)
-		chat_history_map[session_id] = current_chat_history
-	else:
-		session_id = uuid.UUID(session_id)
-		current_chat_history = chat_history_map[session_id]
+    # init conversation memory
+    conversational_memory = ConversationBufferWindowMemory(
+        memory_key='chat_history',
+        input_key="question",
+        k=3,
+        return_messages=True
+    )
+    
+    # init retrievalQA chain
+    qa = RetrievalQA.from_chain_type(
+            llm=llm,
+            chain_type="stuff",
+            retriever=retriever,
+            chain_type_kwargs={"prompt": prompt,
+                               "memory": conversational_memory
+                              },
+            return_source_documents=True,
+            verbose=False,
+            )
+    
+    return qa
 
-	res = qa({"query": query, "chat_history": current_chat_history})
-	chat_history_map[session_id] = qa.combine_documents_chain.memory
+def isolate_sources(source_docs, answer):
 
-	return {
-		"answer": res["result"],
-		"source_documents": res["source_documents"],
-		"session_id": str(session_id),
-	}
+    # init llm
+    llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY,
+                    model="gpt-4-1106-preview",
+                    temperature=0)
+    
+    template = """You will be presented with a list of retrieved source documents and an LLM generated answer. Your task is to determine which source documents contributed to the answer.
+        
+        Approach this task step by step, take your time and do not skip any steps.
+
+        1. Read the generated LLM answer.
+        2. Read the source documents.
+        3. Determine which source documents in the list of source documents contributed to the answer.
+        4. Output a response as JSON with keys as follows:
+            - "doc_ids": allowable values are a list of integers (eg. [0, 1, 3])
+
+        Input source documents: {source_docs}
+
+        LLM generated answer: {answer}
+    """
+
+    prompt_template = PromptTemplate(input_variables=["source_docs", "answer"], template=template)
+
+    parser = PydanticOutputParser(pydantic_object=JSON_output_sources)
+
+    prompt = prompt_template.format(source_docs=source_docs, answer=answer)
+    res = llm([SystemMessage(content=prompt)])
+
+    doc_ids = parser.parse(res.content).doc_ids
+
+    relevant_sources = set([source_docs[i].metadata["url"] for i in doc_ids])
+
+    if len(relevant_sources) > 1:
+        relevant_sources = "\n- ".join([x for x in relevant_sources])
+    else:
+        relevant_sources = list(relevant_sources)[0]
+
+    return relevant_sources
+
+def run_query(qa, query, labels, session_id=None):
+
+    # init conversation memory
+    if session_id is None:
+        session_id = uuid.uuid4()
+        current_chat_history = ConversationBufferWindowMemory(
+        memory_key='chat_history',
+        input_key="question",
+        k=3,
+        return_messages=True
+    )
+        chat_history_map[session_id] = current_chat_history
+    
+    # if session_id already exists, retrieve chat history
+    else:
+        current_chat_history = chat_history_map[session_id]
+
+    if len(labels) >= 2:
+        # if query is not related to the same topic as the previous query, update retriever
+        if labels[-1] != labels[-2]:
+            qa = update_retriever(labels[-1], qa)
+            print(">>> Retriever updated")
+
+            res = qa({"query": query, 
+                     "chat_history": current_chat_history})
+
+        # else, run query with same retriever
+        else:
+            res = qa({"query": query, 
+                     "chat_history": current_chat_history})
+
+    else:
+        qa = update_retriever(labels[-1], qa)
+
+        res = qa({"query": query, 
+                  "chat_history": current_chat_history})
+
+    # update chat history
+    chat_history_map[session_id] = qa.combine_documents_chain.memory
+
+    # isolate relevant sources
+    relevant_sources = isolate_sources(res["source_documents"], res["result"])
+
+    return {
+        "answer": res["result"] + "\n\n" + "Source documents:\n- " + relevant_sources,
+        #"source_documents": res["source_documents"],
+        "source_documents": relevant_sources,
+        "session_id" : session_id
+        }
+
+
+"""
+# classify query into reglement or cours for vectorstore routing
+labels.append(llm_routing(query))
+
+# run query
+res = run_query(qa, query, labels, session_id)
+"""
 
 
 qa = None
-
+label = None
 
 def startup_function():
 	global qa, chat_history_map
 	qa = init_retrievalqa_chain()
 	chat_history_map = dict()
+	labels = []
 
 
 if __name__ == "__main__":
