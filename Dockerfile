@@ -13,4 +13,6 @@ COPY server.py server.py
 COPY manage.py manage.py
 COPY .env .env
 
+RUN python3 manage.py migrate
+
 ENTRYPOINT ["python3", "manage.py", "runserver", "0.0.0.0:80"]
