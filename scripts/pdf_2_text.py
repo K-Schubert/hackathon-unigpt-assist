@@ -13,5 +13,5 @@ def extraire_texte_pdf(chemin_fichier):
 
 def nettoyer_texte(texte):
     # Ici, vous pouvez ajouter des règles de nettoyage supplémentaires si nécessaire
-    texte = texte.replace('\n', ' ')  # Remplacer les sauts de ligne par des espaces
+    texte = texte  # Remplacer les sauts de ligne par des espaces
     return texte
