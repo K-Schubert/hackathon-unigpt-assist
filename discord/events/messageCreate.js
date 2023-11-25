@@ -42,17 +42,7 @@ module.exports = {
             const data = await callResult.json();
             // const body = await callResult.text();
 
-            console.log(data);
-            // console.log(body);
-
-/*
-            if (!callResult.length) {
-                msg.reply(`No results found for **${message}**.`);
-            }*/
-            //TODO : is causing the weird double answer.
-            if (!data.length) {
-                msg.reply(`No results found for **${message}**.`);
-            }
+            // console.log(data);
 
             const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
             await delay(1000);
