@@ -1,0 +1,77 @@
+stages:
+  - build
+  - deploy
+  - destroy
+
+variables:
+  TF_ROOT: terraform
+  TF_STATE_NAME: main
+  TF_IMAGE: $CI_TEMPLATE_REGISTRY_HOST/gitlab-org/terraform-images/stable:latest
+  TF_VAR_server_image: $CI_REGISTRY_IMAGE/server:$CI_PIPELINE_ID
+  TF_VAR_registry_server: $CI_REGISTRY
+  TF_VAR_registry_username: $CI_DEPLOY_USER
+  TF_VAR_registry_password: $CI_DEPLOY_PASSWORD
+
+cache:
+  - key: terraform
+    paths:
+      - $TF_ROOT/.terraform
+      - $TF_ROOT/.terraform.lock.hcl
+
+build:docker:server:
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [""]
+  stage: build
+  needs: []
+  script:
+    - /kaniko/executor
+      --cache=true
+      --context .
+      --dockerfile Dockerfile
+      --destination $TF_VAR_server_image
+
+deploy:validate:
+  image: $TF_IMAGE
+  stage: deploy
+  needs: []
+  script:
+    - gitlab-terraform validate
+
+deploy:plan:
+  image: $TF_IMAGE
+  stage: deploy
+  needs: ["deploy:validate"]
+  script:
+    - gitlab-terraform plan
+  resource_group: $TF_STATE_NAME
+  artifacts:
+    paths:
+      - $TF_ROOT/plan.cache
+
+deploy:apply:
+  image: $TF_IMAGE
+  stage: deploy
+  needs: ["build:docker:server", "deploy:plan"]
+  script:
+    - gitlab-terraform apply
+  resource_group: $TF_STATE_NAME
+  when: manual
+
+destroy:all:
+  image: $TF_IMAGE
+  stage: destroy
+  needs: ["deploy:apply"]
+  script:
+    - gitlab-terraform destroy
+  resource_group: $TF_STATE_NAME
+  when: manual
+
+destroy:server:
+  image: $TF_IMAGE
+  stage: destroy
+  needs: ["deploy:apply"]
+  script:
+    - gitlab-terraform destroy -target azurerm_container_group.server
+  resource_group: $TF_STATE_NAME
+  when: manual
