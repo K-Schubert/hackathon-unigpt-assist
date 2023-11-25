@@ -5,6 +5,7 @@ import json
 if __name__ == '__main__':
     chemin_pdf = './corpus/RegleGen.pdf'
     texte_brut = extraire_texte_pdf(chemin_pdf)
+    texte_brut = nettoyer_texte(texte_brut)
 
     # Write to a file
     with open('./corpus/RegleGen.txt', 'w') as f:
