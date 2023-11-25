@@ -7,7 +7,7 @@ département directement rattaché à la Faculté » partout où il est fait men
 « Section  ». 
  
  
-(Art\.|Article)Art.(Art\.|Article) 1 – Objet  
+Art\. 1 – Objet  
 1. La Faculté des sciences prépare les étudiants à l'obtention de baccalauréats 
 universitaires  / bachelors , de maîtrises universitaires  / masters , de certificats 
 complémentaires, de certificats de spécialisation, de maîtrises universitaires d’études avancées  / masters  of advanced studies (MAS), de doctorats, ou de 
@@ -17,9 +17,7 @@ etc.). Toutefois, les règlements desdits titres peuvent prévoir des dispositio
 favorables lorsque le présent règlement le prévoit ou plus restrictives dans tous les 
 cas. 
  3. Le présent règlement ne s’applique pas au doctorat ès sciences qui est régi par un 
-règlement d'études général qui lui est propre. Il ne s’applique pas non plus aux certificats et diplômes de formation continue qui sont également régis par des règlements d’études spécifiques. 
- 
-(Art\.|Article)Art.
+règlement d'études général qui lui est propre. Il ne s’applique pas non plus aux certificats et diplômes de formation continue qui sont également régis par des règlements d’études spécifiques.
 ****************************************************************************************************
 2 – Conditions d'admission 
 1. Pour être admises à la Faculté des sciences, les personnes doivent remplir les conditions générales d'immatriculation requises par l'Université et celles fixées par 
@@ -44,7 +42,7 @@ ECTS. Sur préavis de la Section concernée, le doyen statue sur les exceptions 
  6 Pour les masters of advanced studies  (MAS) les étudiants ayant au moins 270 
 crédits ECTS de niveau universitaire peuvent être admis sur dossier. Sur préavis de la Section concernée, le doyen statue sur les exceptions possibles.
 ****************************************************************************************************
-Art.(Art\.|Article) 3 – Admission conditionnelle  
+3 – Admission conditionnelle  
 1. La Faculté des sciences peut admettre des étudiants à titre conditionnel lorsque 
 l'étudiant :  
 - a été éliminé d'un cursus universitaire ou d’une autre Haute Ecole ou encore exclu de cette Haute- Ecole ; 
@@ -60,11 +58,9 @@ dans une autre haute école, il peut être admis à titre conditionnel, ou son a
 Toutefois, il ne peut être admis dans le master consécutif au bachelor  duquel il a 
 été éliminé. 
  
-4. La décision est prise par le doyen ou, par délégation, par le conseiller aux études facultaire, qui peut tenir compte de circonstances exceptionnelles dûment justifiées. 
- 
-(Art\.|Article)Art.
+4. La décision est prise par le doyen ou, par délégation, par le conseiller aux études facultaire, qui peut tenir compte de circonstances exceptionnelles dûment justifiées.
 ****************************************************************************************************
-Art.(Art\.|Article) 4 – Equivalences 
+4 – Equivalences 
 1. La Faculté décide librement l’attribution des équivalences. 
  
 2. Les équivalences ne peuvent être accordées que si l'étudiant brigue un titre de la 
@@ -93,11 +89,9 @@ cours ou un séminaire qui n'aurait pas fait l'objet d'un examen.
  10. Si l'étudiant a déjà effectué une tentative et échoué à un examen, aucune équivalence pour ce cours ne peut être accordée à postériori. 
  
 11. Aucune équivalence ou double validation n’est accordée pour le travail de fin 
-d’études de master, une monographie ou une bibliographie. 
- 
-(Art\.|Article)Art.
+d’études de master, une monographie ou une bibliographie.
 ****************************************************************************************************
-Art.(Art\.|Article) 5 – Durée des études et crédits ECTS (European Credit Transfer and 
+5 – Durée des études et crédits ECTS (European Credit Transfer and 
 Accumulation System) 
 1. Chaque année d’études à plein temps correspond à 60 crédits ECTS et un 
 semestre d'études à plein temps à 30 crédits. Le nombre total de crédits ECTS 
@@ -117,10 +111,9 @@ avancées) l’étudiant doit acquérir un total de crédits ECTS précisé par 
  4. Sur demande écrite d’un étudiant, le doyen de la Faculté peut prolonger les délais, si de justes motifs existent et si l’étudi ant présente une demande écrite (papier -
 signée) et motivée. 
  
- 4 
-(Art\.|Article)Art.
+ 4
 ****************************************************************************************************
-Art.(Art\.|Article) 6 – Congé et études à temps partiel  
+6 – Congé et études à temps partiel  
 1. Le doyen peut accorder à l'étudiant qui en fait la demande écrite un congé. 
  
 2. Le congé est accordé pour une période d’un semestre ou d’une année, il  est 
@@ -135,11 +128,9 @@ demandes dûment motivées doivent être adressées au doyen au minimum un mois 
 statue sur la demande. Si la demande est acceptée, sa décision précise les nouveaux délais d’études qui sont fixés. 
  
 6. Sont réservées les dispositions des conventions intercantonales sur la mobilité des 
-étudiants. 
- 
-(Art\.|Article)Art.
+étudiants.
 ****************************************************************************************************
-Art.(Art\.|Article) 7 – Organisation des études  
+7 – Organisation des études  
 La F aculté des sciences dispense trois types de formation : la formation de base, la 
 formation approfondie et la formation continue. 
  La formation de base est composée de deux cursus d’études  :  
@@ -155,11 +146,9 @@ délivrance de certificats complémentaires (formation de base) ou de spécialis
  En outre, la Faculté peut aussi organiser des compléments d’études (compléments de bachelor  en sciences, plans libres, etc). Ils permettent de raccorder un cursus (par 
 exemple, un master) qui ne serait pas immédiatement accessible à un étudiant. Ces 
 compléments d’études n’aboutissent pas à l’obtention d’un titre, mais l’échec définitif à 
-ces compléments d’études ne permet pas l’admission au titre brigué. 
- 
-(Art\.|Article)Art.
+ces compléments d’études ne permet pas l’admission au titre brigué.
 ****************************************************************************************************
-Art.(Art\.|Article) 8 – Evaluation des connaissances 
+8 – Evaluation des connaissances 
 1. Chaque enseignement fait l'objet d'une évaluation. Elle prend la forme d'un examen oral et/ou écrit, d'un contrôle continu, d'un travail personnel écrit (complété 
 éventuellement d'une présentation orale), d'une (ou plusieurs) présentation(s) 
 orale(s) ou de l’obtention d'un certificat. 
@@ -173,11 +162,9 @@ semestre fait foi.
  3. Les connaissances des étudiants sont évaluées par des notes allant de 0 à 6 ; la note suffisante étant 4. La notation s’effectue au quart de point. Le 0 est réservé aux absences non justifiées aux examens ou aux cas de plagiat et fraude. 
  4. La durée d'un examen oral est au minimum de vingt minutes et au maximum d'une heure. L'examen écrit dure de deux à quatre heures. 
  5. Le champ de l'examen correspond à la matière enseignée jusqu’à la date de l'épreuve. 
- 6. Si un étudiant se représente à une évaluation, la nouvelle note remplace la précédente. Au cas où des crédits auraient été obtenus lors de l’évaluation précédente, ils ne sont pas reportés lors de la nouvelle tentative. L’octroi des crédits se fait en fonction de la nouvelle notation obtenue. 
- 
-(Art\.|Article)Art.
+ 6. Si un étudiant se représente à une évaluation, la nouvelle note remplace la précédente. Au cas où des crédits auraient été obtenus lors de l’évaluation précédente, ils ne sont pas reportés lors de la nouvelle tentative. L’octroi des crédits se fait en fonction de la nouvelle notation obtenue.
 ****************************************************************************************************
-Art.(Art\.|Article) 9 – Acquisition des crédits ECTS  
+9 – Acquisition des crédits ECTS  
 1. Les crédits ECTS attachés aux unités d'enseignement, travaux de fin d'études de 
 master  (maîtrise universitaire), de certificat complémentaire, de certificat de 
 spécialisation, de master  of advanced studies  (MAS) ou de certificat/diplôme de 
@@ -189,17 +176,16 @@ formation continue sont acquis lorsqu’un étudiant a obtenu la note suffisante
 3. Lorsqu'un plan d'études prévoit l’acquisition de crédits ECTS par le biais de cours choisis par l’étudiant (i. e. à option, libres, à choix, à choix restreint, avancés, etc.), en cas d'échec à l’évaluation, l’étudiant peut, soit refaire une fois l’examen, soit 
 choisir un autre cours. Toutefois, dans ce cas, l’étudiant n’a plus qu’une tentative pour valider le nouveau cours. 
  
-(Art\.|Article)Art.(Art\.|Article) 10 – Evaluations de l'année propédeutique : principes et périodes  
+Art\. 10 – Evaluations de l'année propédeutique : principes et périodes  
 1. L'année d'études propédeutique est sanctionnée par une série d'évaluations portant 
 sur les matières figurant au plan d'études, ainsi que dans le règlement d’études spécifique au titre délivré. 
  2. L'année d'études propédeutique ne peut être répétée qu'une seule fois. 
  3. Les sessions d'examens ont lieu aux mois de janvier/février, mai/juin et août/septembre. 
  4. Un étudiant ne peut s'inscrire à un enseignement de deuxième année tant qu'il n'a pas réussi l'année propédeutique. 
  
- 6 
-(Art\.|Article)Art.
+ 6
 ****************************************************************************************************
-Art.(Art\.|Article) 11 – Evaluations des études de base (excepté l'année propédeutiq ue), des 
+11 – Evaluations des études de base (excepté l'année propédeutiq ue), des 
 certificats (CC et CS), des masters of advanced studies (MAS) et des 
 compléments d’études (CE): principes et périodes  
 1. Chaque unité d'enseignement est sanctionnée par une évaluation portant sur les 
@@ -212,9 +198,7 @@ août/septembre.
 correspondante, tant qu'i l ne dispose pas des pré- requis définis dans le plan 
 d'études. 
  
-(Art\.|Article)Art.
-****************************************************************************************************
-Art.(Art\.|Article) 12 – Inscription, retrait et défaut aux examens de l'année propédeutique 
+Art\. 12 – Inscription, retrait et défaut aux examens de l'année propédeutique 
 1. L’étudiant s’inscrit aux examens en ligne en respectant le délai fixé par le décanat. 
 Cette inscription est val idée par le secrétariat des étudiants. 
  
@@ -227,11 +211,9 @@ la Faculté ou le vice -doyen en charge des étudiants décide s’il y a juste 
 peut demander à l’étudiant de produire un certificat médical ainsi que tout autre 
 renseignement jugé utile. 
  5. Lorsque le doyen ou le vice- doyen en charge des étudiants le juge nécessaire, il 
-peut faire appel à un médecin conseil. Il en informe l’étudiant. 
- 
-(Art\.|Article)Art.
+peut faire appel à un médecin conseil. Il en informe l’étudiant.
 ****************************************************************************************************
-Art.(Art\.|Article) 13 – Inscription, retrait et défaut aux examens des études de base (excepté 
+13 – Inscription, retrait et défaut aux examens des études de base (excepté 
 l'année propédeutique), des certificats (CC et CS), des masters of advanced studies  (MAS) et des compléments d’études (CE)  
 1. L’étudiant s’inscrit aux examens au moyen d’un formulaire ad hoc en respectant le 
 délai fixé par le décanat. Cette inscription est validée par le secrétariat des étudiants. 
@@ -250,11 +232,9 @@ ou ne rend pas un travail dans le délai imparti, il est considéré avoir écho
 notamment considérés comme des justes motifs les cas de maladies et d’accidents. L’étudiant doit en aviser le doyen de la Faculté par écrit immédiatement, soit en principe dans les 3 jours au maximum qui suivent la non présentation. Le doyen de la Faculté ou le vice- doyen en charge des étudiants décide s’il y a juste motif. Il 
 peut demander à l’étudiant de produire un certificat médical ainsi que tout autre renseignement jugé utile. 
  6. Lorsque le doyen ou le vice- doyen en charge des étudiants le juge nécessaire, il 
-peut faire appel à un médecin conseil. Il en informe l’étudiant. 
- 
-(Art\.|Article)Art.
+peut faire appel à un médecin conseil. Il en informe l’étudiant.
 ****************************************************************************************************
-Art.(Art\.|Article) 14 – Conditions de réussite des examens 
+14 – Conditions de réussite des examens 
 1. Les examens sont réussis si :  
 - le candidat obtient pour chaque épreuve une note au moins égale à 4; 
 - exceptionnellement les règlements d'études de chaque titre peuvent admettre des notes inférieures à 4, mais en tout cas pas inférieures à 2; 
@@ -264,15 +244,13 @@ supérieure à 4 ;
 deux tentatives au maximum pour chaque évaluation qu’il doit refaire. 
  3. Le règlement d’études de chaque titre fixe les conditions de réussite des évaluations des examens des études de base, des certificats, des masters of advanced studies  (MAS) et des certificats/diplômes de formation continue. 
  4. Un étudiant inscrit en complément d’études (compléments de bachelor, plans libres, 
-etc.) est soumis uniquement à l’(Art\.|Article)Art.(Art\.|Article) 8 al.3 du présent règl ement, soit l’obtention 
-d’une note au moins égale à 4 à chaque examen prévu dans son plan d’études.  
- 
-(Art\.|Article)Art.
+etc.) est soumis uniquement à l’Art\. 8 al.3 du présent règl ement, soit l’obtention 
+d’une note au moins égale à 4 à chaque examen prévu dans son plan d’études.
 ****************************************************************************************************
-Art.(Art\.|Article) 8 al.3 du présent règl ement, soit l’obtention 
+8 al.3 du présent règl ement, soit l’obtention 
 d’une note au moins égale à 4 à chaque examen prévu dans son plan d’études.  
  
-(Art\.|Article)Art.(Art\.|Article) 15 – Contrôle continu 
+Art\. 15 – Contrôle continu 
 1. Le responsable d’un enseignement peut prévoir un contrôle continu sous forme d'épreuves écrites ou orales. Il est facultatif. Il doit être annoncé aux étudiants au 
 début de l’enseignement.  
  
@@ -288,11 +266,9 @@ immédiatement l'enseignement.
  
  8 
 5. L’échec au contrôle continu compte comme une tentative à l’évaluation de 
-l’enseignement. 
- 
-(Art\.|Article)Art.
+l’enseignement.
 ****************************************************************************************************
-Art.(Art\.|Article) 16 – Certificats 
+16 – Certificats 
 1. Un certificat sanctionne un travail accompli par l'étudiant suite à des travaux 
 pratiques en laboratoire, des exercices de cours, des séminaires, des excursions ou 
 des stages pratiques. 
@@ -307,11 +283,9 @@ toute violation de ces consignes sera dénoncée au Conseil de discipline de l'U
  4. L'admission aux examens de la branche correspondante (s’ils sont prévus) est 
 subordonnée à l'obtention préalable du certificat. Exceptionnellem ent, le président 
 de Section peut autoriser un étudiant à se présenter aux examens sous réserve de 
-la production du certificat au semestre suivant. A défaut de présentation du certificat en temps utile, l’étudiant est considéré comme ayant échoué à l’examen pour lequel il était inscrit. 
- 
-(Art\.|Article)Art.
+la production du certificat au semestre suivant. A défaut de présentation du certificat en temps utile, l’étudiant est considéré comme ayant échoué à l’examen pour lequel il était inscrit.
 ****************************************************************************************************
-Art.(Art\.|Article) 17 – Travail de fin d'études de master  (maîtrise universitaire) ou de master of 
+17 – Travail de fin d'études de master  (maîtrise universitaire) ou de master of 
 advanced studies 
 1. Le travail de fin d'études de master  (maîtrise universitaire) ou de master  of 
 advanced studies  (MAS) est dirigé par un membre du corps professoral ou un 
@@ -324,11 +298,9 @@ docteur en accord avec le responsable de la filière concernée.
 préavis du directeur du travail, une prolongation du délai. 
  3. Le travail de fin d'études de master  (maîtrise universitaire) ou de master  of 
 advanced studies  est assimilé à un exam en écrit. Il peut être présenté deux fois au 
-maximum.  
- 
-(Art\.|Article)Art.
+maximum.
 ****************************************************************************************************
-Art.(Art\.|Article) 18 – Fraude et Plagiat  
+18 – Fraude et Plagiat  
 1. Toute fraude, plagiat, tentative de fraude ou de plagiat correspond à un échec à 
 l’évaluation concernée. 
  2. En outre, le Collège des professeurs de la Section concernée peut annuler tous les examens subis par l’étudiant lors de la session ; l’annulation de la session entraîne 
@@ -342,11 +314,9 @@ d'envisager une procédure disciplinaire ; (ii) en tous les cas, lorsque l'éche
 l'évaluation concernée est définitif et qu'il entraîne l'élimination de l'étudiant 
 concerné du titre brigué. 
  
-5. Le président du collège des professeurs de la Section, pour le dit collège, respectivement, le Décanat doit avoir entendu l’étudiant préalablement et ce dernier a le droit de consulter son dossier. 
- 
-(Art\.|Article)Art.
+5. Le président du collège des professeurs de la Section, pour le dit collège, respectivement, le Décanat doit avoir entendu l’étudiant préalablement et ce dernier a le droit de consulter son dossier.
 ****************************************************************************************************
-Art.(Art\.|Article) 19 – Elimination 
+19 – Elimination 
 1. Est éliminé du titre brigué l'étudiant qui  :  
 a) a répété sans succès l'année propédeutique; 
 b) ne peut plus répéter l’évaluation d’un enseignement des études de base, d’un certificat complémentaire, d’un certificat de spécialisation, d’un complément de bachelor  ou du master of advanced studies  (MAS- maîtrise universitaire 
@@ -360,17 +330,17 @@ e) n'a pas obtenu le titre brigué dans le délai d'études suivant :
 - pour les titres  en   90 crédits ECTS : 6 semestres  
 - pour les titres  en 120 crédits ECTS : 8 semestres  
 - pour les titres  en 180 crédits ECTS : 10 semestres. 
- 2. En cas d’obtention d’équivalences, les délais pour l’obtention du titre sont fonction des crédits effectifs à acquérir; l’élimination intervient lors du dépassement des délais cités à l’(Art\.|Article)Art.(Art\.|Article) 19. al. 1e. 
+ 2. En cas d’obtention d’équivalences, les délais pour l’obtention du titre sont fonction des crédits effectifs à acquérir; l’élimination intervient lors du dépassement des délais cités à l’Art\. 19. al. 1e. 
  3. En cas d’études à temps partiel, les délais fixés aux lettres c) et d) de l’alinéa 1 ci -
 dessus sont ceux qui ont été communiqués par écrit, par le doyen ou par délégation 
-par le vice- doyen en charge des étudiants, à l’étudiant concerné selon l’(Art\.|Article)Art.(Art\.|Article) 6 al. 5. 
+par le vice- doyen en charge des étudiants, à l’étudiant concerné selon l’Art\. 6 al. 5. 
  
 4. Sont réservés les cas de fraude, plagiat, tentative de fraude ou de plagiat. 
  5. Les éliminations sont prononcées par le doyen. 
  6. Sont réservées les dispositions particulières des règlements relatifs aux certificats complémentaires, aux certificats de spécialisation, aux masters of advanced s tudies  
 (MAS) et aux titres de formation continue.
 ****************************************************************************************************
-Art.(Art\.|Article) 20 – Procédures d’oppositions et de recours  
+20 – Procédures d’oppositions et de recours  
 1. Toute décision prise en application du présent règlement d’études peut faire l’objet 
 dans le délai de 30 jours dès le lendemain de sa notification d’une opposition 
 auprès de l’organe qui l’a rendue. 
@@ -382,33 +352,32 @@ auprès de l’organe qui l’a rendue.
 de justice peut être interjeté contre la décision sur opposition qui sera rendue en 
 première instance dans le délai de 30 jours qui suit le lendemain de sa notification. 
  
-(Art\.|Article)Art.(Art\.|Article) 21 – Diplômes fédéraux, conventions internationales, intercantonales et 
+Art\. 21 – Diplômes fédéraux, conventions internationales, intercantonales et 
 interuniversitaires. 
 Sont réservées toutes les dispositions relatives  :  
 a) aux diplômes fédéraux et, par extension, aux diplômes universitaires correspondants; 
 b) aux conventions intercantonales, internationales et interuniversitaires, en particulier celles concernant la mobilité des étudiants. 
  
-(Art\.|Article)Art.(Art\.|Article) 22 – Reprise des études au sein de la Faculté des sciences 
+Art\. 22 – Reprise des études au sein de la Faculté des sciences 
 Un étudiant qui a interrompu ses études au sein de la Faculté des sciences sans  avoir 
 été en situation d'élimination peut reprendre ses études à une date ultérieure. Il doit 
 cependant se conformer au règlement en vigueur au moment de la reprise de ses études. Le doyen de la Faculté ou, par délégation, le vice- doyen en charge des 
 étudiants, appréciera par voie d'équivalence les résultats acquis précédemment et peut 
-soumettre l’admission à des conditions.  
-(Art\.|Article)Art.
+soumettre l’admission à des conditions.
 ****************************************************************************************************
-Art.(Art\.|Article) 23 – Participation aux programmes de mobilité  
+23 – Participation aux programmes de mobilité  
 L’étudiant peut participer à un échange national ou international durant un ou deux 
 semestres choisis après la réussite de l'année propédeutique.  Au préal able, l’étudiant doit réussir l’ensemble du programme de l’année précédente. 
  La mobilité d’un étudiant fait l’objet d’un contrat d’études.  Le programme d’études, fixé d’entente entre la Section concernée et l’institution d’accueil, est sanctionné par des  évaluations organisées selon les critères de 
 l’institution d’accueil. La Section concernée attribue des crédits ECTS à chaque unité d’enseignement réussie dans l’institution d’accueil.  Conformément au contrat d'études, les crédits obtenus auprès de l’ins titution d’accueil 
 sont transcrits dans le système de la Faculté des sciences qui en informe l’étudiant.  Seuls les crédits réussis et acquis dans le cadre d'un contrat d'études signé avant le séjour seront pris en considération. 
  
-(Art\.|Article)Art.(Art\.|Article) 24 – Entrée en vigue ur et dispositions transitoires 
+Art\. 24 – Entrée en vigue ur et dispositions transitoires 
 1. Le présent règlement entre en vigueur avec effet au 17 septembre 2018 et abroge 
 celui du 18 septembre 2017. 
  2. Il s’applique dès son entrée en vigueur à tous les étudiants, sous réserve des 
 alinéas 3 et 4 ci -dessous. 
  
-3. Les étudiants ayant commencé leurs études avant le 15 septembre 2014 restent soumis à l’ancienne teneur de l’(Art\.|Article)Article(Art\.|Article) 4 al. 4 et de l’(Art\.|Article)Article(Art\.|Article) 4 al 5. du règlement d’études du 16 septembre 2013. 
- 4. Les étudiants dont les équivalences ont été accordées avant le 17 septembre 2018 ne sont pas soumis à l’(Art\.|Article)Article(Art\.|Article) 4 al. 8, 9, 10 et 11.
+3. Les étudiants ayant commencé leurs études avant le 15 septembre 2014 restent soumis à l’ancienne teneur de l’Article 4 al. 4 et de l’Article 4 al 5. du règlement d’études du 16 septembre 2013. 
+ 4. Les étudiants dont les équivalences ont été accordées avant le 17 septembre 2018 ne sont pas soumis à l’Article 4 al. 8, 9, 10 et 11.
 ****************************************************************************************************

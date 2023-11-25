@@ -24,6 +24,7 @@ class DocumentUnige:
 
     def get_langchain_docs(self):
         lang_docs = text_splitter.create_documents([self.get_text()])
+        lang_docs = [doc for doc in lang_docs if len(doc.page_content) < 4000]
         for doc in lang_docs:
             doc.metadata["title"] = self.title
             doc.metadata["url"] = self.url
