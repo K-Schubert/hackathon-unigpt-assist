@@ -26,9 +26,5 @@ resource "azurerm_container_group" "server" {
     ports {
       port = 80
     }
-
-    ports {
-      port = 443
-    }
   }
 }

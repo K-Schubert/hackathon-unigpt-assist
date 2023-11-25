@@ -9,6 +9,7 @@ COPY rag rag
 COPY unigpt unigpt
 COPY chatbot chatbot
 COPY templates templates
+COPY server.py server.py
 COPY manage.py manage.py
 
-ENTRYPOINT ["python3", "manage.py", "runserver", "80"]
+ENTRYPOINT ["python3", "manage.py", "runserver", "0.0.0.0:80"]
