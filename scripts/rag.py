@@ -134,7 +134,7 @@ def update_retriever(label, qa):
 
     return qa
 
-def init_retrievalqa_chain(query):
+def init_retrievalqa_chain():
 
     init_pinecone()
     retriever_reglement, retriever_cours = init_retriever(k=5)
@@ -218,10 +218,16 @@ def isolate_sources(source_docs, answer):
 
     relevant_sources = set([source_docs[i].metadata["url"] for i in doc_ids])
 
+    if len(relevant_sources) > 1:
+        relevant_sources = "\n- ".join([x for x in relevant_sources])
+    else:
+        relevant_sources = list(relevant_sources)[0]
+
     return relevant_sources
 
-def run_query(qa, query, session_id = None):
+def run_query(qa, query, labels, session_id=None):
 
+    # init conversation memory
     if session_id is None:
         session_id = uuid.uuid4()
         current_chat_history = ConversationBufferWindowMemory(
@@ -231,17 +237,39 @@ def run_query(qa, query, session_id = None):
         return_messages=True
     )
         chat_history_map[session_id] = current_chat_history
+    
+    # if session_id already exists, retrieve chat history
     else:
         current_chat_history = chat_history_map[session_id]
-    
-    res = qa({"query": query, 
-              "chat_history": current_chat_history})
+
+    if len(labels) >= 2:
+        # if query is not related to the same topic as the previous query, update retriever
+        if labels[-1] != labels[-2]:
+            qa = update_retriever(labels[-1], qa)
+            print(">>> Retriever updated")
+
+            res = qa({"query": query, 
+                     "chat_history": current_chat_history})
+
+        # else, run query with same retriever
+        else:
+            res = qa({"query": query, 
+                     "chat_history": current_chat_history})
+
+    else:
+        qa = update_retriever(labels[-1], qa)
+
+        res = qa({"query": query, 
+                  "chat_history": current_chat_history})
+
+    # update chat history
     chat_history_map[session_id] = qa.combine_documents_chain.memory
 
+    # isolate relevant sources
     relevant_sources = isolate_sources(res["source_documents"], res["result"])
 
     return {
-        "answer": res["result"],
+        "answer": res["result"] + "\n\n" + "Source documents:\n- " + relevant_sources,
         #"source_documents": res["source_documents"],
         "source_documents": relevant_sources,
         "session_id" : session_id
@@ -251,36 +279,17 @@ if __name__ == "__main__":
 
     session_id = None
 
+    qa = init_retrievalqa_chain()
+
     labels = []
     while True:
       
         query = input('>')
 
-        qa = init_retrievalqa_chain(query)
-
         # classify query into reglement or cours for vectorstore routing
         labels.append(llm_routing(query))
+        
+        # run query
+        res = run_query(qa, query, labels, session_id)
 
-        if len(labels) >= 2:
-            # if query is not related to the same topic as the previous query, update retriever
-            if labels[-1] != labels[-2]:
-                qa = update_retriever(labels[-1], qa)
-                print(">>> RetrievalQA chain updated")
-                res = run_query(qa, query, session_id)
-                print(res["answer"])
-                print("----")
-                print(res["source_documents"])
-            # else, run query with same retriever
-            else:
-                res = run_query(qa, query, session_id)
-                print(res["answer"])
-                print("----")
-                print(res["source_documents"])
-
-        else:
-            label = llm_routing(query)
-            qa = update_retriever(label, qa)
-            res = run_query(qa, query, session_id)
-            print(res["answer"])
-            print("----")
-            print(res["source_documents"])
+        print(res["answer"])
