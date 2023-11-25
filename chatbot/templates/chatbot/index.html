@@ -71,53 +71,53 @@
         </div>-->
         <div class="column is-10">
 
-            <section class="section">
-                <div class="container">
-                    <div class="columns is-multiline">
-                        <div class="column">
-                            <div class="box">
-                                <div class="content">
-                                    {% if not messages %}
-                                    <div class="media">
-                                        <figure class="media-left bot-icon">
-                                            <p class="image is-48x48">
-                                                <img class="is-rounded" alt="" src={% static "chatbot/images/img.png" %} />
-                                            </p>
-                                        </figure>
-                                        <div class="message">
-                                            How can I help you?
-                                            <div>
-                                                <div class="buttons are-small" style="margin-top: 8px;">
-                                                    <button class="button is-rounded">Regulations</button>
-                                                    <button class="button is-rounded">Big problem</button>
-                                                </div>
+    <section class="section">
+        <div class="container">
+            <div class="columns is-multiline">
+                <div class="column">
+                    <div class="box">
+                        <div class="content">
+                            {% if not messages %}
+                                <div class="media">
+                                    <figure class="media-left bot-icon">
+                                        <p class="image is-48x48">
+                                            <img class="is-rounded" alt="" src={% static "chatbot/images/monkeyGPT.png" %}/>
+                                        </p>
+                                    </figure>
+                                    <div class="message">
+                                        How can I help you?
+                                        <div>
+                                            <div class="buttons are-small" style="margin-top: 8px;">
+                                                <button class="button is-rounded">Regulations</button>
+                                                <button class="button is-rounded">Big problem</button>
                                             </div>
                                         </div>
                                     </div>
-                                    {% else %}
-                                    {% for obj in messages %}
+                                </div>
+                            {% else %}
+                                {% for obj in messages %}
                                     {% if obj.question %}
-                                    <div class="media chat-right">
-                                        <div class="message chat-right">
-                                            {{ obj.question }}
+                                        <div class="media chat-right">
+                                            <div class="message chat-right">
+                                                {{ obj.question }}
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="media chat-left">
-                                        <figure class="media-left bot-icon">
-                                            <p class="image is-48x48">
-                                                <img class="is-rounded" alt="User icon" src={% static "chatbot/images/img.png" %} />
-                                            </p>
-                                        </figure>
-                                        {% if obj.answer %}
-                                        <div class="message">
-                                            {{ obj.answer }}
+                                        <div class="media chat-left">
+                                            <figure class="media-left bot-icon">
+                                                <p class="image is-48x48">
+                                                    <img class="is-rounded" alt="User icon" src={% static "chatbot/images/monkeyGPT.png" %}/>
+                                                </p>
+                                            </figure>
+                                            {% if obj.answer %}
+                                                <div class="message">
+                                                    {{ obj.answer }}
+                                                </div>
+                                            {% else %}
+                                                <div class="message">
+                                                    Waiting for answer...
+                                                </div>
+                                            {% endif %}
                                         </div>
-                                        {% else %}
-                                        <div class="message">
-                                            Waiting for answer...
-                                        </div>
-                                        {% endif %}
-                                    </div>
                                     {% endif %}
                                     {% endfor %}
                                     {% endif %}
