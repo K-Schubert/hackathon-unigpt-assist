@@ -11,7 +11,7 @@ COPY chatbot chatbot
 COPY templates templates
 COPY server.py server.py
 COPY manage.py manage.py
-COPY unigpt/.env .env
+COPY .env .env
 
 RUN python3 manage.py migrate
 
