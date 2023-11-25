@@ -1,6 +1,7 @@
 .DS_Store
 venv_unigpt/
-/.env
+/unigpt/.env
+.env
 /.idea/.gitignore
 /db.sqlite3
 rag/corpus
@@ -15,4 +16,4 @@ rag/notebooks/.ipynb_checkpoints
 /.idea/vcs.xml
 venv_unigpt
 .venv
-.env
+__pycache__
