@@ -53,7 +53,7 @@ class ChatBotFormView(FormView):
 
 		csrf_token = get_token(self.request)
 		response = requests.post(
-			url="http://localhost:8000/rag/",
+			url=f"http://localhost:{self.request.META['SERVER_PORT']}/rag/",
 			data={
 				"id_thread": self.id_thread,
 				"message": message,
