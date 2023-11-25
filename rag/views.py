@@ -23,10 +23,11 @@ class RagProcessMessageView(View):
 		labels.append(llm_routing(message))
 		result = run_query(qa, query=message, labels=labels, session_id=id_thread)
 		print(result)
+		print(result["source_documents"])
 
-		answer = result["answer"] + "\n\n" + "Source documents:\n- " + "\n- ".join(result["source_documents"] if result["source_documents"] else [])
+		answer = result["answer"] + "\n\n" + "Source documents:\n- " + result["source_documents"].strip()
 
 		return JsonResponse({
-			"answer": result["answer"],
+			"answer": answer,
 			"id_thread": str(result["session_id"]),
 		})

@@ -189,9 +189,10 @@ def init_retrievalqa_chain():
 
 def isolate_sources(source_docs, answer):
 	# init llm
-	llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY,
-	                 model="gpt-4-1106-preview",
-	                 temperature=0)
+	llm = ChatOpenAI(
+		openai_api_key=OPENAI_API_KEY,
+		model="gpt-4-1106-preview",
+		temperature=0)
 
 	template = """You will be presented with a list of retrieved source documents and an LLM generated answer. Your task is to determine which source documents contributed to the answer.
         
@@ -217,12 +218,14 @@ def isolate_sources(source_docs, answer):
 
 	doc_ids = parser.parse(res.content).doc_ids
 
-	relevant_sources = set([source_docs[i].metadata["url"] for i in doc_ids])
+	relevant_sources = list(set([source_docs[i].metadata["url"] for i in doc_ids]))
 
-	if len(relevant_sources) > 1:
-		relevant_sources = "\n- ".join([x for x in relevant_sources])
-	else:
-		relevant_sources = list(relevant_sources)[0] if len(relevant_sources) > 0 else ""
+	#
+	#
+	# if len(relevant_sources) > 1:
+	# 	relevant_sources = "\n- ".join([x for x in relevant_sources])
+	# else:
+	# 	relevant_sources = list(relevant_sources) if len(relevant_sources) > 0 else []
 
 	return relevant_sources
 
@@ -267,11 +270,14 @@ def run_query(qa, query, labels, session_id=None):
 
 	#  isolate relevant sources
 	relevant_sources = isolate_sources(res["source_documents"], res["result"])
-
+	if isinstance(relevant_sources, str):
+		relevant_sources = [relevant_sources]
+	if not relevant_sources:
+		relevant_sources = ["**No relevant sources found**"]
 	return {
 		"answer": res["result"],  # + "\n\n" + "Source documents:\n- " + relevant_sources,
 		# "source_documents": res["source_documents"],
-		"source_documents": relevant_sources,
+		"source_documents": "\n".join(relevant_sources),
 		"session_id": session_id
 	}
 
