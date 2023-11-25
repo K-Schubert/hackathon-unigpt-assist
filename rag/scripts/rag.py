@@ -94,19 +94,19 @@ def llm_routing(query):
 
 	#  ReAct prompt
 	template = """You will be presented with a user query in french. Your task is to classify the user query into one final category.
-        
-        Approach this task step by step, take your time and do not skip any steps.
 
-        1. Read the user query.
-        2. Determine whether the query is related to university regulation OR university courses.
-        - If the query is related to general university regulations or faculty regulations, assign a label of "reglement".
-        - If the query is related to course details (eg. question about a specific course, a timetable, a professor, the contents of a course, etc.), assign a label of "cours".
-        3. Output a response as JSON with keys as follows:
-            - "label": allowable values are ["reglement", "cours"]
-            - "comment": any suitable comment based on the classification you performed, if required.
+Approach this task step by step, take your time and do not skip any steps.
 
-        Input query: {query}
-    """
+1. Read the user query.
+2. Determine whether the query is related to university regulation OR university courses.
+- If the query is related to general university regulations or faculty regulations, assign a label of "reglement".
+- If the query is related to course details (eg. question about a specific course, a timetable, a professor, the contents of a course, etc.), assign a label of "cours".
+3. Output a response as JSON with keys as follows:
+	- "label": allowable values are ["reglement", "cours"]
+	- "comment": any suitable comment based on the classification you performed, if required.
+
+Input query: {query}"""
+
 	prompt_template = PromptTemplate(input_variables=["query"], template=template)
 
 	parser = PydanticOutputParser(pydantic_object=JSON_output)
@@ -130,7 +130,7 @@ def update_retriever(label, qa):
 		print(">>> Routing to cours DB")
 	else:
 		retriever = MergerRetriever(retrievers=[retriever_reglement, retriever_cours])
-		raise ValueError(">>> Routing failed")
+		print(">>> Routing failed")
 
 	qa.retriever = retriever
 
@@ -148,19 +148,18 @@ def init_retrievalqa_chain():
 	                 temperature=0)
 
 	# init prompt template
-	template = """
-        Vous êtes un assistant qui répond à des questions sur l'Université de Genève, basée en Suisse.
-        Utilisez les éléments de contexte et l'historique du chat suivants pour répondre aux questions. 
-        Votre réponse doit être liée à l'Université de Genève uniquement. Si la question ne figure pas dans le contexte ou l'historique du chat, répondez "Je suis désolé, je ne connais pas la réponse".
-        Les réponses doivent être détaillées mais concises et courtes.
-        Respirez profondément et travaillez étape par étape.
+	template = """Vous êtes un assistant qui répond à des questions sur l'Université de Genève, basée en Suisse.
+Utilisez les éléments de contexte et l'historique du chat suivants pour répondre aux questions.
+Votre réponse doit être liée à l'Université de Genève uniquement. Si la question ne figure pas dans le contexte ou l'historique du chat, répondez "Je suis désolé, je ne connais pas la réponse".
+Les réponses doivent être détaillées mais concises et courtes.
+Respirez profondément et travaillez étape par étape.
 
-        Historique: {chat_history}
-        
-        Context: {context}
+Historique: {chat_history}
 
-        Question: {question}
-        Answer: """
+Context: {context}
+
+Question: {question}
+Answer: """
 
 	prompt = PromptTemplate(input_variables=["context", "question"], template=template)
 
@@ -195,19 +194,18 @@ def isolate_sources(source_docs, answer):
 		temperature=0)
 
 	template = """You will be presented with a list of retrieved source documents and an LLM generated answer. Your task is to determine which source documents contributed to the answer.
-        
-        Approach this task step by step, take your time and do not skip any steps.
 
-        1. Read the generated LLM answer.
-        2. Read the source documents.
-        3. Determine which source documents in the list of source documents contributed to the answer.
-        4. Output a response as JSON with keys as follows:
-            - "doc_ids": allowable values are a list of integers (eg. [0, 1, 3])
+Approach this task step by step, take your time and do not skip any steps.
 
-        Input source documents: {source_docs}
+1. Read the generated LLM answer.
+2. Read the source documents.
+3. Determine which source documents in the list of source documents contributed to the answer.
+4. Output a response as JSON with keys as follows:
+	- "doc_ids": allowable values are a list of integers (eg. [0, 1, 3])
 
-        LLM generated answer: {answer}
-    """
+Input source documents: {source_docs}
+
+LLM generated answer: {answer}"""
 
 	prompt_template = PromptTemplate(input_variables=["source_docs", "answer"], template=template)
 
