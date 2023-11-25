@@ -22,13 +22,20 @@ class ChatBotFormView(FormView):
 	id_thread = None
 
 	def setup(self, request, *args, **kwargs):
+		global chat_history_map
+
 		super().setup(request, *args, **kwargs)
+		print(chat_history_map)
 		self.id_thread = str(kwargs.get('id_thread', None))
 		try:
 			if uuid.UUID(self.id_thread) not in chat_history_map:
 				self.id_thread = None
 		except:
 			self.id_thread = None
+
+		if self.id_thread is None:
+			self.request.session['messages'] = []
+			self.request.session['history'] = []
 
 	def get_context_data(self, **kwargs):
 		context = super().get_context_data(**kwargs)
@@ -63,6 +70,7 @@ class ChatBotFormView(FormView):
 		messages[-1]['answer'] = result['answer']
 
 		self.id_thread = str(result.get('id_thread', None))
+		print(self.id_thread)
 
 		self.request.session["history"] = self.request.session.get('history', list(str(key) for key in chat_history_map.keys()))
 		return super().form_valid(form)
