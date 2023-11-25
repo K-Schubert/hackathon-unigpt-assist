@@ -21,12 +21,17 @@
     <aside class="column is-2 is-narrow-mobile is-fullheight section">
         <p class="menu-label is-hidden-touch">History</p>
         <ul class="menu-list">
-            {% for hist in history %}
-                <li>
+            <li>
                 <a href="#" class="">
-                    <span class="icon"><i class="fa fa-home"></i></span> hist
+                    <span class="icon"><i class="fa fa-home"></i></span> History 1
                 </a>
             </li>
+            {% for hist in history %}
+                <li>
+                    <a href="#" class="">
+                        <span class="icon"><i class="fa fa-home"></i></span> hist
+                    </a>
+                </li>
             {% endfor %}
         </ul>
     </aside>
@@ -158,7 +163,7 @@
                 // Replace the content of 'how_can_i_help'
                 document.getElementById("how_can_i_help").innerHTML = '<div class="lds-ring"><div></div><div></div><div></div><div></div></div>';
             } else {
-                const newContent = '<div class="media chat-right"><div class="message chat-right" id="question">{{ form.message.value }}</div></div><div class="media chat-left"><figure class="media-left bot-icon"><p class="image is-48x48"><img class="is-rounded" alt="User icon" src={% static "chatbot/images/monkeyGPT.png" %}/></p></figure><div class="message"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div></div>';
+                const newContent = '<div class="media chat-right"><div class="message chat-right" id="question"> Your question </div></div><div class="media chat-left"><figure class="media-left bot-icon"><p class="image is-48x48"><img class="is-rounded" alt="User icon" src={% static "chatbot/images/monkeyGPT.png" %}/></p></figure><div class="message"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div></div>';
                 document.getElementById("content").insertAdjacentHTML('beforeend', newContent);
             }
         } catch (e) {
