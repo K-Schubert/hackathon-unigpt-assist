@@ -74,19 +74,19 @@ def init_retrievalqa_chain():
 	                 temperature=0)
 
 	# init prompt template
-	template = """
-        Vous êtes un assistant qui répond à des questions sur l'Université de Genève, basée en Suisse.
-        Utilisez les éléments de contexte et l'historique du chat suivants pour répondre aux questions. 
-        Votre réponse doit être liée à l'Université de Genève uniquement. Si la question ne figure pas dans le contexte ou l'historique du chat, répondez "Je suis désolé, je ne connais pas la réponse".
-        Les réponses doivent être détaillées mais concises et courtes.
-        Respirez profondément et travaillez étape par étape.
+	template = """Vous êtes un assistant qui répond à des questions sur l'Université de Genève, basée en Suisse.
+Utilisez les éléments de contexte et l'historique du chat suivants pour répondre aux questions.
+Votre réponse doit être liée à l'Université de Genève uniquement. Si la question ne figure pas dans le contexte ou l'historique du chat, répondez "Je suis désolé, je ne connais pas la réponse".
+Les réponses doivent être détaillées mais concises et courtes.
+Respirez profondément et travaillez étape par étape.
 
-        Historique: {chat_history}
-        
-        Context: {context}
+Historique: {chat_history}
 
-        Question: {question}
-        Answer: """
+Context: {context}
+
+Question: {question}
+
+Answer: """
 
 	prompt = PromptTemplate(input_variables=["context", "question"], template=template)
 
