@@ -9,8 +9,11 @@ https://docs.djangoproject.com/en/4.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
-
+from __future__ import absolute_import, unicode_literals
+import os
 from pathlib import Path
+
+from celery import Celery
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -27,6 +30,12 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 # Application definition
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'unigpt.settings')
+
+app = Celery('unigpt')
+app.config_from_object('django.conf:settings', namespace='CELERY')
+app.autodiscover_tasks()
 
 INSTALLED_APPS = [
 	'django.contrib.admin',
