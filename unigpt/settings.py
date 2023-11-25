@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure--(pui$&$j%@*)$g_)1o#vrq4r#1&730--pe1)3tyd7gy$%(epp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["unigpt-assist.westeurope.azurecontainer.io"]
 
 # Application definition
 

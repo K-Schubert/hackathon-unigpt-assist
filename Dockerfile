@@ -11,5 +11,6 @@ COPY chatbot chatbot
 COPY templates templates
 COPY server.py server.py
 COPY manage.py manage.py
+COPY .env .env
 
 ENTRYPOINT ["python3", "manage.py", "runserver", "0.0.0.0:80"]

@@ -25,6 +25,7 @@ build:docker:server:
   stage: build
   needs: []
   script:
+    - mv $DOCKER_ENV .env
     - /kaniko/executor
       --cache=true
       --context .
