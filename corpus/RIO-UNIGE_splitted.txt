@@ -22,10 +22,9 @@ le Rectorat de l ’Université de Genève arrête  :
 Titre I   Généralités  
  
  
-Chapitre I   En général  
- 
- 
-Art\. 1  Prin cipe 
+Chapitre I   En général
+****************************************************************************************************
+1  Prin cipe 
 1 En application de  l’article 43, alinéa 2  de la loi sur l’Université de Genève du 13 juin 
 2008 (LU) , l’Université met en place une procédure d’opposition interne à l’égard de 
 toute décision au sens de l’article 4 de la loi sur la procédure administra tive du 12 
@@ -51,27 +50,21 @@ universitaires  ;
 -  les personnes touchées par une décision dans le cadre des élections.  
 2 Les associations touchées par une décision  d’une autorité universitaire  et qui ont un 
 intérêt digne de protection à ce qu e cette décision soit modifiée ou annulée  par ladite 
-autorité  ont également qualité pour former opposition.  
- 
- 
-Art\. 3  Décisions  
+autorité  ont également qualité pour former opposition.
+****************************************************************************************************
+3  Décisions  
 1 Sont considérées comme décisions, au sens du présent règle ment, toutes les décisions 
 au sens de l’article 4  de la loi sur la procédure administrative du 12 septembre 1985 
 (LPA -RS E 5 10) rendues par une autorité universitaire dans un cas d'espèce.   
 2 Sont aussi considérées comme décisions , les décisions portant s ur l'appréciation des 
 examens, des épreuves ou de tout autre contrôle des connaissances dans la mesure où ils 
 sont une condition de l'obtention d'un titre universitaire aux termes des règlements 
-d'études applicables.  
- 
- 
-Art\. 4  Autorité compétente   
-L’autorité qui s tatue sur l’opposition est celle qui a rendu la décision litigieuse.
+d'études applicables.
 ****************************************************************************************************
 4  Autorité compétente   
-L’autorité qui s tatue sur l’opposition est celle qui a rendu la décision litigieuse.  
- 
- 
-Art\. 5  Exceptions  
+L’autorité qui s tatue sur l’opposition est celle qui a rendu la décision litigieuse.
+****************************************************************************************************
+5  Exceptions  
 Ne sont pas régis par le présent règlement interne : 
 a) les litiges entre un e autorité universitaire et une personne extérieure à l'Université de 
 Genève, sous réserve des lit iges concernant les candidats à l’admission à l’Université  ; 
@@ -108,10 +101,9 @@ associations
  
  
  
-Chapitre II   Conditions de recevabilité de l’opposition  
- 
- 
-Art\. 6  Délai d’opposition  
+Chapitre II   Conditions de recevabilité de l’opposition
+****************************************************************************************************
+6  Délai d’opposition  
 1 L'opposition doit être formée dans les 30 jours qui suiven t la notification de la décision 
 litigieuse, auprès de l’autorité qui l’a rend ue. 
 2 Le délai commence à courir le lendemain  de la notification de la décision, si celle -ci est  
@@ -131,10 +123,9 @@ d) la date et la signature de l'opposan t.
 3 A défaut du respect de ces prescriptions, l’opposition sera déclarée irrecevable.  
  
  
-Chapitre III   Effet suspensif  
- 
- 
-Art\. 8  Principe  
+Chapitre III   Effet suspensif
+****************************************************************************************************
+8  Principe  
 1 L'opposition faite en la forme ci -dessus, et dans le délai de l'article 6, suspend 
 l'exécution de la décision litigieuse.  
 2 L'autorité  dont la décision est susceptible d'opposition peut prévoir qu'une opposition 
@@ -146,25 +137,22 @@ l'exécution de la décision litigieuse.
  
  4  
  
-Chapitre IV   Consultation du dossier  
- 
- 
-Art\. 9  Principe  
+Chapitre IV   Consultation du dossier
+****************************************************************************************************
+9  Principe  
 1 Les parties sont admises à consulter les pièces du dossier sur lesquell es l'autorité a  
 fondé sa décision.  
 2 Si la consultation d'une pièce a été refusée à une partie, cette pièce ne peut être utilisée 
 contre elle.  
  
  
-Chapitre V   Retrait de l’opposition  
- 
- 
-Art\. 10  Principe  
+Chapitre V   Retrait de l’opposition
+****************************************************************************************************
+10  Principe  
 L'opposition peut être retirée en tout temps. Le retrait ne peut  être ni révocable ni 
-conditionnel.  
- 
- 
-Art\. 11  Forme du retrait  
+conditionnel.
+****************************************************************************************************
+11  Forme du retrait  
 1 Le retra it doit être notifié par écrit  à l'autorité  qui a rendu la décision litigieuse.  
 2 Il doit être daté et signé par l’opposant.  
  
@@ -193,30 +181,26 @@ motivée.
  
  
  
- 5 Chapitre VII   Pouvoir d’examen  
- 
- 
-Art\. 13  Principe  
+ 5 Chapitre VII   Pouvoir d’examen
+****************************************************************************************************
+13  Principe  
 1 L'autorité  qui a pris la décision litigieuse examine d'office les faits. Elle apprécie les 
 moyens de preuve des parties.  
 2 Elle statue sur l'opposition en appréciant librement les griefs soulevés par l'opposant.  
  
  
-Chapitre VI II  Décision sur opposition  
- 
- 
-Art\. 14    Principe  
+Chapitre VI II  Décision sur opposition
+****************************************************************************************************
+14    Principe  
 L'autorité qui statue sur l’op position peut, une fois saisie, maintenir, modifier ou 
-révoquer la décision litigieuse, en tout ou partie.  
- 
- 
-Art\. 15  Délai  
+révoquer la décision litigieuse, en tout ou partie.
+****************************************************************************************************
+15  Délai  
 1 L'autorité qui statue doit, en principe,  rendre sa décision dans les 30 jours dès la fin de 
 l'instruction.  
-2 Elle communique directement à l'opposant sa décision par lettre recommandée.  
- 
- 
-Art\. 16  Contenu et forme  
+2 Elle communique directement à l'opposant sa décision par lettre recommandée.
+****************************************************************************************************
+16  Contenu et forme  
 1 La décision sur opposition est motivée en fait et en droit.  
 2 Elle est signée et datée et indique la voie de recours ordinaire ouverte  aux parties ainsi 
 que le délai de recours.
@@ -243,10 +227,9 @@ auditeurs et en matière d’exonération des
 taxes universitaires  
  
  
-Chapitre IX  Conditions de recevabilité de l’opposition  
- 
- 
-Art\. 18      Délai d’opposition  
+Chapitre IX  Conditions de recevabilité de l’opposition
+****************************************************************************************************
+18      Délai d’opposition  
 1 L'opposition doit être formée dans les 30 jours qui suivent la notification de la décision 
 litigieuse, auprès de l’autorité qui l’a rendue.  
 2 Le délai commence à courir le lendemain  de la notification de la décision, si celle -ci est  
@@ -255,10 +238,9 @@ communiquée par écrit aux parties .
 connaissance, si la décision n'a pas été communiquée par écrit aux parties.  
 4 Le délai de 30 jours peut être suspendu dans l’hypothèse visée à l’article 24, alinéa 2 
 ci-après.  
-5 A défaut du respect  des délais précités, l’opposition sera déclarée irrecevable . 
- 
- 
-Art\. 19      Forme et contenu de l’opposition  
+5 A défaut du respect  des délais précités, l’opposition sera déclarée irrecevable .
+****************************************************************************************************
+19      Forme et contenu de l’opposition  
 1 L'opposition e st formée par écrit , adressée à l'autorité qui a pris la décision litigieuse.  
 2 L'opposition doit contenir :  
 a) le nom, le domicile et la d ésignation des parties;  
@@ -282,17 +264,15 @@ au sein de l’Université au moment où ils forment leur opposition .
  
  
  
- 7 Chapitre X  Effet suspensif  
- 
- 
-Art\. 21  En général  
+ 7 Chapitre X  Effet suspensif
+****************************************************************************************************
+21  En général  
 1 L'opposition faite en la forme ci -dessus, et dans le délai de l'article 18, suspend 
 l'exécution de la décision litigieuse.  
 2 L'autorité dont la décision est susceptible d'opposition peut prévoir qu'une opposition 
-éventuelle n'aura pas d'effet suspensif . 
- 
- 
-Art\. 22  En matière de contrôle des connaissances   
+éventuelle n'aura pas d'effet suspensif .
+****************************************************************************************************
+22  En matière de contrôle des connaissances   
 1 Jusqu'à ce que la décision sur opposition soit rendue, l'opposant peut, en règ le générale, 
 se présenter lors d'une session d'examens suivante.  
 2 Ainsi, l'opposant qui a échoué à une partie fractionnée de ses examens peut se présenter 
@@ -303,10 +283,9 @@ d’études applicable le lui permet; s'il réussit à cette dernière tentative
 d'opposition est révoquée d'office.  
 4 L'opposant qui a échoué à une série d'ex amens ne peut se présenter à une série 
 supérieure dans la mesure où l'accès à celle -ci est subordonné à la réussite de celle qui 
-fait l'objet de l'opposition conformément au règlement d’études applicable.  
- 
- 
-Art 22a  En matière d’élimination  
+fait l'objet de l'opposition conformément au règlement d’études applicable.
+****************************************************************************************************
+22a  En matière d’élimination  
 L’étudiant élimi né peut continuer sa formation universitaire au moins aussi longtemps  
 que l’opposition interne n’a pas été tranchée, à moins qu’un intérêt public prépondérant  
 ne s’y oppose.  
@@ -318,10 +297,9 @@ Chapitre XI  Consultation du dossier
 1 Les parties sont admises à  consulter les pièces du dossier sur lesquelles l'autorité  a 
 fondé sa décision.  
 2 Si la consultation d'une pièce a été refusée à une partie, cette pièce ne peut être utilisée 
-contre elle.  
- 
- 
-Art\. 24  En matière de contrôle des connaissances  
+contre elle.
+****************************************************************************************************
+24  En matière de contrôle des connaissances  
 1 En cas de contrôle écri t des connaissances, l'étudiant est admis à consulter son travail 
 d'examen.  
 2 Si le travail d'examen de l'étudiant n'est pas annoté, ce dernier peut demander 
@@ -332,15 +310,13 @@ l'étudiant qu'il peut consulter son travail annoté.
  
  
  8  
-Chapitre XII  Retrait de l’opposition  
- 
- 
-Art\. 25  Principe  
+Chapitre XII  Retrait de l’opposition
+****************************************************************************************************
+25  Principe  
 L'opposition peut être retirée en tout temps. Le retrait ne peut être ni révocable ni 
-conditionnel.  
- 
- 
-Art\. 26  Forme du retrait  
+conditionnel.
+****************************************************************************************************
+26  Forme du retrait  
 1 Le retrait doit être notifié par écrit à l'autorité qui a rendu la décision litigieuse.  
 2 Il doit être daté et signé par l’opposant.  
  
@@ -408,10 +384,9 @@ claire et motivée.
 a pris la décision litigieuse.  
  
  
-Chapitre XIV  Pouvoir d’examen  
- 
- 
-Art\. 30  En général  
+Chapitre XIV  Pouvoir d’examen
+****************************************************************************************************
+30  En général  
 1 L'autorité qui a pris la décision litigieuse examine d'office les faits. Elle apprécie les 
 moyens de preuve des parties.  
 2 Elle statue sur l'oppositi on en appréciant librement les griefs soulevés par l'opposant.
@@ -427,15 +402,13 @@ insoutenable ou qui choquerait le sens de l’équité.
  
  
  
- 10 Chapitre XV  Décision sur opposition  
- 
- 
-Art\. 32    Principe  
+ 10 Chapitre XV  Décision sur opposition
+****************************************************************************************************
+32    Principe  
 L'autorité qui statue sur l’opp osition peut, une fois saisie, maintenir, modifier ou 
-révoquer l a décision litigieuse, en tout ou partie.  
- 
- 
-Art\. 33  Délai  
+révoquer l a décision litigieuse, en tout ou partie.
+****************************************************************************************************
+33  Délai  
   Principe  
 1 L’autorité qui statue doit, en principe, rendre sa décision dans les 30 jours dès la fin de 
 l’instruction.  
@@ -446,10 +419,9 @@ les trois mois dès sa saisine .
 les circonstances particulières du cas l’exigent. Une telle prolongation est communiquée 
 par écrit avec l’indication des motifs à l’opposant avant l’expiration du premier délai.  
 4 Lorsque l’opposant obtient l’extension d’un délai qu’il a sollicité, le délai imparti à 
-l’autorité pour statuer en application de l’alinéa 1 est prolongé d’autant.  
- 
- 
-Art\. 34  Contenu  et forme  
+l’autorité pour statuer en application de l’alinéa 1 est prolongé d’autant.
+****************************************************************************************************
+34  Contenu  et forme  
 1 La décision sur opposition est motivée en fait et en droit.  
 2 Elle est signée et datée et indique la voie de recours ordinaire ouverte aux parties ainsi 
 que le délai de recours.
@@ -463,10 +435,9 @@ administrative du 12 septembre 1985 est applicable  (LPA -RS E 5 10) .
 TITRE IV   Recours et dispositions finales  
  
  
-Chapitre  XVI   Procédure de recours  
- 
- 
-Art\. 36  Principe  
+Chapitre  XVI   Procédure de recours
+****************************************************************************************************
+36  Principe  
 1 Toute décision sur opposition rendue en application du présent règlement interne peut 
 faire l’objet, dans les 30 jours suivant sa notification, d’un recours  devant la Chambre 
 administrative de la Cour de justice . 
@@ -476,8 +447,9 @@ RS E 5 10) .
  
  
  
- 11  
-Art\. 37  Droit applicable  
+ 11
+****************************************************************************************************
+37  Droit applicable  
 La loi sur la procédure administrative du 12 septembre 1985  (LPA -RS E 5 10)  est 
 applicable, notamment les articles 10, 86 et 87 ainsi que l' article 11 du règlement sur les 
 frais, émoluments et indemnités en procédure administrative du 30 juillet 1986 (RFPA -  
@@ -546,81 +518,110 @@ TABLE DES MATIERES
  
  
 TITRE I   GENERALITES  ................................ .............................  1 
-Chapitre I   En général  ................................ ................................ ................................ ..............  1 
-Art\. 1  Principe  ................................ ................................ ................................ .......................  1 
-Art\. 2  Qualité pour former opposition  ................................ ................................ ................  1 
-Art\. 3  Décisions  ................................ ................................ ................................ .....................  2 
-Art\. 4  Autorité compétente  ................................ ................................ ................................ .. 2
+Chapitre I   En général  ................................ ................................ ................................ ..............  1
 ****************************************************************************************************
-4  Autorité compétente  ................................ ................................ ................................ .. 2 
-Art\. 5  Excepti ons ................................ ................................ ................................ ..................  2 
+1  Principe  ................................ ................................ ................................ .......................  1
+****************************************************************************************************
+2  Qualité pour former opposition  ................................ ................................ ................  1
+****************************************************************************************************
+3  Décisions  ................................ ................................ ................................ .....................  2
+****************************************************************************************************
+4  Autorité compétente  ................................ ................................ ................................ .. 2
+****************************************************************************************************
+5  Excepti ons ................................ ................................ ................................ ..................  2 
 TITRE II  PROCEDURE D’OPPOSITI ON POUR LES MEMBRES 
 DES CORPS PROFESSORA L, DES COLLABORATRIC ES ET 
 COLLABORATEURS DE L’ ENSEIGNEMENT ET DE L A RECHERCHE 
 ET DU PERSONNEL ADMI NISTRATIF ET TECHNI QUE, LES 
 PERSONNES TOUCHEES P AR UNE DECISION DANS  LE CADRE DES 
 ELECTIONS ET LES ASS OCIATIONS  ................................ ..................  3 
-Chapitre II   Conditions de recevabilité de l’opposition  ................................ ......................  3 
-Art\. 6  Délai d’opposition  ................................ ................................ ................................ ...... 3 
-Art\. 7  Forme et contenu de l’opposition  ................................ ................................ .............  3 
-Chapitre III   Effet suspensif  ................................ ................................ ................................ ... 3 
-Art\. 8  Principe  ................................ ................................ ................................ .......................  3 
-Chapitre IV   Consultation du dossier  ................................ ................................ ....................  4 
-Art\. 9  Principe  ................................ ................................ ................................ .......................  4 
-Chapitre V   Retrait de l’opposition  ................................ ................................ ......................  4 
-Art\. 10  Principe  ................................ ................................ ................................ ...................  4
+Chapitre II   Conditions de recevabilité de l’opposition  ................................ ......................  3
 ****************************************************************************************************
-10  Principe  ................................ ................................ ................................ ...................  4 
-Art\. 11  Forme du retrait  ................................ ................................ ................................ .... 4 
-Chapitre VI   Instruction de l’opposition  ................................ ................................ ...............  4 
-Art\. 12  Principe  ................................ ................................ ................................ ...................  4 
-Chapitre VII   Pouvoir d’examen  ................................ ................................ .............................  5 
-Art\. 13  Principe  ................................ ................................ ................................ ...................  5 
-Chapitre VIII   Décision sur opposition  ................................ ................................ ....................  5 
-Art\. 14  Principe  ................................ ................................ ................................ ...................  5 
-Art\. 15  Délai  ................................ ................................ ................................ ........................  5 
-Art\. 16  Contenu et forme  ................................ ................................ ................................ ... 5 
-Art\. 17  Droit applicable ................................ ................................ ................................ ...... 5 
+6  Délai d’opposition  ................................ ................................ ................................ ...... 3
+****************************************************************************************************
+7  Forme et contenu de l’opposition  ................................ ................................ .............  3 
+Chapitre III   Effet suspensif  ................................ ................................ ................................ ... 3
+****************************************************************************************************
+8  Principe  ................................ ................................ ................................ .......................  3 
+Chapitre IV   Consultation du dossier  ................................ ................................ ....................  4
+****************************************************************************************************
+9  Principe  ................................ ................................ ................................ .......................  4 
+Chapitre V   Retrait de l’opposition  ................................ ................................ ......................  4
+****************************************************************************************************
+10  Principe  ................................ ................................ ................................ ...................  4
+****************************************************************************************************
+11  Forme du retrait  ................................ ................................ ................................ .... 4 
+Chapitre VI   Instruction de l’opposition  ................................ ................................ ...............  4
+****************************************************************************************************
+12  Principe  ................................ ................................ ................................ ...................  4 
+Chapitre VII   Pouvoir d’examen  ................................ ................................ .............................  5
+****************************************************************************************************
+13  Principe  ................................ ................................ ................................ ...................  5 
+Chapitre VIII   Décision sur opposition  ................................ ................................ ....................  5
+****************************************************************************************************
+14  Principe  ................................ ................................ ................................ ...................  5
+****************************************************************************************************
+15  Délai  ................................ ................................ ................................ ........................  5
+****************************************************************************************************
+16  Contenu et forme  ................................ ................................ ................................ ... 5
+****************************************************************************************************
+17  Droit applicable ................................ ................................ ................................ ...... 5 
 TITRE III  PROCEDURE D’OPPOSITI ON POUR LES CANDIDAT S 
 A L’ADMISSION A L’UN IVERSITE, LES ETUDIA NTS, LES AUDITEURS  
 ET EN MATIERE D’EXON ERATION DES TAXES UN IVERSITAIRES  .. 6 
  
- 13 Chapitre IX   Conditions de recevabilité de l’opposition  ................................ ......................  6 
-Art\. 18  Délai d’opposition  ................................ ................................ ................................ .. 6
+ 13 Chapitre IX   Conditions de recevabilité de l’opposition  ................................ ......................  6
 ****************************************************************************************************
-18  Délai d’opposition  ................................ ................................ ................................ .. 6 
-Art\. 19  Forme et contenu de l’opposition  ................................ ................................ .........  6 
-Art\. 20  Disposition particulière pour les étudiants  ................................ ..........................  6 
-Chapitre X   Effet suspensif  ................................ ................................ ................................ ... 7 
-Art\. 21  En général  ................................ ................................ ................................ ...............  7 
-Art\. 22  En matière de contrôl e des connaissances   ................................ ..........................  7 
-Art\. 22a  En matière d'élimination                    7  
-Chapitre XI   Consultation du dossier  ................................ ................................ ....................  7 
-Art\. 23  En général  ................................ ................................ ................................ ...............  7 
-Art\. 24  En matière de contrôle des connaissances  ................................ ...........................  7 
-Chapitre XII   Retrait de l’opposition  ................................ ................................ ......................  8 
-Art\. 25  Principe  ................................ ................................ ................................ ...................  8 
-Art\. 26  Forme du retrait  ................................ ................................ ................................ .... 8 
-Chapitre XIII   Instruction de l’opposition  ................................ ................................ ..............  8 
-Art\. 27  En général  ................................ ................................ ................................ ...............  8
+18  Délai d’opposition  ................................ ................................ ................................ .. 6
 ****************************************************************************************************
-27  En général  ................................ ................................ ................................ ...............  8 
-Art\. 28  Lors d’oppositions formées par les étudiants  ................................ ......................  8 
-Art\. 29  Lors d’oppositions en matière d’exonération des taxes universitaires  ..............  9 
-Chapitre XIV   Pouvoir d’examen  ................................ ................................ .............................  9 
-Art\. 30 En général  ................................ ................................ ................................ ...............  9 
-Art\. 31  En matière de contrôle des connaissances  ................................ ...........................  9 
-Chapitre XV   Décision sur opposition  ................................ ................................ ...................  10 
-Art\. 32  Principe  ................................ ................................ ................................ .................  10 
-Art\. 33  Délai  ................................ ................................ ................................ ......................  10 
-Art\. 34  Contenu et forme  ................................ ................................ ................................ . 10 
-Art\. 35  Droit applicable ................................ ................................ ................................ .... 10 
+19  Forme et contenu de l’opposition  ................................ ................................ .........  6
+****************************************************************************************************
+20  Disposition particulière pour les étudiants  ................................ ..........................  6 
+Chapitre X   Effet suspensif  ................................ ................................ ................................ ... 7
+****************************************************************************************************
+21  En général  ................................ ................................ ................................ ...............  7
+****************************************************************************************************
+22  En matière de contrôl e des connaissances   ................................ ..........................  7
+****************************************************************************************************
+22a  En matière d'élimination                    7  
+Chapitre XI   Consultation du dossier  ................................ ................................ ....................  7
+****************************************************************************************************
+23  En général  ................................ ................................ ................................ ...............  7
+****************************************************************************************************
+24  En matière de contrôle des connaissances  ................................ ...........................  7 
+Chapitre XII   Retrait de l’opposition  ................................ ................................ ......................  8
+****************************************************************************************************
+25  Principe  ................................ ................................ ................................ ...................  8
+****************************************************************************************************
+26  Forme du retrait  ................................ ................................ ................................ .... 8 
+Chapitre XIII   Instruction de l’opposition  ................................ ................................ ..............  8
+****************************************************************************************************
+27  En général  ................................ ................................ ................................ ...............  8
+****************************************************************************************************
+28  Lors d’oppositions formées par les étudiants  ................................ ......................  8
+****************************************************************************************************
+29  Lors d’oppositions en matière d’exonération des taxes universitaires  ..............  9 
+Chapitre XIV   Pouvoir d’examen  ................................ ................................ .............................  9
+****************************************************************************************************
+30 En général  ................................ ................................ ................................ ...............  9
+****************************************************************************************************
+31  En matière de contrôle des connaissances  ................................ ...........................  9 
+Chapitre XV   Décision sur opposition  ................................ ................................ ...................  10
+****************************************************************************************************
+32  Principe  ................................ ................................ ................................ .................  10
+****************************************************************************************************
+33  Délai  ................................ ................................ ................................ ......................  10
+****************************************************************************************************
+34  Contenu et forme  ................................ ................................ ................................ . 10
+****************************************************************************************************
+35  Droit applicable ................................ ................................ ................................ .... 10 
 TITRE IV   RECOURS ET DISPOSITI ONS FINALES  ...................  10 
-Chapitre XVI   Procédure de recours  ................................ ................................ ....................  10 
-Art\. 36  Principe  ................................ ................................ ................................ .................  10
+Chapitre XVI   Procédure de recours  ................................ ................................ ....................  10
 ****************************************************************************************************
-36  Principe  ................................ ................................ ................................ .................  10 
-Art\. 37  Droit applicable ................................ ................................ ................................ .... 11 
-Chapitre XVII   Dispositions finales et transitoires  ................................ ...............................  11 
-Art\. 38  Entrée en vigueur et champ d’application  ................................ .........................  11
+36  Principe  ................................ ................................ ................................ .................  10
+****************************************************************************************************
+37  Droit applicable ................................ ................................ ................................ .... 11 
+Chapitre XVII   Dispositions finales et transitoires  ................................ ...............................  11
+****************************************************************************************************
+38  Entrée en vigueur et champ d’application  ................................ .........................  11
 ****************************************************************************************************

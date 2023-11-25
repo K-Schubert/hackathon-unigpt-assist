@@ -14,23 +14,23 @@ le 14 mars 2011
 Le présent règlement est soumis à l'approbation du CONSEIL D’ETAT de la 
 République et canton de Genève. 
  
-Titre I Dispositions générales 
- 
-Art\. 1 Objet 
+Titre I Dispositions générales
+****************************************************************************************************
+1 Objet 
 1 Dans le cadre des dispositions fédérales et canton ales applicables aux 
 universités, le présent règlement fixe les principe s spécifiques à la gestion 
 financière de l’Université de Genève (ci-après l’Un iversité). 
 2 Les principes de gestion peuvent être précisés dan s des directives internes 
-élaborées par le rectorat.  
- 
-Art\. 2 Normes comptables applicables à l’Université  
+élaborées par le rectorat.
+****************************************************************************************************
+2 Normes comptables applicables à l’Université  
 1 L’Université est soumise aux normes comptables int ernationales pour le 
 secteur public, publiées par l’IPSAS Board, ainsi q u’aux dérogations édictées 
 par le Conseil d’Etat. 
 2 L’Université est tenue de se conformer aux modalit és d’application de ces 
-normes prévues par le Conseil d’Etat. 
- 
-Art\. 3 Ressources financières de l’Université 
+normes prévues par le Conseil d’Etat.
+****************************************************************************************************
+3 Ressources financières de l’Université 
 Les ressources financières de l’Université se compo sent de celles allouées par 
 les collectivités publiques (fonds provenant de l’E tat au sens de l’article 4) et 
  
@@ -49,9 +49,9 @@ provenant de prestations de service à des tiers dél ivrés par des
 collaborateurs rémunérés par le fonds Etat). 
 2 La part des subventions fédérales et des subventio ns intercantonales 
 revenant à l’Université lui sont intégralement vers ées par l’Etat de Genève. 
-Les charges liées à ces subventions fédérales sont assumées par l’Université. 
- 
-Art\. 5 Fonds provenant de l’extérieur 
+Les charges liées à ces subventions fédérales sont assumées par l’Université.
+****************************************************************************************************
+5 Fonds provenant de l’extérieur 
 Tous les fonds, publics ou privés, qui ne provienne nt pas du fonds Etat tel 
 que défini à l’article 4 du présent règlement sont considérés comme des fonds 
 provenant de l’extérieur. 
@@ -81,9 +81,9 @@ financement est assuré par le fonds Etat.
 2 Actualisé chaque année, le plan financier pluriann uel s’inscrit dans le 
 processus d’élaboration budgétaire. Il a pour objec tif d’accompagner le 
 budget annuel d’une vision financière à moyen terme . Son établissement suit 
-les mêmes règles que celles de l’élaboration du bud get annuel. 
- 
-Art\. 7 Etablissement du budget de l’Université 
+les mêmes règles que celles de l’élaboration du bud get annuel.
+****************************************************************************************************
+7 Etablissement du budget de l’Université 
 1 Le budget de fonctionnement est établi de manière d istincte du budget 
 d’investissement.  
 2 La documentation présentant le budget de l’Univers ité inclut le budget de 
@@ -116,10 +116,9 @@ de l’Université distinguant les postes de l’enseign ement et ceux du person
 administratif et technique. 
  
  
- - 4 - 
- 
- 
-Art\. 9 Gestion des fonds provenant de l’extérieur 
+ - 4 -
+****************************************************************************************************
+9 Gestion des fonds provenant de l’extérieur 
 1 Tout fonds provenant de l’extérieur est en princip e régi par des dispositions 
 d’affectation propres au bailleur (FNS, etc.) ou pa r les dispositions 
 contractuelles entre l’Université et le bailleur. 
@@ -128,9 +127,9 @@ l’alinéa 1 sont régis par une directive élaborée pa r le rectorat. La dire
 détermine les modalités d’utilisation de ces fonds.  
 3 Les fonds régis par la directive au sens de l’alin éa 2 qui ne sont pas utilisés 
 durant une période de trois ans (fonds « dormants » ) sont attribués par le 
-rectorat à la réserve pour fonds d’innovation et de  développement. 
- 
-Art\. 10 Etablissement des comptes de l’Université 
+rectorat à la réserve pour fonds d’innovation et de  développement.
+****************************************************************************************************
+10 Etablissement des comptes de l’Université 
 La comptabilité s’étend à l’ensemble des ressources  et des dépenses de 
 l’Université. Elle donne une situation claire, comp lète et véridique de la 
 gestion financière, du patrimoine et des dettes de l’Université. 
@@ -142,9 +141,9 @@ fonds Etat
 Lors de la clôture annuelle des comptes, il est pro cédé aux affectations 
 spécifiques (taxes d’étudiants, projets de la Confé dération à durée limitée 
 dans le temps, collaboration inter-universités ou a utre) du résultat du fonds 
-Etat. 
- 
-Art\. 12 Répartition du résultat annuel du fonds Eta t  
+Etat.
+****************************************************************************************************
+12 Répartition du résultat annuel du fonds Eta t  
 1 Le résultat annuel obtenu après affectations spéci fiques est réparti entre 
 l’Etat de Genève et l’Université selon les taux déf inis dans la convention 
 d’objectifs en vigueur.  
@@ -159,9 +158,9 @@ mentionnées dans la convention d’objectifs et sont déduites de la créance
  
  - 5 - 
 jusqu’à concurrence du solde disponible et de la ré serve «part de subvention 
-non dépensée». 
- 
-Art\. 13 Réserves spécifiques de l’Université 
+non dépensée».
+****************************************************************************************************
+13 Réserves spécifiques de l’Université 
 1 Conformément à l’article 24, alinéa 2 et 3 de la l oi sur l’université, du 13 
 juin 2008, l’Université crée une réserve intitulée « part de subvention non-
 dépensée » destinée à financer les éventuels défici ts d’exercice durant la 
@@ -178,9 +177,9 @@ développement
 incidence sur l’indemnité cantonale. Ces projets s’ inscrivent dans le cadre du 
 plan stratégique à long terme de l’Université. 
 2 Une directive du rectorat définit les conditions e t modalités de financement 
-de ces projets. 
- 
-Art\. 15 Responsabilité et compétence 
+de ces projets.
+****************************************************************************************************
+15 Responsabilité et compétence 
 1 Le rectorat est responsable de la gestion de la ré serve pour fonds 
 d’innovation et de développement et s’assure du res pect des dispositions 
 légales et réglementaires. 
@@ -195,14 +194,14 @@ examiner les demandes de crédit et décider de leur allocation.
  - 6 - 
 Titre IV Trésorerie et emprunts 
  
-Chapitre I Trésorerie 
- 
-Art\. 16 Périmètre de gestion de la trésorerie de l’ Université 
+Chapitre I Trésorerie
+****************************************************************************************************
+16 Périmètre de gestion de la trésorerie de l’ Université 
 L’Université distingue la gestion de deux trésoreri es : la trésorerie du fonds 
 Etat et la trésorerie des fonds provenant de l’exté rieur.  
-Elles sont régies chacune par des règles spécifique s. 
- 
-Art\. 17 Gestion de la trésorerie du fonds Etat  
+Elles sont régies chacune par des règles spécifique s.
+****************************************************************************************************
+17 Gestion de la trésorerie du fonds Etat  
 L’Université et l’Etat de Genève mettent en place u ne procédure 
 d’optimisation de la gestion de leur trésorerie sou s la forme d’une 
 participation à la centralisation des liquidités da ns le cadre d’une convention.
@@ -213,9 +212,9 @@ provenant de l’extérieur.
 2 Il est conseillé par un comité de surveillance de la gestion du portefeuille de 
 trésorerie de l’Université (ci-après, le comité). 
 3 La gestion des fonds provenant de l’extérieur peut  être confiée à des gérants 
-externes à l’institution à l’issue d’une procédure d’appel d’offres.  
- 
-Art\. 19 Comité de surveillance de la gestion du por tefeuille de 
+externes à l’institution à l’issue d’une procédure d’appel d’offres.
+****************************************************************************************************
+19 Comité de surveillance de la gestion du por tefeuille de 
 trésorerie de l’Université 
 1 Le comité est composé comme suit :  
 a) du recteur ; 
@@ -233,14 +232,15 @@ d’investissement.
  
  
  
- - 7 - 
-Art\. 20 Affectations des revenus de la gestion de l a trésorerie 
+ - 7 -
+****************************************************************************************************
+20 Affectations des revenus de la gestion de l a trésorerie 
 Le rectorat est compétent pour définir chaque année  les modalités 
 d’affectation des revenus de la trésorerie des fond s provenant de l’extérieur. 
  
-Chapitre II Emprunts et garantie 
- 
-Art\. 21 Emprunts 
+Chapitre II Emprunts et garantie
+****************************************************************************************************
+21 Emprunts 
 1 L’Université peut contracter elle-même et en son n om des emprunts 
 destinés à acquérir des actifs. L’emprunt est limit é à un objet.  
 2 Elle peut solliciter, à titre consultatif, l’avis d’experts, notamment du 
@@ -254,9 +254,9 @@ alinéas suivants.
 3 En cas d’emprunt générant des charges de fonctionn ement imputables au 
 fonds Etat et nécessitant une augmentation de l’ind emnité cantonale, la loi 
 sur les indemnités et les aides financières du 15 d écembre 2005 est 
-applicable. 
- 
-Art\. 23 Garantie 
+applicable.
+****************************************************************************************************
+23 Garantie 
 L’Université peut solliciter la garantie de l’Etat pour ses emprunts, dans le 
 respect des dispositions légales applicables à l’Et at. 
  
@@ -264,9 +264,9 @@ Titre V Gestion des biens et des investissements
  
 Chapitre I Gestion des biens 
  
-Section I Gestion des biens mobiliers 
- 
-Art\. 24 Biens matériels 
+Section I Gestion des biens mobiliers
+****************************************************************************************************
+24 Biens matériels 
 1 Tout bien matériel acquis par l’Université doit êt re inventorié et contrôlé 
 périodiquement. 
 2 Les modalités et les seuils de l’inventaire et du contrôle sont fixés dans une 
@@ -274,8 +274,9 @@ directive du rectorat.
  
  
  
- - 8 - 
-Art\. 25 Biens immatériels 
+ - 8 -
+****************************************************************************************************
+25 Biens immatériels 
 1 Le statut précise les modalités de répartition au s ein de l’Université des 
 droits de propriété intellectuelle. L’Université re nd compte périodiquement 
 de cette répartition. 
@@ -307,9 +308,9 @@ est requis. La loi sur les indemnités et les aides financières, du 15 décembr
 2005, est au surplus applicable si cela doit entraî ner une augmentation de 
 l’indemnité cantonale. 
  
-Chapitre II Gestion des investissements 
- 
-Art\. 27 Crédit de programme 
+Chapitre II Gestion des investissements
+****************************************************************************************************
+27 Crédit de programme 
 1 L’Université peut recevoir une indemnité d’investi ssement sous la forme 
 d’un crédit de programme lorsque les dépenses résul tent : 
 a) du remplacement ou du renouvellement d’un objet déjà existant sans en 
@@ -330,26 +331,26 @@ d’un crédit d’ouvrage ou d’acquisition lorsque les dépenses ont pour but
 l’acquisition ou la construction d’actifs nouveaux (investissements 
 nouveaux). 
 2 Le crédit d’ouvrage ou d’acquisition porte sur un seul ou plusieurs objets 
-concourant au même objectif. 
- 
-Art\. 29 Gestion des crédits de programme et des cré dits d’ouvrage 
+concourant au même objectif.
+****************************************************************************************************
+29 Gestion des crédits de programme et des cré dits d’ouvrage 
 ou d’acquisition 
 1 Les projets financés par des crédits de programme ou des crédits d’ouvrage 
 ou d’acquisition sont suivis à l’aide de comptes sp écifiques de l’Université.  
 2 Le versement de l’indemnité d’investissement prévu e aux articles 28 et 29 
 s’effectue par l’intermédiaire de la Caisse central isée de l’Etat de Genève. 
  
-Titre VI Gestion des salaires 
- 
-Art\. 30 Administration et gestion des salaires 
+Titre VI Gestion des salaires
+****************************************************************************************************
+30 Administration et gestion des salaires 
 1 L’office du personnel de l’Etat de Genève administ re et gère les salaires des 
 membres du personnel rémunérés par des fonds proven ant du fonds Etat. 
 2 L’Université administre et gère les salaires des me mbres du personnel 
 rémunérés par des fonds provenant de l’extérieur. 
  
-Titre VII Dons et legs 
- 
-Art\. 31 Dons et legs 
+Titre VII Dons et legs
+****************************************************************************************************
+31 Dons et legs 
 1 Sous réserve de la compétence du Conseil d’Etat pré vue à l’art. 26 al. 5, le 
 rectorat fixe dans une directive les compétences et  conditions d’acception des 
 dons et legs. 
@@ -357,9 +358,9 @@ dons et legs.
  
  - 10 - 
  
-Titre VIII Prestations de tiers 
- 
-Art\. 32 Prestations financières de tiers 
+Titre VIII Prestations de tiers
+****************************************************************************************************
+32 Prestations financières de tiers 
 1 Les prestations financières de tiers versées aux me mbres du corps 
 enseignant ou du corps du personnel administratif e t technique, dans le cadre 
 de leurs activités universitaires, sont acquises à l’Université. 

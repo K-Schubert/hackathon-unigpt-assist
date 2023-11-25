@@ -4,10 +4,9 @@ DE LA FACULTE DES SCIENCES
   
 Dans les articles 1 à 24 du présent règlement général, il faut entendre « section ou 
 département directement rattaché à la Faculté » partout où il est fait mention de 
-« Section  ». 
- 
- 
-Art\. 1 – Objet  
+« Section  ».
+****************************************************************************************************
+1 – Objet  
 1. La Faculté des sciences prépare les étudiants à l'obtention de baccalauréats 
 universitaires  / bachelors , de maîtrises universitaires  / masters , de certificats 
 complémentaires, de certificats de spécialisation, de maîtrises universitaires d’études avancées  / masters  of advanced studies (MAS), de doctorats, ou de 
@@ -174,9 +173,9 @@ formation continue sont acquis lorsqu’un étudiant a obtenu la note suffisante
 été sanctionnées par une note au moins égale à 4 ou par l'obtention d'un certificat. 
  
 3. Lorsqu'un plan d'études prévoit l’acquisition de crédits ECTS par le biais de cours choisis par l’étudiant (i. e. à option, libres, à choix, à choix restreint, avancés, etc.), en cas d'échec à l’évaluation, l’étudiant peut, soit refaire une fois l’examen, soit 
-choisir un autre cours. Toutefois, dans ce cas, l’étudiant n’a plus qu’une tentative pour valider le nouveau cours. 
- 
-Art\. 10 – Evaluations de l'année propédeutique : principes et périodes  
+choisir un autre cours. Toutefois, dans ce cas, l’étudiant n’a plus qu’une tentative pour valider le nouveau cours.
+****************************************************************************************************
+10 – Evaluations de l'année propédeutique : principes et périodes  
 1. L'année d'études propédeutique est sanctionnée par une série d'évaluations portant 
 sur les matières figurant au plan d'études, ainsi que dans le règlement d’études spécifique au titre délivré. 
  2. L'année d'études propédeutique ne peut être répétée qu'une seule fois. 
@@ -196,9 +195,9 @@ août/septembre.
  
 3. Un étudiant ne peut participer à un enseignement, ni s’inscrire à l’évaluation 
 correspondante, tant qu'i l ne dispose pas des pré- requis définis dans le plan 
-d'études. 
- 
-Art\. 12 – Inscription, retrait et défaut aux examens de l'année propédeutique 
+d'études.
+****************************************************************************************************
+12 – Inscription, retrait et défaut aux examens de l'année propédeutique 
 1. L’étudiant s’inscrit aux examens en ligne en respectant le délai fixé par le décanat. 
 Cette inscription est val idée par le secrétariat des étudiants. 
  
@@ -244,13 +243,12 @@ supérieure à 4 ;
 deux tentatives au maximum pour chaque évaluation qu’il doit refaire. 
  3. Le règlement d’études de chaque titre fixe les conditions de réussite des évaluations des examens des études de base, des certificats, des masters of advanced studies  (MAS) et des certificats/diplômes de formation continue. 
  4. Un étudiant inscrit en complément d’études (compléments de bachelor, plans libres, 
-etc.) est soumis uniquement à l’Art\. 8 al.3 du présent règl ement, soit l’obtention 
-d’une note au moins égale à 4 à chaque examen prévu dans son plan d’études.
+etc.) est soumis uniquement à l’
 ****************************************************************************************************
 8 al.3 du présent règl ement, soit l’obtention 
-d’une note au moins égale à 4 à chaque examen prévu dans son plan d’études.  
- 
-Art\. 15 – Contrôle continu 
+d’une note au moins égale à 4 à chaque examen prévu dans son plan d’études.
+****************************************************************************************************
+15 – Contrôle continu 
 1. Le responsable d’un enseignement peut prévoir un contrôle continu sous forme d'épreuves écrites ou orales. Il est facultatif. Il doit être annoncé aux étudiants au 
 début de l’enseignement.  
  
@@ -330,10 +328,14 @@ e) n'a pas obtenu le titre brigué dans le délai d'études suivant :
 - pour les titres  en   90 crédits ECTS : 6 semestres  
 - pour les titres  en 120 crédits ECTS : 8 semestres  
 - pour les titres  en 180 crédits ECTS : 10 semestres. 
- 2. En cas d’obtention d’équivalences, les délais pour l’obtention du titre sont fonction des crédits effectifs à acquérir; l’élimination intervient lors du dépassement des délais cités à l’Art\. 19. al. 1e. 
+ 2. En cas d’obtention d’équivalences, les délais pour l’obtention du titre sont fonction des crédits effectifs à acquérir; l’élimination intervient lors du dépassement des délais cités à l’
+****************************************************************************************************
+19. al. 1e. 
  3. En cas d’études à temps partiel, les délais fixés aux lettres c) et d) de l’alinéa 1 ci -
 dessus sont ceux qui ont été communiqués par écrit, par le doyen ou par délégation 
-par le vice- doyen en charge des étudiants, à l’étudiant concerné selon l’Art\. 6 al. 5. 
+par le vice- doyen en charge des étudiants, à l’étudiant concerné selon l’
+****************************************************************************************************
+6 al. 5. 
  
 4. Sont réservés les cas de fraude, plagiat, tentative de fraude ou de plagiat. 
  5. Les éliminations sont prononcées par le doyen. 
@@ -350,15 +352,15 @@ auprès de l’organe qui l’a rendue.
  10 
 3. Un recours devant la chambre administrative de la section administrative de la Cour 
 de justice peut être interjeté contre la décision sur opposition qui sera rendue en 
-première instance dans le délai de 30 jours qui suit le lendemain de sa notification. 
- 
-Art\. 21 – Diplômes fédéraux, conventions internationales, intercantonales et 
+première instance dans le délai de 30 jours qui suit le lendemain de sa notification.
+****************************************************************************************************
+21 – Diplômes fédéraux, conventions internationales, intercantonales et 
 interuniversitaires. 
 Sont réservées toutes les dispositions relatives  :  
 a) aux diplômes fédéraux et, par extension, aux diplômes universitaires correspondants; 
-b) aux conventions intercantonales, internationales et interuniversitaires, en particulier celles concernant la mobilité des étudiants. 
- 
-Art\. 22 – Reprise des études au sein de la Faculté des sciences 
+b) aux conventions intercantonales, internationales et interuniversitaires, en particulier celles concernant la mobilité des étudiants.
+****************************************************************************************************
+22 – Reprise des études au sein de la Faculté des sciences 
 Un étudiant qui a interrompu ses études au sein de la Faculté des sciences sans  avoir 
 été en situation d'élimination peut reprendre ses études à une date ultérieure. Il doit 
 cependant se conformer au règlement en vigueur au moment de la reprise de ses études. Le doyen de la Faculté ou, par délégation, le vice- doyen en charge des 
@@ -370,9 +372,9 @@ L’étudiant peut participer à un échange national ou international durant un
 semestres choisis après la réussite de l'année propédeutique.  Au préal able, l’étudiant doit réussir l’ensemble du programme de l’année précédente. 
  La mobilité d’un étudiant fait l’objet d’un contrat d’études.  Le programme d’études, fixé d’entente entre la Section concernée et l’institution d’accueil, est sanctionné par des  évaluations organisées selon les critères de 
 l’institution d’accueil. La Section concernée attribue des crédits ECTS à chaque unité d’enseignement réussie dans l’institution d’accueil.  Conformément au contrat d'études, les crédits obtenus auprès de l’ins titution d’accueil 
-sont transcrits dans le système de la Faculté des sciences qui en informe l’étudiant.  Seuls les crédits réussis et acquis dans le cadre d'un contrat d'études signé avant le séjour seront pris en considération. 
- 
-Art\. 24 – Entrée en vigue ur et dispositions transitoires 
+sont transcrits dans le système de la Faculté des sciences qui en informe l’étudiant.  Seuls les crédits réussis et acquis dans le cadre d'un contrat d'études signé avant le séjour seront pris en considération.
+****************************************************************************************************
+24 – Entrée en vigue ur et dispositions transitoires 
 1. Le présent règlement entre en vigueur avec effet au 17 septembre 2018 et abroge 
 celui du 18 septembre 2017. 
  2. Il s’applique dès son entrée en vigueur à tous les étudiants, sous réserve des 

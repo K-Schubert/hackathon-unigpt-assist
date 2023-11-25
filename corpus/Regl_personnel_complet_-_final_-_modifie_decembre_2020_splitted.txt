@@ -6,15 +6,15 @@ Entré en vigueur le 17 mars 2009
 Le CONSEIL D’ETAT de la République et canton de Genève, vu les articles 12, 13, 29, 40 et 45 de la loi sur l’Université, du 13 juin 2008 
 (ci-après : la loi); 
 vu la proposition du Rectorat de l'Université de Genève, approuve :   
-1e partie - Dispositions générales 
- 
-Art\. 1 Objet 
+1e partie - Dispositions générales
+****************************************************************************************************
+1 Objet 
 1 Le présent règlement régit les rapport s de service et de travail entre 
 l’Université de Genève (ci après : l’Université) et son personnel. 
 2 Le personnel de l’Université est comp osé des membres du corps enseignant 
-et du corps du personnel administratif et technique. 
- 
-Art\. 2 Structure du règlement 
+et du corps du personnel administratif et technique.
+****************************************************************************************************
+2 Structure du règlement 
 1 Les rapports de service et de travail entre l’Université et les membres du 
 corps enseignant sont régis par la deuxième partie du présent règlement. 
 2 Les rapports de service et de travail entre l’Université et les membres du 
@@ -117,14 +117,14 @@ e) prendre en considération, dans la mesure du possible et en tenant compte
 des impératifs des missions confiées  aux structures, les obligations 
 familiales des membres du corps enseignant en développant des moyens 
 permettant de mieux concilier vie familiale et vie professionnelle. L’aménagement et le contenu de la fonction peuvent tenir compte des 
-charges familiales. 
- 
-Art\. 7 Organisation du travail 
+charges familiales.
+****************************************************************************************************
+7 Organisation du travail 
 L’organisation du travail da ns l’Université doit être conçue de telle sorte 
 qu’elle assure des conditions de travail normales aux membres du corps 
-enseignant et leur permette de faire valoir leur personnalité, leurs aptitudes professionnelles et leurs facultés d’initiative.  
- 
-Art\. 8 Protection de la personnalité 
+enseignant et leur permette de faire valoir leur personnalité, leurs aptitudes professionnelles et leurs facultés d’initiative.
+****************************************************************************************************
+8 Protection de la personnalité 
 1 L’Université veille à la protection de la personnalité des membres du corps 
 enseignant et combat l’apparition ou  la persistance de comportements 
 constitutifs de harcèlement psychologique ou sexuel. 
@@ -137,9 +137,9 @@ articles 62 à 79.
 ****************************************************************************************************
 9 Egalité des chances 
 Le Rectorat prend des mesures, notamment d'ordre budgétaire, destinées à favoriser par l'octroi de bourses et par l'encouragement de la relève, une 
-représentation équilibrée des sexes. 
- 
-Art\. 10 Limite d’âge 
+représentation équilibrée des sexes.
+****************************************************************************************************
+10 Limite d’âge 
 1 La limite d'âge des membres du corps enseignant est fixée à 65 ans. Les 
 membres du corps enseignant qui ont atteint la limite d’âge peuvent rester 
 en fonction jusqu’à la fin de l’année universitaire durant laquelle ils/elles atteignent cette limite. 
@@ -169,9 +169,9 @@ humaines de l’Université.
 ainsi qu’à la division des ressources humaines de l’Université une 
 attestation d’aptitude, d’aptitude sous conditions ou d’inaptitude à occuper 
 la fonction. Il précise les contre-indications qui justifient son attestation. Le 
-secret médical est réservé. 
- 
-Art\. 12 Invalidité 
+secret médical est réservé.
+****************************************************************************************************
+12 Invalidité 
 1 L’autorité de nomination peut mettre fin aux rapports de service 
 lorsqu’un-e membre du corps enseignant n’est plus en mesure, pour des 
 raisons de santé ou d’invalidité, de remplir les devoirs de sa fonction. 
@@ -192,9 +192,9 @@ l’Université et à la Cité.
 activités accessoires ou extérieures ne doivent pas porter préjudice à 
 l’exercice de l’activité principale mentionnée à l’alinéa 1.  
 3 Un mandat à charge partielle d'un-e membre du corps professoral ne peut 
-excéder 75% d'une charge complète. 
- 
-Art\. 14 Entrée en fonction 
+excéder 75% d'une charge complète.
+****************************************************************************************************
+14 Entrée en fonction 
 1 Lorsqu'un engagement a lieu en cours d'année académique, mais avant le 31 
 janvier, la durée du mandat est calculée comme si l'engagement avait eu lieu 
 le 1er août de l’année précédente. A la fin du dernier mandat, l'activité de 
@@ -202,10 +202,9 @@ l'intéressé-e peut être prolongée pour lui permettre d'avoir une durée tota
 2 Lorsque l'engagement a lieu après le 31  janvier, il n'est pas tenu compte des 
 mois précédant le 1er a o ût  d e  l a  m ê m e  a n né e  po u r l e  c a l c ul  de  l a  d u ré e  d u 
 mandat. 
-3 Sont réservées les dispositions spécifiques décidées par le Rectorat. 
- 
- 
-Art\. 15 Cahiers des charges 
+3 Sont réservées les dispositions spécifiques décidées par le Rectorat.
+****************************************************************************************************
+15 Cahiers des charges 
 1 Les fonctions des membres du corps enseignant sont définies et décrites 
 dans un cahier des charges qui fixe notamment les charges et leur répartition, 
 les compétences et le taux d’activité. 
@@ -216,17 +215,17 @@ d’exercice de la fonction et au moins lors de chaque renouvellement.
 1 Les conditions de l’exercice d’un mandat électif à l’extérieur de l’Université 
 font l’objet d’un accord préalable entre le/la membre du corps enseignant et le Rectorat, d’entente avec le Décanat de l’UPER concernée. 
 2 Cet accord fixe, notamment, le temps de congé nécessaire et une éventuelle 
-réduction de traitement.  
- 
-Art\. 17 Responsabilités civile et pénale 
+réduction de traitement.
+****************************************************************************************************
+17 Responsabilités civile et pénale 
 1 La responsabilité pour actes illicites commis par un-e membre du corps 
 enseignant est régie par la loi sur la responsabilité de l’Etat et des communes, du 24 février 1989. 
 2 Indépendamment des sanctions disciplinaires qui peuvent leur être infligées, 
 les membres du corps enseignant qui enfreignent leurs devoirs de service 
 restent passibles des peines prévues par les dispositions pénales fédérales et 
-cantonales.  
- 
-Art\. 18 Dossier administratif 
+cantonales.
+****************************************************************************************************
+18 Dossier administratif 
 1 Tout-e membre du corps enseignant peut prendre connaissance de 
 l’ensemble des rapports administratifs le/la concernant. 
 2 Aucun document ne peut être utilisé contre un-e membre du corps 
@@ -262,25 +261,21 @@ structures concernées, dans la mesure des disponibilités.
 disposition des organisations syndicales, dans la mesure des disponibilités.  
  
  
-Chapitre II Devoirs des membres du corps enseignant 
- 
- 
-Art\. 20 Respect de l’intérêt de l’Université 
-Les membres du corps enseignant sont tenu-es au respect de l’intérêt de 
-l’Université et doivent s’abstenir de tout ce qui peut lui porter préjudice.
+Chapitre II Devoirs des membres du corps enseignant
 ****************************************************************************************************
 20 Respect de l’intérêt de l’Université 
 Les membres du corps enseignant sont tenu-es au respect de l’intérêt de 
-l’Université et doivent s’abstenir de tout ce qui peut lui porter préjudice. 
- 
-Art\. 21 Attitude générale 
+l’Université et doivent s’abstenir de tout ce qui peut lui porter préjudice.
+****************************************************************************************************
+21 Attitude générale 
 Les membres du corps enseignant doivent par leur attitude : 
 a) entretenir des relations dignes et correctes avec leurs supérieur-es, 
  leurs collègues et leurs subordonné-es ; permettre et faciliter la  collaboration entre ces personnes ;  
 b) établir des contacts empreints de compréhension et de tact avec les 
  étudiant-es et le public ; c) justifier et renforcer la considération et la confiance dont 
- l’Université et la communauté universitaire doivent être l’objet. 
- Art\. 22 Devoirs d’autorité 
+ l’Université et la communauté universitaire doivent être l’objet.
+****************************************************************************************************
+22 Devoirs d’autorité 
 Les membres du corps enseignant chargé-es de fonctions d’autorité sont tenus, en outre : 
 a) d’organiser le travail de leur structure et de leurs subordonné-es ; 
 b) de diriger leurs subordonné-es, d’en coordonner et contrôler 
@@ -289,9 +284,9 @@ c) de veiller à la réalisation des tâches incombant à leur structure ;
 d) d’assurer l’exécution ou la transmission des décisions qui leur sont  notifiées ; 
 e) d’informer leurs subordonné-es du fonctionnement de l’Université 
  et de la structure ; f) de veiller à la protection de la personnalité des membres du 
- personnel.  
- 
-Art\. 23 Exécution du travail 
+ personnel.
+****************************************************************************************************
+23 Exécution du travail 
 1 Les membres du corps enseignant doivent remplir tous les devoirs de leur 
 fonction consciencieusement et avec diligence. 
 2 Ils/elles doivent respecter leur hora ire de travail et assurer une présence 
@@ -345,14 +340,14 @@ assurances de l’Etat.
 3 La production d’un certificat médical peut être exigée. 
 4 Toute absence prévisible supérieure à 3 jours ouvrables doit être signalée le 
 plus tôt possible au/à la supérieur-e hiérarchique et des mesures de 
-remplacement doivent le cas échéant être prises. 
- 
-Art\. 27 Interdiction d’accepter des dons 
+remplacement doivent le cas échéant être prises.
+****************************************************************************************************
+27 Interdiction d’accepter des dons 
 Il est interdit aux membres du corps enseignant de solliciter, d'accepter ou de 
 se faire promettre pour elles et eux ou pour autrui, en raison de leur situation 
-officielle, des dons ou autres avantages qui pourraient compromettre l'indépendance nécessaire à l'accomplissement de leurs tâches.  
- 
-Art\. 28 Secret de fonction 
+officielle, des dons ou autres avantages qui pourraient compromettre l'indépendance nécessaire à l'accomplissement de leurs tâches.
+****************************************************************************************************
+28 Secret de fonction 
 1 Les membres du corps enseignant sont soumis-es au secret de fonction pour 
 toutes les informations dont ils/elles ont connaissance dans l'exercice de leurs 
 fonctions dans la mesure où la loi su r l'information du public et l'accès aux 
@@ -373,9 +368,9 @@ Chapitre III Durée du travail et horaire règlementaire
 29 Activité annuelle 
 L'Université assume ses tâches to ute l'année sans interruption. En 
 conséquence, les membres du co rps enseignant assument leurs 
-responsabilités scientifiques et administratives pendant toute l'année et se conforment au calendrier académique fixé. 
- 
-Art\. 30 Durée du travail et horaire règlementaire 
+responsabilités scientifiques et administratives pendant toute l'année et se conforment au calendrier académique fixé.
+****************************************************************************************************
+30 Durée du travail et horaire règlementaire 
 1 La durée de référence du travail po ur un plein-temps est celle prévue à 
 l’Etat de Genève, soit 40 heures par semaine. 
 2 Lorsque les prestations à fournir l’exigent impérativement, des activités 
@@ -383,9 +378,9 @@ peuvent être nécessaires le samedi, le dimanche, les jours fériés ou la nuit
 c’est-à-dire entre 19 h et 6 h. 
 3 L’horaire de travail, fixé dans le ca hier des charges si cela est nécessaire 
 pour l’exercice de la fonction, est réputé horaire réglementaire. 
-4 En principe, la durée du travail hebd omadaire est répartie sur la semaine. 
- 
-Art\. 31 Heures supplémentaires 
+4 En principe, la durée du travail hebd omadaire est répartie sur la semaine.
+****************************************************************************************************
+31 Heures supplémentaires 
 1 Lorsqu’en dépit d’une organisation rationnelle du travail et de l’exécution 
 ponctuelle de leur cahier des charges, les besoins d’une structure l’exigent, 
 les membres du corps enseignant peuvent être appelé-es à effectuer des heures supplémentaires. 
@@ -408,15 +403,15 @@ Section 1 Vacances
 3 L’exercice vacances correspond à l’année civile. 
 4 Les membres du corps enseignant qui n’ont été qu’une partie de l’année au 
 service de l’Université ont droit à de s vacances annuelle s proportionnelles à 
-la durée de leur activité. 
- 
-Art\. 33 Réductions 
+la durée de leur activité.
+****************************************************************************************************
+33 Réductions 
 1 Les absences non justifiées sont déduites des vacances. 
 2 En cas d’absence pour cause de service militaire, de service civil, de 
 maladie ou d’accident non professionnel, le droit aux vacances annuelles est réduit proportionnellement après 5 mois d’absence. Il s’éteint après une 
-année d’absence.  
- 
-Art\. 34 Périodes 
+année d’absence.
+****************************************************************************************************
+34 Périodes 
 1 Les vacances doivent être prises en dehors des périodes pendant lesquelles 
 l’enseignement ou les examens sont assurés. Les membres du corps 
 enseignant n’assumant pas de tâche d’enseignement pendant des périodes déterminées peuvent être autorisé-es par leur supérieur-e hiérarchique à 
@@ -446,17 +441,18 @@ un travail professionnel ré munéré pendant les vacances pour autant que le
 temps consacré au repos soit supérieur ou  égal à leur taux d’activité au sein 
 de l’Université.  
  
-Section 2 Congés 
- 
-Art\. 36 Principe 
+Section 2 Congés
+****************************************************************************************************
+36 Principe 
 1 Les congés ont pour but de libérer un-e membre du corps enseignant de ses 
 obligations professionnelles afin qu’il/e lle puisse se reposer ou satisfaire à 
 certains devoirs, tâches ou obligations professionnels ou non professionnels. 
 2 Si une cause de congé survient pendan t une période de vacances, le droit au 
 congé ne naît pas, sauf pour les congés officiels. Les causes de congé qui surviennent pendant une absence, notamment pour maladie, maternité, 
 accident, service militaire, service civil et protection civile, ne donnent pas 
-lieu à compensation.  
-Art\. 37 Congés officiels et autre congé 
+lieu à compensation.
+****************************************************************************************************
+37 Congés officiels et autre congé 
 1 Les jours de congés  officiels sont : 
 a) le 1er janvier ou le 2 janvier, si le 1er janvier tombe un dimanche ; 
 b) le Vendredi-Saint ;  
@@ -518,9 +514,9 @@ b) au-delà du sixième mois d’ activité, à vingt semaines.
 3 Dans tous les cas, les dispositions de la loi fédérale sur le travail en matière 
 d’occupation durant la maternité sont applicables. 
 4 L’adoption est traitée par analogie av ec la maternité pour autant qu’il 
-s’agisse de l’adoption d’enfants qui ne soient pas âgé-es de plus de dix ans. 
- 
-Art\. 40 Congé parental 
+s’agisse de l’adoption d’enfants qui ne soient pas âgé-es de plus de dix ans.
+****************************************************************************************************
+40 Congé parental 
 1 Un congé parental sans traitement, de 2 ans au maximum, par enfant, non 
 fractionnable, peut être accordé à la mère  après le congé maternité ou au père 
 après le congé paternité. Il se termine au  plus tard la veille de l’entrée en 
@@ -532,9 +528,9 @@ hiérarchique, sauf circonstan ce particulière justifiée. (4)
 4 A l’expiration du congé, la réintégration dans la fonction occupée 
 précédemment est garantie ; l’augmentatio n ordinaire du traitement par le jeu 
 des annuités est garantie de la même manière que pour les personnes en 
-activité. (4) 
- 
-Art\. 40A(5) Congé paternité supplémentaire 
+activité. (4)
+****************************************************************************************************
+40A(5) Congé paternité supplémentaire 
 Les membres du corps enseignant ont droit à un congé paternité de 10 jours 
 supplémentaire à celui prévu à l’article  38, alinéa 1, lettre c, mais sans 
 traitement.
@@ -605,8 +601,9 @@ nature concurrente sans l’accord du rectorat. (1)
 6 Les bénéficiaires de ce congé sont réputé-es démissionnaires à la fin de 
 celui-ci s’ils/elles ne reprennent pas leur fonction. (1) 
   
-Section 3 Assurances 
- Art\. 44 Assurance-accident 
+Section 3 Assurances
+****************************************************************************************************
+44 Assurance-accident 
 1 L’Etat de Genève pourvoit à l’assurance des membres du corps enseignant 
 rémunéré-es par des fonds provenant du budget de l’ Etat contre les accidents 
 professionnels et non professionnels, conformément aux dispositions de la loi 
@@ -629,9 +626,9 @@ la charge du/de la membre du corps enseignant.
  
  
  
-Section 4 Cumul des fonctions et des charges 
- 
-Art\. 46 Cumul des fonctions 
+Section 4 Cumul des fonctions et des charges
+****************************************************************************************************
+46 Cumul des fonctions 
 1 Un-e enseignant-e peut être nommé-e à plus d’une fonction dans le corps 
 enseignant.  
 2 Lorsque le cumul excède un engageme nt à charge complète, un-e maître 
@@ -643,9 +640,9 @@ en cumul sur une moyenne annuelle. (3)
 3 Un-e membre du personnel administratif et technique à plein temps peut 
 être autorisé-e par le Rectorat à ex ercer, le temps d’une suppléance, la 
 fonction de chargé-e de cours ou de chargé-e d’enseignement à un taux maximum de 20% en cumul sur une moyenne annuelle.
- (3) 
- 
-Art\. 47 Cumul des charges des membres du corps enseignant 
+ (3)
+****************************************************************************************************
+47 Cumul des charges des membres du corps enseignant 
 1 Un-e membre du corps enseignant à charge complète peut être nommé-e, 
 dans le cadre d’une activité accessoire,  dans une autre université ou haute 
 école pour un mandat ne dépassant pas 20% de son taux d’activité sur une 
@@ -671,9 +668,9 @@ conditions posées par l’employeur ou l’employeuse principal-e. (4)
 Rectorat lorsque l’activité exercée revêt une importance scientifique 
 particulière pour  l’Université. 
   
-Chapitre V Propriété intellectuelle  
- 
-Art 49 Cession des droits de propriété intellectuelle 
+Chapitre V Propriété intellectuelle
+****************************************************************************************************
+49 Cession des droits de propriété intellectuelle 
 1 Si l'Université décide de ne pas valoriser un bien immatériel, son ou ses 
 créateurs et créatrices peuvent demander  la cession des droits de propriété 
 intellectuelle pour autant qu’une telle cession n'entre pas en conflit avec des accords pris envers des tiers. 
@@ -691,9 +688,9 @@ recherche sont fixées par le statut de l’Université. (2)
 Chapitre VI Activités de service de l’Université, activités 
 accessoires, autres activités lucratives et activités extérieures 
  
-Section 1  Activités de service 
- 
-Art\. 51 Activités de service 
+Section 1  Activités de service
+****************************************************************************************************
+51 Activités de service 
 1 Dans le cadre de leurs activités, les membres du corps enseignant sont tenus 
 de participer aux activités de service de  l'Université prévues dans leur cahier 
 des charges. Sont considérées comme activités de service: 
@@ -707,9 +704,9 @@ l'Université.
  
  
 Section 2  Activités accessoires des membres du corps 
-enseignant à charge complète 
- 
-Art\. 52 Définition 
+enseignant à charge complète
+****************************************************************************************************
+52 Définition 
 1 Sont considérées comme accessoires les activités rémunérées exercées par 
 le/la membre du corps enseignant à charge complète, pour le compte d’un 
 tiers et en dehors de son cahier des charges. Elles sont en rapport avec son domaine d’enseignement et de recherche. 
@@ -740,10 +737,9 @@ pour l’utilisation de l’infrastructure univ ersitaire dans les délais doit 
 intérêt moratoire de 5 %. 
 8 En cas de non respect des principes énoncés dans le présent article, les 
 dispositions du chapitre IX relatives aux sanctions disciplinaires sont 
-applicables. 
- 
- 
-Art\. 54 Information 
+applicables.
+****************************************************************************************************
+54 Information 
 1 Le Rectorat peut en tout temps exiger du membre du corps enseignant des 
 informations complémentaires concernant l’exercice de ses activités 
 accessoires.  
@@ -754,8 +750,9 @@ L’Université a droit à une participation financière équitable au profit ti
 l’exploitation commerciale du résulta t d’une activité accessoire exercée par 
 le/la membre du corps enseignant. Le/la membre du corps enseignant 
 s’oblige à informer le Rectorat de toute valorisation du résultat de ses 
-activités accessoires.  
-Art\. 56 Clientèle privée des professeurs à la section de médecine 
+activités accessoires.
+****************************************************************************************************
+56 Clientèle privée des professeurs à la section de médecine 
 dentaire 
 1 Les membres du corps professoral de la section de médecine dentaire 
 peuvent être autorisé-es à traiter leurs patient-es privé-es dans les locaux de la 
@@ -765,17 +762,17 @@ fixées dans un règlement adopté par le Rectorat.
  
  
 Section 3  Autres activités lucratives des membres du 
-corps enseignant à charge complète 
- 
-Art\. 57 Conditions 
+corps enseignant à charge complète
+****************************************************************************************************
+57 Conditions 
 1 Sur proposition du Décanat de l’UPER c oncernée, le Rectorat peut autoriser 
 à titre exceptionnel un-e membre du co rps enseignant à charge complète à 
 exercer, pour son compte ou pour le co mpte d’un tiers, une activité lucrative 
 qui n’est pas en rapport avec son domaine d’enseignement et de recherche. 
 2 Cette activité ne doit pas porter préjudice à l’exercice des activités 
-institutionnelles du/de la membre du corps enseignant.  
- 
-Art\. 58 Information 
+institutionnelles du/de la membre du corps enseignant.
+****************************************************************************************************
+58 Information 
 1 Le Rectorat peut en tout temps exiger du/de la membre du corps enseignant 
 des informations complémentaires concernant l’exercice de ses autres 
 activités lucratives.  
@@ -805,8 +802,9 @@ pour l’utilisation de l’infrastructure univ ersitaire dans les délais doit 
 intérêt moratoire de 5 %. 
 6 En cas de non respect des principes énoncés dans le présent article, les 
 dispositions du chapitre IX relatives aux sanctions disciplinaires sont 
-applicables.  
-Art\. 60 Information 
+applicables.
+****************************************************************************************************
+60 Information 
 1 Le Rectorat peut en tout temps exiger du/de la membre du corps enseignant 
 des informations complémentaires concernant l’exercice de son activité extérieure.  
 2 Les prescriptions sur le secret professionnel sont réservées. 
@@ -817,15 +815,7 @@ des informations complémentaires concernant l’exercice de son activité exté
   
  
  
-Chapitre VII (3) 
- 
-Art\. 61  (3) 
- 
- 
-Chapitre VIII Procédures a pplicables en matière de 
-protection de la personnalité 
- 
-Section 1 Principes
+Chapitre VII (3)
 ****************************************************************************************************
 61  (3) 
  
@@ -833,17 +823,17 @@ Section 1 Principes
 Chapitre VIII Procédures a pplicables en matière de 
 protection de la personnalité 
  
-Section 1 Principes   
- 
-Art\. 62  Champ d’application 
+Section 1 Principes
+****************************************************************************************************
+62  Champ d’application 
 1 Le présent chapitre définit les règles applicables au processus de médiation 
 et à la procédure de plainte pour atteinte  ou suspicion d’atteinte aux droits de 
 la personnalité d’un-e membre du co rps enseignant, notamment en cas de 
 harcèlement psychologique ou de harcèlement sexuel.  
 2 Le dispositif de gestion des conflits est précisé dans une directive du 
-Rectorat qui peut être consultée sur l’intranet de l’Université. (3) 
- 
-Art\. 63 Définition du harcèlement psychologique et du harcèlement 
+Rectorat qui peut être consultée sur l’intranet de l’Université. (3)
+****************************************************************************************************
+63 Définition du harcèlement psychologique et du harcèlement 
 sexuel 
 1 Est constitutif d’un harcèlement psychologique tout enchaînement de propos 
 ou d’agissements hostiles, répétés fré quemment pendant une période assez 
@@ -864,9 +854,9 @@ part des faveurs de nature sexuelle.
  
   
  
-Section 2  Processus de médiation  
- 
-Art\. 64  Les médiateurs et médiatrices (5) 
+Section 2  Processus de médiation
+****************************************************************************************************
+64  Les médiateurs et médiatrices (5) 
 1 Le Rectorat établit une liste de personnes extérieures à l’Université 
 habilitées à fonctionner en qualité de mé diateur/trice dans le cadre de conflits 
 ou de situations relevant du présent règlement. 
@@ -883,9 +873,9 @@ Rectorat tout-e membre du corps enseignant, qui, dans sa relation de travail
 avec d’autres personnes, estime rencon trer d’importantes difficultés qui 
 pourraient notamment être constitutives de harcèlement psychologique ou de 
 harcèlement sexuel. 
-3 Le coût du processus de médiation est à la charge de l’Université. 
- 
-Art\. 66 Saisine du médiateur ou de la médiatrice 
+3 Le coût du processus de médiation est à la charge de l’Université.
+****************************************************************************************************
+66 Saisine du médiateur ou de la médiatrice 
 1 Le/la médiateur/trice entend la personne requérante, laquelle peut être 
 accompagnée d’une perso nne de son choix. 
 2 Il/elle l’informe et la conseille sur les moyens à sa disposition pour faire 
@@ -906,19 +896,19 @@ différents angles.
 3 Tant les parties que le/la médiateur/tr ice s’engagent à garder confidentiels 
 tous les éléments portés à leur conna issance au cours du processus de 
 médiation. Sauf accord exprès des par ties, ces éléments ne peuvent être 
-utilisés ultérieurement dans le cadre de procédures administratives ou judiciaires et le/la médiateur/trice ne peut y être cité-e en qualité de témoin. 
- 
-Art\. 67A
+utilisés ultérieurement dans le cadre de procédures administratives ou judiciaires et le/la médiateur/trice ne peut y être cité-e en qualité de témoin.
+****************************************************************************************************
+67A
 (3) Suspension  
 Le/la médiateur/trice peut suspendre s on action, selon les circonstances, en 
 cas d’ouverture d’une procédure civile, pénale ou administrative parallèle 
-portant sur des faits connexes.  
- 
-Art\. 67B(3)Accès aux documents  
+portant sur des faits connexes.
+****************************************************************************************************
+67B(3)Accès aux documents  
 Le médiateur ou la médiatrice a accès, à sa demande, à tous documents utiles 
-à son intervention.  
- 
-Art\. 68 Fin du processus de médiation  
+à son intervention.
+****************************************************************************************************
+68 Fin du processus de médiation  
 1 Le processus de médiation prend fin :  
 a) si la médiation aboutit et qu’un protocole d’accord est signé entre les 
 parties ;  
@@ -933,23 +923,19 @@ médiation et, d’entente avec elles, dé termine s’il y a lieu d’en inform
 hiérarchie et de quelle manière. 
  
  
-Section 3  Procédure d’investigation   
- 
-Art\. 69 But  
-La procédure d’investigation a pour but d’établir les faits et de déterminer si 
-les éléments constitutifs d’une atteinte aux droits de la personnalité sont 
-réalisés ou non.
+Section 3  Procédure d’investigation
 ****************************************************************************************************
 69 But  
 La procédure d’investigation a pour but d’établir les faits et de déterminer si 
 les éléments constitutifs d’une atteinte aux droits de la personnalité sont 
-réalisés ou non.   
-Art\. 69A 
+réalisés ou non.
+****************************************************************************************************
+69A 
 (5) Protection des plaignant-es et des témoins 
 Les plaignant-es et les témoins ne doivent pas subir de préjudice du fait de 
-leur démarche ou de leur témoignage. En cas de besoin, le Rectorat prend toute mesure provisionnelle nécessaire.  
- 
-Art\. 70 Demande d’investigation 
+leur démarche ou de leur témoignage. En cas de besoin, le Rectorat prend toute mesure provisionnelle nécessaire.
+****************************************************************************************************
+70 Demande d’investigation 
 1 Tout-e membre du corps enseignant qui s’estime victime d’une atteinte à la 
 personnalité peut demander l’ouverture d’une investigation. (5) 
 2 La demande s’effectue par le dépôt d’une plainte écrite, datée et signée, 
@@ -978,9 +964,9 @@ Rectorat peut confier cette enquête préliminaire à un-e enquêteur/trice
 externe. (5) 
 5 Le Rectorat conserve en tout temp s la faculté d’ordonner des mesures à 
 l’encontre de celui ou de celle qui aura dénoncé une personne sur la base de 
-faits qu’il savait manifestement non fondés. (3) 
- 
-Art\. 72 Saisine d’un enquêteur externe  
+faits qu’il savait manifestement non fondés. (3)
+****************************************************************************************************
+72 Saisine d’un enquêteur externe  
 1 S’il estime qu’une investigation doit êt re ouverte, le Rectorat mandate un 
 enquêteur ou une enquêtrice ex terne afin d’instruire la plainte et d’établir les 
 faits. 
@@ -1002,9 +988,9 @@ témoins, hors la présence des parties. (3)
 5  Il est tenu procès-verbal des auditions, signé par la personne entendue. (3) 
 6 L’enquêteur/trice peut ordonner d’autres mesures d’instruction. (3) 
 7 En principe, l’instruction de la plainte doit se dérouler dans un délai 
-n’excédant pas 60 jours. (3) 
- 
-Art\. 74 Défaut d’une partie ou d’un-e témoin  
+n’excédant pas 60 jours. (3)
+****************************************************************************************************
+74 Défaut d’une partie ou d’un-e témoin  
 1 Si la partie plaignante ne se présente pas à son audition, elle est réputée 
 renoncer à sa plainte, sauf empêchemen t majeur signifié et motivé au plus 
 tard 10 jours après la date prévue pour son audition.  
@@ -1012,9 +998,9 @@ tard 10 jours après la date prévue pour son audition.
 convocation. 
 3 S i  l a  p a r t i e  m i s e  e n  c a u s e  o u  un-e témoin ne se présente pas, 
 l’enquêteur/trice le signale immédiatem ent au Rectorat qui prend, le cas 
-échéant, les mesures adéquates. (3) 
- 
-Art\. 74A(3) Renonciation à la plainte  
+échéant, les mesures adéquates. (3)
+****************************************************************************************************
+74A(3) Renonciation à la plainte  
 1 Avant la fin de l’instruction au sens de l’article 75 al. 1, la personne 
 plaignante peut déclarer par écrit au Rectorat qu’elle renonce à sa plainte. 
 Cette renonciation est inconditionnelle. 
@@ -1030,11 +1016,11 @@ qu’elles jugent utiles. (3)
 complémentaire, l’enquêteur/trice décide de donner suite ou non aux mesures 
 d’instruction complémentaires requises. Sa décision est définitive. (3) 
 3 A l’issue de l’instruction complémentaire, l’enquêteur/trice octroie un 
-nouveau délai de 10 jours aux parties pour consulter le dossier. (3) 
- 
-Art\. 76 (3) 
- 
-Art\. 77 Détermination des parties et rapport  
+nouveau délai de 10 jours aux parties pour consulter le dossier. (3)
+****************************************************************************************************
+76 (3)
+****************************************************************************************************
+77 Détermination des parties et rapport  
 1 Une fois l’instruction terminée, l’enqu êteur/trice octroie un délai de 20 jours 
 aux parties pour lui faire part de leurs déterminations par écrit. (3) 
 2 Dans les 30 jours qui suivent la réce ption des déterminations des parties, 
@@ -1062,9 +1048,9 @@ le Rectorat peut prendre toute mesure disciplinaire utile. (3)
 est porté à la connaissance de la pe rsonne plaignante ou reconnue victime. (3) 
 5 La loi sur la responsabilité de l’Etat et des communes, du 24 février 1989, 
 de même que les procédures judiciaires engagées par la personne plaignante à l’égard de la personne mise en cause sont réservées.
- (3)  
- 
-Art\. 79 Contentieux 
+ (3)
+****************************************************************************************************
+79 Contentieux 
 1 Le/la plaignant-e peut former opposition à l’encontre de la décision de 
 classement rendue par le Rectorat en application de l’article 71, alinéa 3. 
 2 Les parties peuvent former opposition à l’encontre de la décision finale 
@@ -1132,9 +1118,9 @@ charge de l’Université.
 4 A l’issue de l’enquête administrative, il est veillé à ce que l’intéressé-e ne 
 subisse aucun préjudice réel autre que celui qui découle de la décision finale. 
 La révocation pour violation des devoirs de service ou de fonction peut 
-cependant agir rétroactivement au jour d'ouverture de l'enquête administrative. 
- 
-Art\. 83 Coordination avec d’autres procédures administrative, civile 
+cependant agir rétroactivement au jour d'ouverture de l'enquête administrative.
+****************************************************************************************************
+83 Coordination avec d’autres procédures administrative, civile 
 et pénale 
 1 Lorsque les faits reprochés à un-e membre du corps enseignant relèvent 
 également d’une autre autorité disciplinai re administrative, celle-ci est saisie 
@@ -1146,9 +1132,9 @@ pénale saisie.
  
  
  
-Chapitre X Contentieux  
- 
-Art\. 84 Opposition 
+Chapitre X Contentieux
+****************************************************************************************************
+84 Opposition 
 1 Tout-e membre du corps enseignant touché-e par une décision au sens de 
 l’article 4 de la loi sur la procédure administrative, du 12 septembre 1985, 
 rendue par l’Université et qui a un intérê t digne de protection à ce qu’elle soit 
@@ -1164,9 +1150,9 @@ administrative de la Cour de justice. (1)
 procédure administrative, du 12 septembre 1985. 
  
  Titre III Dispositions applicables aux membres du 
-corps professoral rémunéré-es par des fonds provenant du budget de l’Etat 
- 
-Art\. 86 Champ d’application 
+corps professoral rémunéré-es par des fonds provenant du budget de l’Etat
+****************************************************************************************************
+86 Champ d’application 
 1 Les dispositions du présent titre sont applicables aux membres du corps 
 professoral qui sont rémunéré-es par des fonds provenant du budget de l’Etat 
 de Genève. 
@@ -1175,9 +1161,9 @@ domaine de la médecine, pour les postes de professeur-e de l’UPER de
 médecine qui impliquent l’exercice simultané d’une fonction hospitalière 
 dans les Hôpitaux universitaires de Genève.   
  
-Chapitre I Statut des membres du corps professoral 
- 
-Art\. 87 Composition 
+Chapitre I Statut des membres du corps professoral
+****************************************************************************************************
+87 Composition 
 1 Les membres du corps professoral sont : 
 a) les professeur-es ordinaires ; b) les professeur-es associé-es ; 
 c) les professeur-es titulaires ; 
@@ -1185,9 +1171,9 @@ d) les professeur-es assistant-es ;
 e) les professeur-es invité-es ; 
 f) les suppléant-es aux fonctions listées aux lettres a, b et c. 
 2 Le titre de professeur-e honoraire peut être attribué dans les conditions 
-fixées à l’article 113. 
- 
-Art\. 88 Professeur-e ordinaire 
+fixées à l’article 113.
+****************************************************************************************************
+88 Professeur-e ordinaire 
 1 Le/la professeur-e ordinaire est responsable dans les domaines qui lui sont 
 attribués, au sein d'une subdivision, de l'enseignement et de la recherche et 
 des tâches de gestion et d'organisation qui y sont liées. 
@@ -1208,9 +1194,9 @@ nomination est renouvelable pour des périodes successives de 5 ans au
 maximum. 
 3 Il/elle exerce sa fonction à temps complet ou à temps partiel. Un mandat à 
 temps partiel ne peut pas excéder 75% d’un temps complet. (1) 
-4 La fonction de professeur-e associ é-e peut être exercée à titre bénévole. 
- 
-Art\. 90 Professeur-e titulaire 
+4 La fonction de professeur-e associ é-e peut être exercée à titre bénévole.
+****************************************************************************************************
+90 Professeur-e titulaire 
 1 Le/la professeur-e titulaire est une pe rsonnalité nommée par appel, au sein 
 d’une subdivision, pour y dispenser un enseignement et/ou participer à la 
 recherche. Il/elle exerce son activité principale en dehors de l'Université. 
@@ -1260,9 +1246,9 @@ partiel. (5)
  
  
  
-Chapitre II Autorité de nomination 
- 
-Art\. 93 Autorité de nomination 
+Chapitre II Autorité de nomination
+****************************************************************************************************
+93 Autorité de nomination 
 1 Le recteur ou la rectrice est l’autorité de nomination. 
 2 Il/elle nomme et renouvelle les mandats des membres du corps professoral 
 par un acte de nomination et de renouvellement. Le cahier des charges est signé par l’intéressé-e et annexé à l’acte. 
@@ -1275,9 +1261,9 @@ Les candidat-es aux fonctions professorales doivent être titulaires d’un
 doctorat ou d’un titre jugé équivalent.   
  
 Section 1 Procédure de nomination des professeur-es 
-ordinaires, des professeur-es associé-es et des professeur-es assistant-es au sein des unités principales d’enseignement et de recherche 
- 
-Art\. 95  Commission de planification académique  
+ordinaires, des professeur-es associé-es et des professeur-es assistant-es au sein des unités principales d’enseignement et de recherche
+****************************************************************************************************
+95  Commission de planification académique  
 1 Conformément aux dispositions du statut de l’Université, chaque UPER 
 institue une, ou si le règlement d’organisation de l’UPER le prévoit, plusieurs 
 commissions de planification académique chargées de planifier le maintien, 
@@ -1310,9 +1296,9 @@ commission de planification académique, et si la mise au concours a été
 approuvée par le Rectorat ; 
 b) s'il est proposé par le Décanat de l’UPER concernée en accord avec le 
 Rectorat, notamment dans les cas où une procédure de nomination 
-rapide est souhaitée. 
- 
-Art\. 97 Ouverture de la procédure de nomination 
+rapide est souhaitée.
+****************************************************************************************************
+97 Ouverture de la procédure de nomination 
 1 La procédure de nomination d’un-e professeur-e ordinaire, d’un-e 
 professeur-e associé-e et d’un-e professeur-e assistant-e s’ouvre par une inscription publique. Pour le/la professeur-e assistant-e, la demande 
 d’ouverture de l’inscription publique doit préciser sur quel poste professoral 
@@ -1400,8 +1386,9 @@ ont pris en compte la mise en œuvre de la promotion du principe
 d'égalité des droits et des chances entre femmes et hommes. 
 3 Avant de se prononcer sur la proposition de nomination, le recteur ou la 
 rectrice peut inviter l’UPER à procéder à toute démarche qui lui semble utile 
-pour compléter les conclusions du rapport de nomination.  
-Art\. 101 Décision du recteur ou de la rectrice 
+pour compléter les conclusions du rapport de nomination.
+****************************************************************************************************
+101 Décision du recteur ou de la rectrice 
 1 Si le recteur ou la rectrice approuv e la candidature rangée en première 
 position dans l’ordre de préférence, il/e lle procède à la nomination selon 
 l’article 93. 
@@ -1468,9 +1455,9 @@ l’article 103 alinéa 1, lettre a, appliqué par analogie.
 2 La proposition de nomination doit obtenir l'approbation à la majorité des 
 deux tiers des votant-es du collège des professeur-es ordinaires de l’UPER 
 concernée. 
-3 Les articles 98, 99, alinéas 2, 3, 4, 6 et 7 sont applicables par analogie. (3) 
- 
-Art\. 105 Professeur-e invité-e 
+3 Les articles 98, 99, alinéas 2, 3, 4, 6 et 7 sont applicables par analogie. (3)
+****************************************************************************************************
+105 Professeur-e invité-e 
 1 La proposition de nomination d'un-e professeur-e invité-e est soumise au 
 Rectorat par le Décanat de l’UPER concernée. 
 2 Lorsqu’il est prévu que la nomination sera d’une durée supérieure à six 
@@ -1479,13 +1466,13 @@ de l’UPER concernée.
 3 Le recteur ou la rectrice statue sur la proposition de nomination. 
   
 Section 3 Procédure de nomination des membres du corps 
-professoral hors unité principale d’enseignement et de recherche 
- 
-Art\. 106 Mise au concours Un poste professoral peut être mis au concours s’il est proposé par le 
+professoral hors unité principale d’enseignement et de recherche
+****************************************************************************************************
+106 Mise au concours Un poste professoral peut être mis au concours s’il est proposé par le 
 Rectorat et les structures concernées lorsque le poste à pourvoir n’est pas 
-rattaché à une UPER.  
-  
-Art\. 107 Ouverture de la procédure de nomination 
+rattaché à une UPER.
+****************************************************************************************************
+107 Ouverture de la procédure de nomination 
 1 La procédure de nomination est ouverte par une inscription publique. 
 2 Exceptionnellement, la procédure de nomination peut s’ouvrir par voie 
 d’appel selon les conditions définies à l’article 112.
@@ -1502,11 +1489,12 @@ moins est membre d’une université étrangère.
 3 Le Rectorat désigne le/la président-e de la commission. (2) 
 4 Lors d’une procédure ouverte par inscription publique, le/la professeur-e 
 membre de la délégation à l’égalité  des chances entre femmes et hommes 
-participe en tout temps à l’examen des candidatures. (2) 
- 
-Art\. 109 Examen et proposition de la commission La commission procède conformément à l’article 99, alinéas 1 à 5, applicable 
-par analogie. 
- Art\. 110 Examen par le Rectorat 
+participe en tout temps à l’examen des candidatures. (2)
+****************************************************************************************************
+109 Examen et proposition de la commission La commission procède conformément à l’article 99, alinéas 1 à 5, applicable 
+par analogie.
+****************************************************************************************************
+110 Examen par le Rectorat 
 1 Le dossier complet de la procédure de nomination, contenant 
 obligatoirement le rapport de la commission de nomination et les rapports 
 indépendants des expert-es extérieur-e s, est transmis au  Rectorat pour 
@@ -1530,8 +1518,9 @@ position dans l'ordre de préférence.
 3 Si le recteur ou la rectrice ne retient pas la seconde proposition, il/elle 
 procède à la suspension de la procédure de nomination dans l’attente d’une 
 nouvelle proposition de nomination ou à la clôture de la procédure de 
-nomination.   
-Art\. 112 Appel 
+nomination.
+****************************************************************************************************
+112 Appel 
 1 Sur décision du Rectorat, la procédure de nomination d’un-e membre du 
 corps professoral hors UPER peut exceptionnellement avoir lieu par voie d'appel. L’une des trois conditions suivantes doit être réalisée : 
 a) l’Université entend s’assurer la collaboration, en tant que professeur-e 
@@ -1539,9 +1528,9 @@ ordinaire ou professeur-e associé, d’une personnalité qui s’est particuli�
 b) la procédure permet de favoriser la promotion du sexe sous-représenté 
 conformément aux objectifs de l’article 13, alinéa 3, de la loi ; 
 c) la procédure de nomination s’est soldée par un échec. 
-2 Les articles 108, 109 et 110 s ont applicables par analogie.  
- 
-Art\. 112A(3) Professeur-e invité-e 
+2 Les articles 108, 109 et 110 s ont applicables par analogie.
+****************************************************************************************************
+112A(3) Professeur-e invité-e 
 1 La proposition de nommer un-e prof esseur-e invité-e hors UPER est 
 soumise au Rectorat par la direction de la structure concernée. 
 2 Lorsqu’il est prévu que la nomination sera d’une durée supérieure à six 
@@ -1610,9 +1599,9 @@ cette fonction par promotion selon les articles 156 à 156C. Il est applicable
 au/à la professeur-e as socié-e qui a accédé à cette fonction par titularisation 
 au sens de l’article 118. (5) 
 3   (5) 
-4  (5)  
- 
-Art\. 114A (5) Procédure d’évaluation 
+4  (5)
+****************************************************************************************************
+114A (5) Procédure d’évaluation 
 1 L’évaluation porte sur les aptitudes scientifiques et pédagogiques de 
 l’intéressé-e et les disponibilités budgétair es. Elle tient compte des besoins de 
 la subdivision concernée ainsi que  de sa planification académique. 
@@ -1752,9 +1741,9 @@ remplies, la commission doit entendre le/la professeur-e concerné-e. Un
 procès-verbal de l’audition est établi. (5) 
 7 La commission soumet son rapport d’évaluation accompagné des rapports 
 des expert-es ainsi que de l’avis des trois corps au collège des professeur-es 
-ordinaires de l’UPER dans un délai de 3 mois. (5) 
- 
-Art\. 117A (5) Evaluation par le/la doyen-e 
+ordinaires de l’UPER dans un délai de 3 mois. (5)
+****************************************************************************************************
+117A (5) Evaluation par le/la doyen-e 
 1 Lors de chaque évaluation, le/la doye n-ne établit un rapport à l’attention du 
 Rectorat sur la gestion des ressources humaines par le/la professeur-e assistant-e.  
 2 Le/la doyen-ne prend connaissance de l’avis des trois corps. Lorsque celui-
@@ -1776,8 +1765,9 @@ du/de la doyen-ne ainsi que le préavis du collège des professeur-es ordinaires
 l’intéressé-e par le recteur ou la rect rice au moins 6 mois avant son terme. 
 L’article 123, alinéa 2, est applicable par analogie. 
 5 La nomination à la fonction de professeur-e ordinaire ou de professeur-e 
-associé-e est la règle dans la mesure où l’évaluation est positive.  
-Art\. 118A 
+associé-e est la règle dans la mesure où l’évaluation est positive.
+****************************************************************************************************
+118A 
 (1)Nomination par voie d’appel 
 Un-e professeur-e assistant-e peut être nommé-e par voie d’appel à la 
 fonction de professeur-e ordinaire ou de professeur-e associé-e si l’une des 
@@ -1914,16 +1904,17 @@ ressources humaines par le/la membre du corps professoral concerné-e.
 ci n’est pas requis par la procéd ure, il/elle peut le solliciter.  
 3 En cas de difficultés identifi ées, il/elle entend l’intéressé-e.  
 4 Le rapport et le procès-verbal d’auditio n sont transmis au Rectorat avec le 
-dossier complet de la procédure de renouvellement. 
- Art\. 123 Notification 
+dossier complet de la procédure de renouvellement.
+****************************************************************************************************
+123 Notification 
 1 Une décision de non-renouvellement du mandat doit être signifiée à 
 l’intéressé par le recteur  au moins un an avant son terme s’il s’agit d’un 
 professeur ordinaire, et 6 mois s’il s’agit d’un professeur associé ou d’un professeur titulaire. 
 2 Si le délai prévu à l'alinéa 1 n'a pas été observé, le membre du corps 
 professoral non renouvelé dans ses fonctions peut revendiquer une prolongation des rapports de service dans  la mesure nécessaire au respect du 
-délai de notification. 
- 
-Art\. 124 Renouvellement conditionnel 
+délai de notification.
+****************************************************************************************************
+124 Renouvellement conditionnel 
 1 Lorsqu’il ressort de la procédure de renouvellement que des difficultés ou 
 des lacunes sont apparues au cours du mandat antérieur et qu’elles pourraient 
 être surmontées à bref délai, le rect eur ou la rectrice peut prendre une 
@@ -1935,31 +1926,22 @@ terme ordinaire du mandat, soit de renoncer définitivement au renouvellement, e
 (4) 
   
 Section 2  Procédure de renouvellement des professeur-es 
-invités 
+invités
+****************************************************************************************************
+125  (3) 
  
-Art\. 125  (3) 
- 
-Art\. 126  (3) 
+Art\.? | Article\.?126  (3) 
  
  
 Section 3  Procédure de renouvellement des professeur-es 
 nommés hors unité principale d’enseignement 
 et de recherche (3)
 ****************************************************************************************************
-125  (3) 
- 
-Art\. 126  (3) 
- 
- 
-Section 3  Procédure de renouvellement des professeur-es 
-nommés hors unité principale d’enseignement 
-et de recherche (3) 
- 
-Art\. 127 Conditions 
+127 Conditions 
 Le renouvellement du mandat d'un-e professeur-e nommé-e hors UPER est 
-subordonné aux conditions prévues à l’artic le 119, applicables par analogie.  
- 
-Art\. 128 Commission de renouvellement  (3) 
+subordonné aux conditions prévues à l’artic le 119, applicables par analogie.
+****************************************************************************************************
+128 Commission de renouvellement  (3) 
 1 Lors d’un premier renouvellement, le Rectorat désigne une commission 
 composée comme suit : (2) 
 a) d’un-e membre du Rectorat ; 
@@ -1972,9 +1954,9 @@ moins est membre d’une université étrangère.
 2 Lors d’un renouvellement subséquent, le Rectorat désigne une commission  
 composée de cinq membres issu-es du corps professoral des UPER et/ou des 
 UER avec lesquelles le poste professoral concerné présente les liens les plus étroits. 
-(2) 
- 
-Art\. 129 Examen par la co mmission et notification 
+(2)
+****************************************************************************************************
+129 Examen par la co mmission et notification 
 1 La commission procède conformément aux articles 121 et 122, 
 alinéas 1 et 4, app licables par analogie. 
 2 La commission soumet ses propos itions au collège des professeurs 
@@ -1988,9 +1970,9 @@ s’agit d’un-e professeur-e ordinaire, et 6 mois s’il s’agit d’un-e pro
 2 Si le délai prévu à l'alinéa 1 n'a pas été observé, le/la membre du corps 
 professoral non renouvelé-e dans ses fonctions peut revendiquer une 
 prolongation des rapports de service dans  la mesure nécessaire au respect du 
-délai de notification. 
- 
-Art\. 131 Renouvellement conditionnel 
+délai de notification.
+****************************************************************************************************
+131 Renouvellement conditionnel 
 1 Lorsqu’il ressort de la procédure de renouvellement que des difficultés ou 
 des lacunes sont apparues au cours du mandat antérieur et qu’elles pourraient 
 être surmontées à bref délai, le rect eur ou la rectrice peut prendre une 
@@ -2002,10 +1984,11 @@ par l'article 130, alinéa 1.
  
  
 Section 3A Procédure de prolongation des professeur-es 
-invité-es (4) 
- 
-Art\. 131A(5)  
- Art\. 131B
+invité-es (4)
+****************************************************************************************************
+131A(5)
+****************************************************************************************************
+131B
 (3)Procédures 
 1 Le Décanat sollicite le préavis du co llège des professeur-es ordinaires de 
 l’UPER concernée et transmet la dema nde au recteur ou à la rectrice pour 
@@ -2024,9 +2007,9 @@ professeur-e assistant-e ou d’ un-e professeur-e titulaire.
  
  
  
-Chapitre VIII Nomination conjointe 
- 
-Art\. 133 Nomination conjointe 
+Chapitre VIII Nomination conjointe
+****************************************************************************************************
+133 Nomination conjointe 
 Dans la mesure nécessaire à la coordination des procédures entre universités 
 ou établissements d'enseignement supérieur, le recteur ou la rectrice peut 
 déroger aux dispositions des chapitre III à VI du présent titre en vue de 
@@ -2062,9 +2045,9 @@ est transmis par le Décanat au Rectorat pour décision. Dans le cas contraire, 
  
  
 Chapitre X Plainte pour vi olation de la règle de 
-préférence 
- 
-Art\. 135 Délai et qualité pour agir Dès réception des informations figurant à l’article 102, alinéa 1, tout-e 
+préférence
+****************************************************************************************************
+135 Délai et qualité pour agir Dès réception des informations figurant à l’article 102, alinéa 1, tout-e 
 candidat-e auditionné-e par la commission de nomination a 30 jours pour 
 adresser une plainte au Rectorat s'il/elle s'estime touché-e par une violation 
 de la règle de préférence prévue à l’ar ticle 13, alinéa 3, de la loi et selon 
@@ -2105,9 +2088,9 @@ alinéa 3, de la loi. (3)
  
   
 Titre IV Dispositions applicables aux membres du 
-corps des collaborateurs et collaboratrices de l’enseignement et de la recherche rémunéré-es par des fonds provenant du budget de l’Etat 
- 
-Art\. 138 Champ d’application Les dispositions du présent titre sont applicables aux membres du corps des 
+corps des collaborateurs et collaboratrices de l’enseignement et de la recherche rémunéré-es par des fonds provenant du budget de l’Etat
+****************************************************************************************************
+138 Champ d’application Les dispositions du présent titre sont applicables aux membres du corps des 
 collaborateurs/trices de l’enseignement et de la recherche qui sont  
 rémunéré-es par des fonds provenant du budget de l’Etat de Genève.  
  
@@ -2127,8 +2110,9 @@ g) les chef-fe-s de clinique scientifiques ; h) les maîtres assistant-es ;
 i) les post-doctorant-es ; 
 j) les assistant-es ; k) les auxiliaires de recherche et d’enseignement ; 
 l) les chercheurs et chercheuses invité-es ; 
-m) les suppléant-es aux fonctions visées aux lettres a, b, d, e, f, g, h, i et j.  
-Art\. 140 Maître d’enseignement et de recherche  
+m) les suppléant-es aux fonctions visées aux lettres a, b, d, e, f, g, h, i et j.
+****************************************************************************************************
+140 Maître d’enseignement et de recherche  
 1 Le/la maître d’enseignement et de recherche est chargé-e, sous la 
 responsabilité d’un-e professeur-e ordina ire ou d’un-e professeur-e associé-e, 
 d’activités d’enseignement et/ou de recherche. Cette responsabilité peut être dévolue au/à la directeur/trice du département ou de la subdivision 
@@ -2139,9 +2123,9 @@ concernée.
 nomination est renouvelable pour des périodes successives de 5 ans au 
 maximum. 
 4 Dans la règle, il/elle exerce sa fonction à temps complet. La fonction peut 
-être exercée à temps partiel lors que cela est dûment justifié. (3) 
- 
-Art\. 141 Chargé-e de cours 
+être exercée à temps partiel lors que cela est dûment justifié. (3)
+****************************************************************************************************
+141 Chargé-e de cours 
 1 Le/la chargé-e de cours participe, so us la responsabilité d’un-e professeur-e 
 ordinaire ou d’un-e professeur-e associé-e, à l’enseignement et 
 éventuellement à la recherche. 
@@ -2160,9 +2144,9 @@ fonction.
 3 Il/elle est nommé-e, sans traitement, pour une première période de 4 ans au 
 maximum ; la nomination est renouvelab le pour des périodes successives de 
 5 ans au maximum. 
-4 Il/elle exerce sa fonction à temps partiel. 
- 
-Art\. 143 Chargé-e d’enseignement 
+4 Il/elle exerce sa fonction à temps partiel.
+****************************************************************************************************
+143 Chargé-e d’enseignement 
 1 Le/la chargé-e d'enseignement disp ense, sous la responsabilité d’un-e 
 professeur-e ordinaire ou d’un-e professeur-e associé-e, des enseignements 
 pratiques ou de formation complémentaire. Il/elle peut aussi conduire des 
@@ -2189,9 +2173,9 @@ maximum.
 4 La première année de sa fonction co nstitue une période d’essai au cours de 
 laquelle il peut être mis fin aux rapports de service moyennant le respect d’un 
 délai de résiliation de 3 mois pour la fin d’un mois. 
-5 Il/elle exerce sa fonction à temp s complet ou à temps partiel. 
- 
-Art\. 145 Collaborateur scientifique I et II  
+5 Il/elle exerce sa fonction à temp s complet ou à temps partiel.
+****************************************************************************************************
+145 Collaborateur scientifique I et II  
 1 Le/la collaborateur/trice scientifique participe, sous la direction d’un-e 
 professeur-e ordinaire, d’un-e professeur-e associé-e, d’un-e professeur-e 
 assistant-e ou d’un-e maître d’enseigneme nt et de recherche, à la réalisation 
@@ -2339,8 +2323,9 @@ maîtrise universitaire et en cas de perte de la qualité d’étudiant-e ou de 
 en congé. (5) 
 4 Il/elle exerce sa fonction à raison de  40% au maximum d’un temps complet. 
 En période de vacances universitaires, sa fonction peut être exercée à temps 
-complet.  
-Art\. 151 Chercheur et chercheuse invité-e 
+complet.
+****************************************************************************************************
+151 Chercheur et chercheuse invité-e 
 1 Le chercheur ou la chercheuse invité -e est soit un-e collaborateur/trice de 
 l’enseignement et de la recherche d’une université suisse ou étrangère, ou d’une institution équivalente, soit un-e  post-doctorant-e non affilié-e à une 
 université ou institution équivalente, no mmé-e sans traitement. L’Université 
@@ -2368,9 +2353,9 @@ acte de nomination et de renouvellement. Le cahier des charges est signé par
 l’intéressé-e et annexé à l’acte. 
  
  
-Chapitre III Procédure de nomination 
- 
-Art\. 153 Recherche des candidat-es 
+Chapitre III Procédure de nomination
+****************************************************************************************************
+153 Recherche des candidat-es 
 1 Le recrutement et la sélection des candidat-es à une fonction de 
 collaborateur/trice de l’enseignement et de  la recherche sont du ressort de la 
 subdivision de l’UPER ou de l’UER dont dépend le poste à pourvoir. 
@@ -2452,9 +2437,9 @@ Chapitre IV Promotion des maît res d’enseignement et de
 recherche et des chargé-es de cours à la fonction de profe sseur-e associé-e 
  
 Section 1(5) Promotion des maîtres d’enseignement et de 
-recherche 
- 
-Art\. 156 Condition  
+recherche
+****************************************************************************************************
+156 Condition  
 1 Le/la maître d’enseignement et de recherche qui a exercé cette fonction 
 pendant six ans au moins à l’Université  peut demander à la commission de 
 planification académique de l’UPER concernée l’évaluation de son dossier en 
@@ -2608,17 +2593,18 @@ l'article 159. (1)
 humaines, le/la doyen-ne entend le/la co llaborateur/trice de l’enseignement et 
 de la recherche.  
 2 Le/la doyen-ne joint le procès-verbal d’audition au rapport qu’il/elle adresse 
-au Rectorat.  
-Art\. 159 Notification 
+au Rectorat.
+****************************************************************************************************
+159 Notification 
 1 Une décision de non-renouvellement du mandat doit être signifiée au 
 collaborateur/trice de l’enseignement et  de la recherche par l’autorité de 
 nomination au moins 3 mois avant le terme pour l’assistant-e et 6 mois dans 
 tous les autres cas. L’intéressé-e doit être préalablement entendu-e. 
 2 Si le délai prévu à l'alinéa 1 n'a pas ét é observé, le/la collaborateur/trice de 
 l’enseignement et de la recherche non renouvelé-e dans ses fonctions peut revendiquer une prolongation des rapports de service dans la mesure 
-nécessaire au respect du délai de notification. 
- 
-Art\. 160 Renouvellement conditionnel 
+nécessaire au respect du délai de notification.
+****************************************************************************************************
+160 Renouvellement conditionnel 
 1 Lorsqu’il ressort de la procédure de renouvellement d’un mandat de maître 
 d’enseignement et de recherche, de chargé-e de cours, de chargé-e 
 d’enseignement, de conseiller/ère académique (5) ou de collaborateur/trice 
@@ -2650,8 +2636,9 @@ indispensable. Elles sont établies par le/la responsable de la structure à
 laquelle le/la collaborateur/trice est dir ectement rattaché-e et sont transmises 
 à l’autorité de nomination pour décision. 
   
-Chapitre VI Cessation de l’activité  
- Art\. 162 Cessation de l’activité 
+Chapitre VI Cessation de l’activité
+****************************************************************************************************
+162 Cessation de l’activité 
 Les membres du corps des collaborateurs/trices de l’enseignement et de la recherche peuvent résilier leurs rapports de service ou ne pas en demander le 
 renouvellement ; ils/elles doivent en informer l’Université au moins 6 mois à 
 l’avance pour la fin d’un mois. Ce délai est ramené à 2 mois pour les maîtres assistant-es, post-doctorant-es, assistant- es, auxiliaires de la recherche et de 
@@ -2683,9 +2670,9 @@ rattaché-e. Le cahier des charges r éactualisé est joint à la proposition.
   
  
 Titre V Dispositions applicables aux membres du 
-corps enseignant rémunéré-es par des fonds provenant de l’extérieur 
- 
-Art\. 164 Champ d’application 
+corps enseignant rémunéré-es par des fonds provenant de l’extérieur
+****************************************************************************************************
+164 Champ d’application 
 1 Les membres du corps enseignant peuvent également être rémunéré-es par 
 des fonds provenant de l’extérieur. Les dispositions du présent titre leur sont 
 applicables. 
@@ -2699,9 +2686,9 @@ par les dispositions du présent titre et par les contrats conclus.
 2 Sous réserve de règles spécifiques prévues par les contrats, les dispositions 
 des chapitres I à VI, VIII et X du titre II ainsi que du titre VI de la présente 
 partie sont applicables. (4) 
-3 Les dispositions du code des obligations sont applicables pour le surplus. 
- 
-Art\. 166 Principes de l’engagement 
+3 Les dispositions du code des obligations sont applicables pour le surplus.
+****************************************************************************************************
+166 Principes de l’engagement 
 1 L’engagement d’un-e membre du corps enseignant sur des fonds provenant 
 de l’extérieur fait l’objet d’un contrat de travail de droit privé entre l’Université et l’intéressé-e. 
 2 La fonction, sa classification salariale, la durée de l’engagement, le 
@@ -2709,9 +2696,9 @@ traitement, le taux d’activité ainsi que d’éventuelles conditions particul
 charges signé par l’intéressé-e est égalem ent joint au contrat dont il fait partie 
 intégrante. 
 3 Le contrat peut prévoir une période d’essai d’une durée de trois mois au 
-plus. 
- 
-Art\. 167 Engagement au sein du corps professoral 
+plus.
+****************************************************************************************************
+167 Engagement au sein du corps professoral 
 1 Au sein du corps professoral, toutes  les fonctions prévues à l’article 87 
 peuvent être pourvues par contrat de droit privé.  
 2 Le/la professeur-e assistant-e rémunéré-e par des fonds provenant de 
@@ -2751,12 +2738,13 @@ plusieurs fonctions, qu’elles soient rémunérées par des fonds provenant du
 budget de l’Etat ou par des fonds provenant de l’extérieur. En cas de cumul 
 entre la fonction d’assistant-e et l’une des fonctions mentionnées à l’article 4 
 alinéa 4, lettre o, le taux minimum d’ac tivité est de 70% d’un temps complet. 
-Le taux peut être réduit aux conditions de l’alinéa 1. 
- Art\. 169  
+Le taux peut être réduit aux conditions de l’alinéa 1.
+****************************************************************************************************
+169  
 (3) 
- Art\. 169A
+ Art\.? | Article\.?169A
    (3) 
- Art\. 170  
+ Art\.? | Article\.?170  
 (3)
 ****************************************************************************************************
 171 Procédure d’engagement 
@@ -2805,15 +2793,13 @@ conditionnelle ne dépasse pas 6 ans. En cas de congé maternité ou de congé p
 (4) 
 5  (3) 
 6  (3) 
-7  (3) 
-Art\. 173 Traitement 
-Le traitement est fixé conformément  aux dispositions du titre VI de la 
-présente partie.
+7  (3)
 ****************************************************************************************************
 173 Traitement 
 Le traitement est fixé conformément  aux dispositions du titre VI de la 
-présente partie.  
-Art\. 174 Prolongation 
+présente partie.
+****************************************************************************************************
+174 Prolongation 
 1 Un engagement peut être prolongé aux conditions suivantes : 
 a) que la disponibilité des fonds provenant de l’extérieur concernés le  permette ; 
 b) que l’intéressé-e dispose des aptitudes nécessaires à l’exercice de sa 
@@ -2845,17 +2831,18 @@ règlement.
 3 Les professeur-es assistant-es avec prétitularisation conditionnelle sont 
 soumis-es à deux évaluations au cours de leur mandat en vue de leur éventuel 
 engagement ou titularisation à la fonction de professeur-e ordinaire ou de professeur-e associé-e. La procédure est régie aux articles 115 à 118, 
-applicables par analogie. 
- 
-Art\. 176 Fin de l’engagement 
+applicables par analogie.
+****************************************************************************************************
+176 Fin de l’engagement 
 1 L'engagement des membres du corps enseignant sur des fonds provenant de 
 l’extérieur prend fin par résiliation pendant la période d’essai ou par l'expiration de la période convenue. Si l’engagement est de durée 
 indéterminée, il prend fin, après la période d’essai, conformément à l’article 
 335c du code des obligations. 
 2 La prolongation de l’engagement au sens de l’article 174 demeure réservée. 
 3 La résiliation immédiate pour justes motifs au sens de l'article 337 du code 
-des obligations demeure également réservée.  
- Art\. 177 Contentieux Les tribunaux civils sont compétents pou r trancher les litiges résultant de la 
+des obligations demeure également réservée.
+****************************************************************************************************
+177 Contentieux Les tribunaux civils sont compétents pou r trancher les litiges résultant de la 
 résiliation des rapports de travail et de la délivrance du certificat de travail.  
  
  
@@ -2874,9 +2861,9 @@ rectrices est fixé par le règlement du Conseil d’Etat prévu à l’article 
  
  
 Chapitre I Dispositions générales applicables aux 
-membres du corps enseignant 
- 
-Art\. 179 Fixation du traitemen t des membres du corps enseignant 
+membres du corps enseignant
+****************************************************************************************************
+179 Fixation du traitemen t des membres du corps enseignant 
 rémunéré-es par fonds provenant  du budget de l’Etat 
 1 L’autorité de nomination fixe la rémunération des membres du corps 
 enseignant rémunéré-es par des fonds provenant du budget de l’Etat de Genève dans un acte de nomination, en application des échelles des 
@@ -2899,17 +2886,19 @@ traitement initial est déterminé conformé ment à l’article 179 alinéas 2 
 2 Demeure réservée l’application de règles spécifiques du Fonds national 
 suisse de la recherche scientifique, de la Communauté européenne ou 
 d’autres organismes publics ou reconnus d'intérêt public poursuivant des buts similaires. 
-3 (3) 
-Art\. 181 Temps partiel Les traitements des postes partiels sont proportionnels à ceux des postes à plein temps. 
- 
-Art\. 182 Changement de fonction avec promotion 
+3 (3)
+****************************************************************************************************
+181 Temps partiel Les traitements des postes partiels sont proportionnels à ceux des postes à plein temps.
+****************************************************************************************************
+182 Changement de fonction avec promotion 
 1 La promotion assortie d'un changement de classification donne lieu à l'octroi 
 d'une augmentation extraordinaire de traitement qui correspond à une annuité 
 universitaire (annuité double) de la nouvelle classe de fonction.  
 2 Sont réservés les cas où la promotion intervient durant la première année 
 d’activité. Le changement de f onction est traité comme un nouvel 
-engagement. (1) 
- Art\. 183  
+engagement. (1)
+****************************************************************************************************
+183  
 (3)
 ****************************************************************************************************
 184 Traitement en cas d’abse nce pour cause de maladie ou 
@@ -2949,8 +2938,9 @@ gratification de 2000 F. Une nouvelle gr atification de 2000 F leur est versée
 après 30 ans de service. 
 2 Les années de service sont comptées conformément aux dispositions de 
 l'article 17 de la loi concernant le traite ment et les diverses prestations alloués 
-aux membres du personnel de l’Etat et des établissements hospitaliers, du 21 décembre 1973. 
- Art\. 184B
+aux membres du personnel de l’Etat et des établissements hospitaliers, du 21 décembre 1973.
+****************************************************************************************************
+184B
 (3) Allocation à la naissance  
 1 Les membres du personnel reçoivent une allocation de 500 F lors de la 
 naissance de chacun-e de leurs enfants, sans préjudice des prestations prévues 
@@ -2960,13 +2950,14 @@ ou dans l’un de ses établissements hospitaliers, seul-e l’un-e des deux par
 de l’enfant reçoit l’allocation prévue par l’alinéa 1. 
 3 Le placement d’un-e enfant en vue d’ adoption donne droit à une allocation 
 d’accueil de 500 F le mois au cours duqu el l’enfant est placé-e dans sa future 
-famille et pour autant que l’enfant soit âgé-e de moins de 10 ans. 
- Art\. 185 Prestations aux survivant-es  
+famille et pour autant que l’enfant soit âgé-e de moins de 10 ans.
+****************************************************************************************************
+185 Prestations aux survivant-es  
 Lors du décès de membres du personnel, leur conjoint-e ou partenaire enregistré-e, leurs enfants mineur-es ou, à défaut, toute personne qui 
 constituait pour elles et eux une charge légale complète de famille, reçoivent 
-une allocation globale égale à 3 mois du dernier traitement du/de la défunt-e, en sus de celui du mois courant.  
- 
-Art\. 186 Traitement doublé lors de la mise à la retraite  
+une allocation globale égale à 3 mois du dernier traitement du/de la défunt-e, en sus de celui du mois courant.
+****************************************************************************************************
+186 Traitement doublé lors de la mise à la retraite  
 1 Lors de leur mise à la retraite, et après au moins 10 ans d’activité au sein de 
 l’administration, les membres du personn el reçoivent leur dernier traitement 
 mensuel doublé. (4) 
@@ -2976,8 +2967,9 @@ AVS n’est pas doublé. (4)
 187 Compensation  
 L’Université ne peut compenser le traitement avec une créance contre le/la 
 membre du corps enseignant que dans  la mesure où le traitement est 
-saisissable; toutefois, les créances dérivant d’un dommage causé intentionnellement peuvent être compensées sans restriction. 
- Art\. 188 Service obligatoire en Suisse 
+saisissable; toutefois, les créances dérivant d’un dommage causé intentionnellement peuvent être compensées sans restriction.
+****************************************************************************************************
+188 Service obligatoire en Suisse 
 1 En cas d’absence pour cause de service militaire, de service civil ou de 
 protection civile obligatoires en Suisse, le membre du corps enseignant a droit à la totalité de son traitement. Les allocations pour perte de salaire et de 
 gain dues par la caisse de compensation sont acquises à l’Université, jusqu’à 
@@ -3004,8 +2996,9 @@ rémunérés selon la fonction considérée.
 2 Lorsque le présent titre prévoit plusieurs classes de traitement possibles 
 pour une fonction considérée, la détermination de la classe de fonction et la 
 position dans l’échelle des traitements es t décidée d’entente entre l’autorité 
-de nomination et le Décanat de l’UPER concernée.   
-Art\. 190 Indemnités de direction 
+de nomination et le Décanat de l’UPER concernée.
+****************************************************************************************************
+190 Indemnités de direction 
 1 Les indemnités de direction sont fixées sur la base du traitement de la classe 
 30, position 22 (hors 13e salaire), selon les proportions suivantes :  
 a) do yen 8 à 12% 
@@ -3015,26 +3008,18 @@ subdivisions des UPER et des UER. 2 à 9%
 compte de l'importance des tâches de  gestion académique et administrative 
 assumées par les intéressées.  
 3 Aucun membre du corps enseignant ne peut cumuler plusieurs indemnités 
-de direction.  
-Art\. 191  
+de direction.
+****************************************************************************************************
+191  
 (3) 
  
-Art\. 192  (3) 
+Art\.? | Article\.?192  (3) 
  
  
 Chapitre III Traitement des membres du corps 
 professoral
 ****************************************************************************************************
-191  
-(3) 
- 
-Art\. 192  (3) 
- 
- 
-Chapitre III Traitement des membres du corps 
-professoral 
- 
-Art\. 193 Echelle des traitements 
+193 Echelle des traitements 
 1 Les traitements des professeur-es ordinaires, des professeur-es associé-es, 
 des professeur-es assistant-es et des pr ofesseur-es titulaires sont fixés selon 
 les dispositions suivantes :      Classe Position 
@@ -3166,17 +3151,17 @@ autre fonction rémunérée exercée à plein temps au sein de l’Université o
 d’une institution partiellement ou totalement financée par une collectivité 
 publique genevoise sont rémunéré-es en cumul à hauteur de 25% du traitement afférent à la fonction de chargé-e d’enseignement, pour un taux 
 d’activité équivalent. 
-(1) 
+(1)
+****************************************************************************************************
+196     (1)   
  
-Art\. 196     (1)   
+Art\.? | Article\.?197     (1)  
  
-Art\. 197     (1)  
+Art\.? | Article\.?198     (4) 
  
-Art\. 198     (4) 
- 
-Art\. 199 (3)  
- 
-Art\. 200 (3) 
+Art\.? | Article\.?199 (3)
+****************************************************************************************************
+200 (3) 
  
  
  
@@ -3188,22 +3173,7 @@ technique
  Titre I Dispositions générales  
   Chapitre I Droit applicable
 ****************************************************************************************************
-198     (4) 
- 
-Art\. 199 (3)  
- 
-Art\. 200 (3) 
- 
- 
- 
- 
- 3
-e partie Corps du personnel administratif et 
-technique 
- 
- Titre I Dispositions générales  
-  Chapitre I Droit applicable  
-Art\. 201 Droit applicable 
+201 Droit applicable 
 1 Sous réserve de dispositions contraires de la présente partie, les membres du 
 corps du personnel administratif et technique rémunéré-es par des fonds 
 provenant du budget de l’Etat de Genève sont soumis-es aux dispositions 
@@ -3245,20 +3215,19 @@ la division des ressources humaines les compétences qui appartiennent à
 l’Office du personnel de l’Etat selon la législation en matière de personnel de l’Etat. 
 (5) 
 3 Demeurent réservées les compétences sp écifiques et les autres délégations 
-prévues par le présent règlement.  
- 
-Art\. 203 (5) (abrogé)  
-  
-Art\. 204 Autres compétences spécifiques 
+prévues par le présent règlement.
+****************************************************************************************************
+203 (5) (abrogé)
+****************************************************************************************************
+204 Autres compétences spécifiques 
 Sauf disposition contraire du présent règlement, les compétences qui 
 appartiennent au/à la chef-fe ou au/à la responsable du service selon la législation en matière de personnel de l’ Etat sont exercées par le/la chef-fe de 
 la structure ou de la subdivision concernée. 
  
   Titre II Dispositions applicables aux membres du 
-corps du personnel administratif et technique rémunéré-es par des fonds provenant du budget de l’Etat 
- 
- 
-Art\. 205 En matière d’engagement et de nomination (5)  
+corps du personnel administratif et technique rémunéré-es par des fonds provenant du budget de l’Etat
+****************************************************************************************************
+205 En matière d’engagement et de nomination (5)  
 1 Le recteur ou la rectrice engage(5) et nomme les principaux et principales 
 cadres supérieur-es du corps du personnel administratif et technique.  
 2 Sont considérées comme principaux/al es cadres supérieur-es au sens de 
@@ -3274,9 +3243,9 @@ administratif et technique. (5)
 principaux/ales cadres supérieur-es du corps du personnel administratif et 
 technique. (5) 
 2 Le Rectorat prononce la fin des rapports de service des autres membres du 
-personnel administratif et technique. (5) 
- 
-Art\. 207 En matière de sanctions 
+personnel administratif et technique. (5)
+****************************************************************************************************
+207 En matière de sanctions 
 1 L’autorité compétente pour prononcer le blâme prévu à l’article 16 alinéa 1 
 lettre a) de la loi relative au personnel de l’administration cantonale et des 
 établissements publics médicaux est le/la supérieur-e hiérarchique. 
@@ -3284,15 +3253,15 @@ lettre a) de la loi relative au personnel de l’administration cantonale et des
 prévues à l’article 16 de la loi mentionnée à l’alinéa 1. 
  
   Titre III Dispositions applicables aux membres du 
-corps du personnel administratif et technique rémunéré-es par des fonds provenant de l’extérieur  
- 
-Art\. 208 Définition 
+corps du personnel administratif et technique rémunéré-es par des fonds provenant de l’extérieur
+****************************************************************************************************
+208 Définition 
 1 Les membres du corps du personnel administratif et technique peuvent 
 également être rémunéré-es par des fonds provenant de l’extérieur. 
 2 On entend par fonds provenant de l’extérieur, les fonds, publics ou privés, 
-ne provenant pas du budget de l’Etat de Genève. 
- 
-Art\. 209 Autorité d’engagement   
+ne provenant pas du budget de l’Etat de Genève.
+****************************************************************************************************
+209 Autorité d’engagement   
 1 Le Rectorat est l’autorité d’engagement des membres du corps du personnel 
 administratif et technique. (5) 
 2 Le recteur ou la rectrice enga ge les membres du corps du personnel 
@@ -3309,28 +3278,28 @@ l’Etat de Genève, la durée de l’engagement, le traitement, le taux d’act
 ainsi que d’éventuelles conditions particulières liées à l’obtention du ou des fonds sont stipulés dans le contrat. Le cahier des charges est également joint 
 au contrat dont il fait partie intégrante. 
 3 Le contrat peut prévoir une période d’essai d’une durée de trois mois au 
-plus. 
- 
-Art\. 211 Durée 
+plus.
+****************************************************************************************************
+211 Durée 
 1 Le contrat est conclu pour une durée en principe déterminée.  
 2 La durée de l’engagement est déterminée en premier lieu par la disponibilité 
-des fonds provenant de l’extérieur concernés.  
- 
-Art\. 212 Traitement 
+des fonds provenant de l’extérieur concernés.
+****************************************************************************************************
+212 Traitement 
 Chaque fonction du corps du personnel administratif et technique rémunérée 
 par des fonds provenant de l’extérieur doit obtenir le même classement dans 
-l’échelle des traitements que la fonction de la même catégorie rémunérée par des fonds provenant du budget de l’Etat. 
- 
-Art\. 213 Prolongation 
+l’échelle des traitements que la fonction de la même catégorie rémunérée par des fonds provenant du budget de l’Etat.
+****************************************************************************************************
+213 Prolongation 
 1 Un engagement peut être prolongé aux conditions suivantes : 
 a) que la disponibilité des fonds provenant de 
 l’extérieur concernés le permette ; 
 b) que l’intéressé-e dispose des aptitudes nécessaires à 
 l’exercice de sa fonction. 
 2 Les propositions de prolongation de l’engagement d’un-e membre du corps 
-personnel administratif et technique sont établies par le/la responsable de la structure concernée et transmises à l’autorité d’engagement pour décision. 
- 
-Art\. 214 Evaluation 
+personnel administratif et technique sont établies par le/la responsable de la structure concernée et transmises à l’autorité d’engagement pour décision.
+****************************************************************************************************
+214 Evaluation 
 Les aptitudes des membres du corps du personnel administratif et technique dans l’exercice de leur fonction sont évaluées régulièrement par l’Université 
 mais au moins tous les trois ans.
 ****************************************************************************************************
@@ -3353,26 +3322,26 @@ membres du corps du personnel administratif et technique
  
  
 Chapitre I Procédures app licables en matière de 
-protection de la personnalité  
- 
-Art\. 216 Principes 
+protection de la personnalité
+****************************************************************************************************
+216 Principes 
 Les articles 62 à 79 relatifs au processu s de médiation et à la procédure de 
 plainte pour atteinte ou suspicion d’atte inte aux droits de la personnalité, 
 notamment en cas de harcèlement psychologique ou de harcèlement sexuel, 
 sont applicables par analogie aux membres du corps du personnel administratif et technique. 
  
  
-Chapitre II Contentieux  
- 
-Art\. 217 Opposition 
+Chapitre II Contentieux
+****************************************************************************************************
+217 Opposition 
 1 Tout-e membre du corps du personnel administratif et technique touché-e 
 par une décision au sens de l’article 4 de la loi sur la procédure 
 administrative, du 12 septembre 1985, rendue par l’Université et qui a un intérêt digne de protection à ce qu’elle soit modifiée ou annulée peut former 
 opposition auprès de l’instance qui l’a rendue. 
 2 Les conditions ainsi que les modalités de l’opposition sont régies par un 
-règlement interne. 
- 
-Art\. 218 Recours à la chambre admini strative de la Cour de justice (1) 
+règlement interne.
+****************************************************************************************************
+218 Recours à la chambre admini strative de la Cour de justice (1) 
 1 Les décisions sur opposition peuvent faire l’objet d’un recours à la chambre 
 administrative de la Cour de justice. (1) 
 2 La procédure de recours est régie par les dispositions de la loi sur la 
@@ -3389,9 +3358,9 @@ procédure d’opposition.
  
  
  
-4e partie Commission du personnel 
- 
- Art\. 220 Commission du personnel 
+4e partie Commission du personnel
+****************************************************************************************************
+220 Commission du personnel 
 Dans le cadre de sa politique de dialogue et d’ouverture avec tous/toutes les 
 membres du personnel de l’Université, le Rectorat met en place une Commission du personnel (ci-après : la Commission) accessible à tous/toutes 
 les membres du personnel et de leurs suppléant-es éventuel-les, qu’ils/elles 
@@ -3430,37 +3399,31 @@ e) 3 représentant-es du corps du personnel administratif et technique désigné
 es par ce corps. 
 2 2 représentant-es des syndicats membres du personnel de l’Université 
 peuvent siéger au sein de la commission avec voix consultative. (3) 
-3 Le mandat des membres de la Commission est de 2 ans ; il est renouvelable. 
- 
-Art\. 223 Mode de désignation 
+3 Le mandat des membres de la Commission est de 2 ans ; il est renouvelable.
+****************************************************************************************************
+223 Mode de désignation 
 1 A l’exception des représentant-es visé-e s à l’article 222, alinéa 1, lettre a, 
 les membres de la Commission sont élu-es par le corps qu’ils/elles 
 représentent.  Dans la mesure du possible, toutes les UPER sont représentées 
 au sein de la Commission, le cas échéant dans le cadre d’un tournus. 
 2 Les modalités de désignation sont fixées dans un règlement établi par le 
-Rectorat. 
-  
-Art\. 224 Fonctionnement 
+Rectorat.
+****************************************************************************************************
+224 Fonctionnement 
 La Commission s’organise elle-même. Elle fixe son fonctionnement dans un 
-règlement qui est approuvé par le Rectorat.  
-Art\. 225 Séances 
-1 La Commission siège en plénum au  moins une fois par semestre.  
-2 Un ordre du jour ainsi qu’un procès-ver bal de chaque séance sont dressés.
+règlement qui est approuvé par le Rectorat.
 ****************************************************************************************************
 225 Séances 
 1 La Commission siège en plénum au  moins une fois par semestre.  
-2 Un ordre du jour ainsi qu’un procès-ver bal de chaque séance sont dressés.  
- 
-Art\. 226 Devoir de discrétion et confidentialité des données 
+2 Un ordre du jour ainsi qu’un procès-ver bal de chaque séance sont dressés.
+****************************************************************************************************
+226 Devoir de discrétion et confidentialité des données 
 Les membres de la Commission sont tenu-es de ne pas divulguer les 
 informations sensibles et celles tran smises à titre confidentiel. Ils/elles 
 s’engagent notamment à respecter les dispositions légales en matière de 
-protection des données personnelles. 
- 
- 
- 
- 
-Art\. 227  (3) 
+protection des données personnelles.
+****************************************************************************************************
+227  (3) 
  
   
  
@@ -3468,21 +3431,21 @@ Art\. 227  (3)
 5e partie Dispositions finales et transitoires 
  
  
-Chapitre I Dispositions finales 
- 
-Art\. 228 Entrée en vigueur 
+Chapitre I Dispositions finales
+****************************************************************************************************
+228 Entrée en vigueur 
 Le présent règlement entre en vigueur si multanément à la loi sur l’Université, 
 du 13 juin 2008. 
   
-Chapitre II Dispositions transitoires 
- 
-Art\. 229 Dispositions  transitoires concernant les rapports de service 
+Chapitre II Dispositions transitoires
+****************************************************************************************************
+229 Dispositions  transitoires concernant les rapports de service 
 existants 
 Sous réserve des dispositions qui suivent, le personnel nommé ou engagé 
 sous l’empire de l'ancien droit est soumis aux dispositions du présent 
-règlement dès son entrée en vigueur.  
- 
-Art\. 230 Dispositions transitoires concernant les procédures en 
+règlement dès son entrée en vigueur.
+****************************************************************************************************
+230 Dispositions transitoires concernant les procédures en 
 matière de protection de la personnalité 
 Le présent règlement ne s’applique pa s aux enquêtes inte rnes ouvertes avant 
 son entrée en vigueur.
@@ -3499,11 +3462,12 @@ intérêts de l’Université. (2)
 3 Les procédures de résiliation des rapports de service, de même que les 
 procédures disciplinaires engagées contre des membres du personnel avant 
 l'entrée en vigueur du présent règlement sont traitées conformément à la loi 
-sur l’Université, du 26 mai 1973. 
- 
-Art\. 232 (2)  
-. 
-Art\. 233 Dispositions tr ansitoires concernant les professeur-es d’école  
+sur l’Université, du 26 mai 1973.
+****************************************************************************************************
+232 (2)  
+.
+****************************************************************************************************
+233 Dispositions tr ansitoires concernant les professeur-es d’école  
 1 Les professeur-es d'école sont nommé-es, dans un délai de 24 mois au 
 maximum dès l’entrée en vigueur du présent règlement, à la fonction de 
 professeur-e ordinaire telle que définie à l’article 88.   
@@ -3522,8 +3486,9 @@ maximum dès l’entrée en vigueur du présent règlement, à la fonction de
 professeur-e associé-e telle que définie à l’article 89. 
 2 Dans l’intervalle, ils/elles conservent  à titre transitoire leur fonction de 
 professeur-e adjoint-e qu'ils/elles exercent selon les dispositions prévues par 
-l'ancien droit.  
-Art\. 235 Dispositions transitoires concernant les professeur-es  
+l'ancien droit.
+****************************************************************************************************
+235 Dispositions transitoires concernant les professeur-es  
 associé-es  
 1 Les professeur-es associé-es exerçant la fonction telle que définie à l’article 
 37 de la loi sur l’Université du 26 mai 1973 sont nommé-es, dans un délai de 
@@ -3582,9 +3547,9 @@ stratégie voulue par l’UPER concernée, d’autre part.
 3 Les règles concernant la promotion des professeur-es associé-es à la 
 fonction de professeur-e or dinaire énoncées à l’article 114, alinéas 1 à 3, sont 
 applicables par analogie à la procédure de promotion dont l’ouverture a été acceptée par le Décanat de l’UPER c oncernée en concertation avec le 
-Rectorat. 
- 
-Art\. 238 Dispositions transitoires concernant les chargé-es de cours 
+Rectorat.
+****************************************************************************************************
+238 Dispositions transitoires concernant les chargé-es de cours 
 1 Dès l’entrée en vigueur du présent règlement, la fonction de chargé-e de 
 cours relève du corps des collaborateurs/trices de l’enseignement et de la 
 recherche.  
@@ -3592,8 +3557,9 @@ recherche.
 cours n’est plus fixé en fonction d’un nombre d’heures de cours hebdomadaires. Il est arrêté en term es de pourcentage. L’adaptation des 
 mandats s’effectue lors du prochain renouvellement. Les contrats de travail 
 de droit privé conclus avant l’abrogation de l’article 196 ne sont pas adaptés. 
-(1) 
-Art\. 239 Dispositions transitoires concernant les privat-docents 
+(1)
+****************************************************************************************************
+239 Dispositions transitoires concernant les privat-docents 
 Dès l’entrée en vigueur du présent règlement, la fonction de privat-docent relève du corps des collaborateurs/trices de l’enseignement et de la recherche.
 ****************************************************************************************************
 239A
@@ -3603,9 +3569,9 @@ Suite à l’abrogation de l’article 197, le taux d’activité des chargé-es
 d’enseignement n’est plus fixé en fonction d’un nombre d’heures 
 d’enseignement hebdomadaires. Il es t arrêté en termes de pourcentage. 
 L’adaptation des mandats s’effectue lors du prochain renouvellement. Les contrats de travail de droit privé conclus avant l’abrogation de l’article 197 ne 
-sont pas adaptés.  
- 
-Art\. 240 Dispositions transitoires concernant les collaborateurs et 
+sont pas adaptés.
+****************************************************************************************************
+240 Dispositions transitoires concernant les collaborateurs et 
 collaboratrices scientifiques I et II 
 Dès l’entrée en vigueur du prés ent règlement, la fonction de 
 collaborateur/trice scientifique I et II relevant du personnel administratif et 
@@ -3633,9 +3599,9 @@ stratégie voulue par l’UPER concernée, d’autre part.
 concernée, est chargée de faire des propositions au sujet de l’évaluation des candidatures en vue d’une nomination à la  fonction de maître d’enseignement 
 et de recherche. 
 5 Le dossier complet ainsi que le préav is de la commission est transmis au 
-Rectorat pour examen et décision. 
- 
-Art\. 242 Dispositions tr ansitoires concernant les assistant-es, catégorie 
+Rectorat pour examen et décision.
+****************************************************************************************************
+242 Dispositions tr ansitoires concernant les assistant-es, catégorie 
 3 
 1 Dès l’entrée en vigueur du présent règlement, la fonction d’assistant-e, 
 catégorie 3, est supprimée. 
@@ -3650,22 +3616,24 @@ rémunéré-es par des fonds provenant de l’extérieur
 rémunéré-e par des fonds provenant de l’extérieur est supprimée. 
 2 Les assistant-es exerçant la fonctio n visée à l’alinéa 1 et engagé-es avant 
 l’entrée en vigueur du présent règlement sont autorisé-es à poursuivre leur 
-activité jusqu’au terme de leur contrat en cours ou de son financement. 
- 
-Art\. 243A(3)Dispositions transitoires concernant les attaché-es de 
+activité jusqu’au terme de leur contrat en cours ou de son financement.
+****************************************************************************************************
+243A(3)Dispositions transitoires concernant les attaché-es de 
 recherche I et II  
 1 Dès l’entrée en vigueur de la modifica tion du présent règlement, la fonction 
 d’attaché-e de recherche I et II est supprimée. 
 2 Les attaché-es de recherche I et II engagé-es avant la suppression de la 
 fonction poursuivent leur activité jusqu’ au terme de leur contrat en cours ou 
-de son financement. 
- Art\. 243B
+de son financement.
+****************************************************************************************************
+243B
 (3) Dispositions transitoires concernant les doctorant-es  
 1 Dès l’entrée en vigueur de la modification du présent règlement, la fonction 
 de doctorant-e est supprimée. 
 2 Les doctorant-es engagés avant la suppression de la fonction poursuivent 
-leur activité jusqu’au terme de leur co ntrat en cours ou de son financement. 
- Art\. 244 Dispositions transitoires  propres au corps enseignant de 
+leur activité jusqu’au terme de leur co ntrat en cours ou de son financement.
+****************************************************************************************************
+244 Dispositions transitoires  propres au corps enseignant de 
 l'Université 
 Les traitements des membres du corps en seignant exerçant, à titre transitoire, 
 une fonction définie par la loi sur l’Université, du 26 mai 1973, et abolie par l’entrée en vigueur de la loi et du présent règlement sont fixés selon les 
@@ -3680,297 +3648,344 @@ d) Professeu r-e titulaire 23 0 à 15
 e) Assistan t-e, caté gorie 3 9 4 à 12
 ****************************************************************************************************
 1  Objet 
-Art\. 2  Structure du règlement  
-Art\. 3  Compétences  
+Art\.? | Article\.?2  Structure du règlement  
+Art\.? | Article\.?3  Compétences  
 2E PARTIE – CORPS ENSEIGNANT  
 Titre I   Composition du corps enseignant et droit 
-applicable  
-Art\. 4  Composition du corps enseignant  
-Art\. 5  Droit applicable  
+applicable
+****************************************************************************************************
+4  Composition du corps enseignant
+****************************************************************************************************
+5  Droit applicable  
 Titre II   Dispositions générales applicables aux membres du corps enseignant
  
 Chapitre I   Conditions générales de travail  
-Art\. 6  Principes généraux  
-Art\. 7  Organisation du travail  
-Art\. 8  Protection de la personnalité  
-Art\. 9  Egalité des chances  
-Art\. 10  Limite d’âge  
-Art\. 11  Etat de santé  
-Art\. 12  Invalidité 
-Art\. 13  Activités 
-Art\. 14  Entrée en fonction  
-Art\. 15  Cahiers des charges  
-Art\. 16  Exercice d’un mandat électif  
-Art\. 17  Responsabilités civile et pénale  
-Art\. 18  Dossier administratif  
-Art\. 19  Information syndicale  
+Art\.? | Article\.?6  Principes généraux
+****************************************************************************************************
+7  Organisation du travail  
+Art\.? | Article\.?8  Protection de la personnalité  
+Art\.? | Article\.?9  Egalité des chances  
+Art\.? | Article\.?10  Limite d’âge
+****************************************************************************************************
+11  Etat de santé  
+Art\.? | Article\.?12  Invalidité 
+Art\.? | Article\.?13  Activités 
+Art\.? | Article\.?14  Entrée en fonction  
+Art\.? | Article\.?15  Cahiers des charges
+****************************************************************************************************
+16  Exercice d’un mandat électif  
+Art\.? | Article\.?17  Responsabilités civile et pénale  
+Art\.? | Article\.?18  Dossier administratif
+****************************************************************************************************
+19  Information syndicale  
 Chapitre II   Devoirs des membres du corps enseignant  
-Art\. 20  Respect de l’intérêt de l’Université  
-Art\. 21  Attitude générale  
-Art\. 22  Devoirs d’autorité  
-Art\. 23  Exécution du travail  
-Art\. 24  Domicile 
-Art\. 25  Utilisation du téléphon e et des ressources 
-informatiques (3) 
-Art\. 26  Absences 
-Art\. 27  Interdiction d’accepter des dons  
-Art\. 28  Secret de fonction  
-Chapitre III  Durée du travail et horaire règlementaire  
-Art\. 29  Activité annuelle  
-Art\. 30  Durée du travail et horaire règlementaire  
-Art\. 31  Heures supplémentaires  
+Art\.? | Article\.?20  Respect de l’intérêt de l’Université  
+Art\.? | Article\.?21  Attitude générale
+****************************************************************************************************
+22  Devoirs d’autorité  
+Art\.? | Article\.?23  Exécution du travail  
+Art\.? | Article\.?24  Domicile 
+Art\.? | Article\.?25  Utilisation du téléphon e et des ressources 
+informatiques (3)
+****************************************************************************************************
+26  Absences 
+Art\.? | Article\.?27  Interdiction d’accepter des dons  
+Art\.? | Article\.?28  Secret de fonction  
+Chapitre III  Durée du travail et horaire règlementaire
+****************************************************************************************************
+29  Activité annuelle  
+Art\.? | Article\.?30  Durée du travail et horaire règlementaire
+****************************************************************************************************
+31  Heures supplémentaires  
 Chapitre IV  Droits des membres du corps enseignant  
 Section 1  Vacances 
-Art\. 32  Durée 
-Art\. 33  Réductions  
-Art\. 34  Périodes 
-Art\. 35  Droits et obligations  
+Art\.? | Article\.?32  Durée 
+Art\.? | Article\.?33  Réductions
+****************************************************************************************************
+34  Périodes 
+Art\.? | Article\.?35  Droits et obligations  
 Section 2  Congés 
-Art\. 36  Principe 
-Art\. 37  Congés officiels et autre congé  
-Art\. 38  Congés spéciaux  
-Art\. 39  Congé maternité  
-Art\. 40  Congé parental  
-Art\. 40A(5) Congé paternité supplémentaire  
-Art\. 41  Congé syndical et décharge syndicale (5) 
-Art\. 42  Congé scientifique (5) 
-Art\. 43  Congé extraordinaire  
-Section 3  Assurances  
-Art\. 44  Assurance-accident
+Art\.? | Article\.?36  Principe 
+Art\.? | Article\.?37  Congés officiels et autre congé
+****************************************************************************************************
+38  Congés spéciaux  
+Art\.? | Article\.?39  Congé maternité  
+Art\.? | Article\.?40  Congé parental  
+Art\.? | Article\.?40A(5) Congé paternité supplémentaire
 ****************************************************************************************************
 41  Congé syndical et décharge syndicale (5) 
-Art\. 42  Congé scientifique (5) 
-Art\. 43  Congé extraordinaire  
-Section 3  Assurances  
-Art\. 44  Assurance-accident  
-Art\. 45  Assurance-maladie  
+Art\.? | Article\.?42  Congé scientifique (5) 
+Art\.? | Article\.?43  Congé extraordinaire  
+Section 3  Assurances
+****************************************************************************************************
+44  Assurance-accident  
+Art\.? | Article\.?45  Assurance-maladie  
 Section 4  Cumul des fonctions et des charges  
-Art\. 46  Cumul des fonctions  
-Art\. 47  Cumul des charges des membres du corps enseignant
- 
-Art\. 48  Cumul des charges avec des employeurs ou 
+Art\.? | Article\.?46  Cumul des fonctions
+****************************************************************************************************
+47  Cumul des charges des membres du corps enseignant
+****************************************************************************************************
+48  Cumul des charges avec des employeurs ou 
 employeuses hors de l’Université de Genève (5) 
-Chapitre V   Propriété intellectuelle  
-Art 49  Cession des droits de propriété intellectuelle  
-Art\. 50    Répartition des revenus  
+Chapitre V   Propriété intellectuelle
+****************************************************************************************************
+49  Cession des droits de propriété intellectuelle
+****************************************************************************************************
+50    Répartition des revenus  
 Chapitre VI  Activités de service de l’Université, activités 
 accessoires, autres activités lucratives et 
 activités extérieures  
-Section 1  Activités de service  
-Art\. 51  Activités de service  
+Section 1  Activités de service
+****************************************************************************************************
+51  Activités de service  
 Section 2  Activités accessoires des membres du corps enseignant 
 à charge complète  
-Art\. 52  Définition  
-Art\. 53  Conditions  
-Art\. 54  Information  
-Art\. 55  Valorisation de la propriété intellectuelle  
-Art\. 56  Clientèle privée des professeurs à la section de médecine dentaire
+Art\.? | Article\.?52  Définition  
+Art\.? | Article\.?53  Conditions
+****************************************************************************************************
+54  Information  
+Art\.? | Article\.?55  Valorisation de la propriété intellectuelle
+****************************************************************************************************
+56  Clientèle privée des professeurs à la section de médecine dentaire
  
 Section 3  Autres activités lucratives des membres du corps enseignant à charge complète
  
-Art\. 57  Conditions  
-Art\. 58  Information  
+Art\.? | Article\.?57  Conditions
+****************************************************************************************************
+58  Information  
 Section 4  Activités extérieures des membres du corps enseignant à charge partielle
+****************************************************************************************************
+59  Activités extérieures des membres du corps enseignant à charge partielle
  
-Art\. 59  Activités extérieures des membres du corps enseignant à charge partielle
- 
-Art\. 60  Information  
-Chapitre VII  (3) 
-Art\. 61   (3) 
+Art\.? | Article\.?60  Information  
+Chapitre VII  (3)
+****************************************************************************************************
+61   (3) 
 Chapitre VIII  Procédures applicables en matière de 
 protection de la personnalité  
 Section 1  Principes 
-Art\. 62   Champ d’application  
-Art\. 63  Définition du harcèlement psychologique et du 
+Art\.? | Article\.?62   Champ d’application
+****************************************************************************************************
+63  Définition du harcèlement psychologique et du 
 harcèlement sexuel  
 Section 2  Processus de médiation  
-Art\. 64   Les médiateurs et médiatrices (5) 
-Art\. 65  Principes de la médiation  
-Art\. 66  Saisine du médiateur ou de la médiatrice  
-Art\. 67  Processus de médiation  
-Art\. 67A(3) Suspension  
-Art\. 67B(3)Accès aux documents  
-Art\. 68  Fin du processus de médiation  
-Section 3  Procédure d’investigation
+Art\.? | Article\.?64   Les médiateurs et médiatrices (5)
 ****************************************************************************************************
-67  Processus de médiation  
-Art\. 67A(3) Suspension  
-Art\. 67B(3)Accès aux documents  
-Art\. 68  Fin du processus de médiation  
+65  Principes de la médiation  
+Art\.? | Article\.?66  Saisine du médiateur ou de la médiatrice  
+Art\.? | Article\.?67  Processus de médiation  
+Art\.? | Article\.?67A(3) Suspension
+****************************************************************************************************
+67B(3)Accès aux documents  
+Art\.? | Article\.?68  Fin du processus de médiation  
 Section 3  Procédure d’investigation  
-Art\. 69  But 
-Art\. 69A (5) Protection des plaignant-es et des témoins  
-Art\. 70  Demande d’investigation  
-Art\. 71  Examen de la plainte par le Rectorat  
-Art\. 72  Saisine d’un enquêteur externe  
-Art\. 73  Mission de la personne en charge de l’enquête et  
+Art\.? | Article\.?69  But
+****************************************************************************************************
+69A (5) Protection des plaignant-es et des témoins  
+Art\.? | Article\.?70  Demande d’investigation  
+Art\.? | Article\.?71  Examen de la plainte par le Rectorat
+****************************************************************************************************
+72  Saisine d’un enquêteur externe  
+Art\.? | Article\.?73  Mission de la personne en charge de l’enquête et  
 instruction (5) 
-Art\. 74  Défaut d’une partie ou d’un-e témoin  
-Art\. 74A(3) Renonciation à la plainte  
-Art\. 75  Clôture de l’instruction  
-Art\. 76 (3) 
-Art\. 77  Détermination des parties et rapport  
-Art\. 78  Décision du Rectorat  
-Art\. 79  Contentieux  
+Art\.? | Article\.?74  Défaut d’une partie ou d’un-e témoin
+****************************************************************************************************
+74A(3) Renonciation à la plainte  
+Art\.? | Article\.?75  Clôture de l’instruction  
+Art\.? | Article\.?76 (3) 
+Art\.? | Article\.?77  Détermination des parties et rapport
+****************************************************************************************************
+78  Décision du Rectorat  
+Art\.? | Article\.?79  Contentieux  
 Chapitre IX  Sanctions disciplinaires et procédure en cas 
 de sanctions disciplinaires  
-Section 1  Sanctions disciplinaires  
-Art\. 80  Autorités compétentes et sanctions disciplinaires  
+Section 1  Sanctions disciplinaires
+****************************************************************************************************
+80  Autorités compétentes et sanctions disciplinaires  
 Section 2  Procédure en cas de sanctions disciplinaires  
-Art\. 81  Etablissement des faits  
-Art\. 82  Suspension provisoire pour enquête  
-Art\. 83  Coordination avec d’autres procédures 
+Art\.? | Article\.?81  Etablissement des faits
+****************************************************************************************************
+82  Suspension provisoire pour enquête  
+Art\.? | Article\.?83  Coordination avec d’autres procédures 
 administrative, civile et pénale  
-Chapitre X   Contentieux  
-Art\. 84  Opposition  
-Art\. 85  Recours 
+Chapitre X   Contentieux
+****************************************************************************************************
+84  Opposition  
+Art\.? | Article\.?85  Recours 
 Titre III   Dispositions applicables aux membres du 
 corps professoral rémunéré-es par des 
-fonds provenant du budget de l’Etat  
-Art\. 86  Champ d’application  
+fonds provenant du budget de l’Etat
+****************************************************************************************************
+86  Champ d’application  
 Chapitre I   Statut des membres du corps professoral  
-Art\. 87  Composition  
-Art\. 88  Professeur-e ordinaire  
-Art\. 89  Professeur-e associé  
-Art\. 90  Professeur-e titulaire  
-Art\. 91  Professeur-e assistant-e  
-Art\. 92  Professeur-e invité-e  
+Art\.? | Article\.?87  Composition  
+Art\.? | Article\.?88  Professeur-e ordinaire
+****************************************************************************************************
+89  Professeur-e associé  
+Art\.? | Article\.?90  Professeur-e titulaire  
+Art\.? | Article\.?91  Professeur-e assistant-e
+****************************************************************************************************
+92  Professeur-e invité-e  
 Chapitre II   Autorité de nomination  
-Art\. 93  Autorité de nomination  
-Chapitre III  Procédure de nomination  
-Art\. 94  Titre (3) 
+Art\.? | Article\.?93  Autorité de nomination  
+Chapitre III  Procédure de nomination
+****************************************************************************************************
+94  Titre (3) 
 Section 1  Procédure de nomination des professeur-es ordinaires, 
 des professeur-es associé-es et des professeur-es 
 assistant-es au sein des unités principales 
-d’enseignement et de recherche  
-Art\. 95   Commission de planification académique
+d’enseignement et de recherche
 ****************************************************************************************************
 95   Commission de planification académique  
-Art\. 96  Mise au concours  
-Art\. 97  Ouverture de la procédure de nomination  
-Art\. 98  Commission de nomination  
-Art\. 99  Examen et proposition de la commission  
-Art\. 100  Examen par le Rectorat  
-Art\. 101  Décision du recteu r ou de la rectrice  
-Art\. 102  Information aux candidat-es et procédure de plainte  
-Art\. 103  Appel 
+Art\.? | Article\.?96  Mise au concours  
+Art\.? | Article\.?97  Ouverture de la procédure de nomination
+****************************************************************************************************
+98  Commission de nomination  
+Art\.? | Article\.?99  Examen et proposition de la commission  
+Art\.? | Article\.?100  Examen par le Rectorat
+****************************************************************************************************
+101  Décision du recteu r ou de la rectrice  
+Art\.? | Article\.?102  Information aux candidat-es et procédure de plainte
+****************************************************************************************************
+103  Appel 
 Section 2  Procédure de nomination des professeur-es titulaires et 
 des professeur-es invité-es au sein des unités principales d’enseignement et de recherche
- 
-Art\. 104  Professeur-e titulaire  
-Art\. 105  Professeur-e invité-e  
+****************************************************************************************************
+104  Professeur-e titulaire
+****************************************************************************************************
+105  Professeur-e invité-e  
 Section 3  Procédure de nomination des membres du corps 
 professoral hors unité principale d’enseignement et de recherche
  
-Art\. 106  Mise au concours  
-Art\. 107  Ouverture de la procédure de nomination  
-Art\. 108  Commission de nomination  
-Art\. 109  Examen et proposition de la commission  
-Art\. 110  Examen par le Rectorat  
-Art\. 111  Décision du recteu r ou de la rectrice  
-Art\. 112  Appel 
-Art\. 112A(3) Professeur-e invité-e  
+Art\.? | Article\.?106  Mise au concours
+****************************************************************************************************
+107  Ouverture de la procédure de nomination  
+Art\.? | Article\.?108  Commission de nomination  
+Art\.? | Article\.?109  Examen et proposition de la commission
+****************************************************************************************************
+110  Examen par le Rectorat  
+Art\.? | Article\.?111  Décision du recteu r ou de la rectrice  
+Art\.? | Article\.?112  Appel
+****************************************************************************************************
+112A(3) Professeur-e invité-e  
 Section 3A  Suppléance (3) (5) 
-Art\. 112B  Principes (3) 
-Section 4  Nomination au titre de professeur-e honoraire  
-Art\. 113  Professeur-e honoraire  
+Art\.? | Article\.?112B  Principes (3) 
+Section 4  Nomination au titre de professeur-e honoraire
+****************************************************************************************************
+113  Professeur-e honoraire  
 Chapitre IV  Promotion des professeur-es associé-es (1) 
-Art\. 114  Conditions  
-Art\. 114A (5) Procédure d’évaluation  
-Art\. 114B (5) Procédure de promotion  
+Art\.? | Article\.?114  Conditions  
+Art\.? | Article\.?114A (5) Procédure d’évaluation
+****************************************************************************************************
+114B (5) Procédure de promotion  
 Chapitre V   Evaluation et titularisa tion des  professeur-
 es assistant-es  
-Art\. 115  Principes 
-Art\. 116  Procédure d’évaluati on du premier mandat  
-Art\. 116A (4) Procédure de titularisation à l’issue du premier 
+Art\.? | Article\.?115  Principes
+****************************************************************************************************
+116  Procédure d’évaluati on du premier mandat  
+Art\.? | Article\.?116A (4) Procédure de titularisation à l’issue du premier 
 mandat 
-Art\. 117  Procédure d’évaluation finale  
-Art\. 117A (5) Evaluation par le/la doyen-e  
-Art\. 118  Titularisation ou fin des rapports de service  
-Art\. 118A (1)Nomination par voie d’appel  
+Art\.? | Article\.?117  Procédure d’évaluation finale
+****************************************************************************************************
+117A (5) Evaluation par le/la doyen-e  
+Art\.? | Article\.?118  Titularisation ou fin des rapports de service
+****************************************************************************************************
+118A (1)Nomination par voie d’appel  
 Chapitre VI  Procédure de renouvellement (3) 
 Section 1  Procédure de renouvellement des professeur-es ordinaires, professeur-es associé-es et professeur-es titulaires nommé-es au sein d’une UPER 
 (3)
 ****************************************************************************************************
 119  Conditions  
-Art\. 120   Commission de renouvellement (1) 
-Art\. 121   Examen par la commission  
-Art\. 122  Procédure  
-Art\. 122A (5) Evaluation par le/la Doyen-ne  
-Art\. 123  Notification  
-Art\. 124  Renouvellement conditionnel  
+Art\.? | Article\.?120   Commission de renouvellement (1) 
+Art\.? | Article\.?121   Examen par la commission  
+Art\.? | Article\.?122  Procédure
+****************************************************************************************************
+122A (5) Evaluation par le/la Doyen-ne  
+Art\.? | Article\.?123  Notification
+****************************************************************************************************
+124  Renouvellement conditionnel  
 Section 2  Procédure de renouvellement des professeur-es invités  
-Art\. 125   (3) 
-Art\. 126   (3) 
+Art\.? | Article\.?125   (3)
+****************************************************************************************************
+126   (3) 
 Section 3  Procédure de renouvellement des professeur-es nommés 
 hors unité principale d’enseignement et de recherche (3) 
-Art\. 127  Conditions  
-Art\. 128  Commission de renouvellement  (3) 
-Art\. 129  Examen par la commission et notification  
-Art\. 130  Notification  
-Art\. 131  Renouvellement conditionnel  
+Art\.? | Article\.?127  Conditions
+****************************************************************************************************
+128  Commission de renouvellement  (3) 
+Art\.? | Article\.?129  Examen par la commission et notification  
+Art\.? | Article\.?130  Notification
+****************************************************************************************************
+131  Renouvellement conditionnel  
 Section 3A  Procédure de prolongation des professeur-es invité-es 
 (4) 
-Art\. 131A(5) 
-Art\. 131B(3)Procédures  
+Art\.? | Article\.?131A(5)
+****************************************************************************************************
+131B(3)Procédures  
 Chapitre VII  Cessation d’activité  
-Art\. 132  Cessation d’activité  
-Chapitre VIII  Nomination conjointe  
-Art\. 133  Nomination conjointe  
+Art\.? | Article\.?132  Cessation d’activité  
+Chapitre VIII  Nomination conjointe
+****************************************************************************************************
+133  Nomination conjointe  
 Chapitre IX  Modification du taux d’activité en cours 
-d’engagement  
-Art\. 134  Modification du taux d’activité en cours 
+d’engagement
+****************************************************************************************************
+134  Modification du taux d’activité en cours 
 d’engagement  
 Chapitre X   Plainte pour violatio n de la règle de 
 préférence  
-Art\. 135  Délai et qualité pour agir  
-Art\. 136  Procédure  
-Art\. 137  Rapport final  
+Art\.? | Article\.?135  Délai et qualité pour agir
+****************************************************************************************************
+136  Procédure
+****************************************************************************************************
+137  Rapport final  
 Titre IV   Dispositions applicables aux membres du 
 corps des collaborateurs et collaboratrices 
 de l’enseignement et de la recherche 
 rémunéré-es par des fonds provenant du budget de l’Etat
- 
-Art\. 138  Champ d’application  
+****************************************************************************************************
+138  Champ d’application  
 Chapitre I   Statut des membres du corps des 
 collaborateurs et collaboratrices de l’enseignement et de la recherche
  
-Art\. 139  Composition  
-Art\. 140  Maître d’enseignement et de recherche  
-Art\. 141  Chargé-e de cours  
-Art\. 142  Privat-docent  
-Art\. 143  Chargé-e d’enseignement  
-Art\. 144 (5) Conseiller et conseillère académique  
-Art\. 145  Collaborateur scientifique I et II  
-Art\. 146  Chef-fe de clinique scientifique  
-Art\. 147  Maître assistant-e  
-Art\. 148  Post-doctorant-e  
-Art\. 149  Assistant-e
+Art\.? | Article\.?139  Composition
 ****************************************************************************************************
-145  Collaborateur scientifique I et II  
-Art\. 146  Chef-fe de clinique scientifique  
-Art\. 147  Maître assistant-e  
-Art\. 148  Post-doctorant-e  
-Art\. 149  Assistant-e  
-Art\. 150  Auxiliaire de recherche et d’enseignement  
-Art\. 151  Chercheur et chercheuse invité-e  
+140  Maître d’enseignement et de recherche  
+Art\.? | Article\.?141  Chargé-e de cours  
+Art\.? | Article\.?142  Privat-docent  
+Art\.? | Article\.?143  Chargé-e d’enseignement
+****************************************************************************************************
+144 (5) Conseiller et conseillère académique  
+Art\.? | Article\.?145  Collaborateur scientifique I et II  
+Art\.? | Article\.?146  Chef-fe de clinique scientifique
+****************************************************************************************************
+147  Maître assistant-e  
+Art\.? | Article\.?148  Post-doctorant-e  
+Art\.? | Article\.?149  Assistant-e  
+Art\.? | Article\.?150  Auxiliaire de recherche et d’enseignement
+****************************************************************************************************
+151  Chercheur et chercheuse invité-e  
 Chapitre II   Autorité de nomination  
-Art\. 152  Autorité de nomination  
-Chapitre III  Procédure de nomination  
-Art\. 153  Recherche des candidat-es  
-Art\. 154  Proposition de nomination  
-Art\. 155  Information aux candidat-es et procédure de plainte  
-Chapitre IIIA(3) Suppléance  
-Art\. 155A(3) Principes 
+Art\.? | Article\.?152  Autorité de nomination  
+Chapitre III  Procédure de nomination
+****************************************************************************************************
+153  Recherche des candidat-es  
+Art\.? | Article\.?154  Proposition de nomination  
+Art\.? | Article\.?155  Information aux candidat-es et procédure de plainte  
+Chapitre IIIA(3) Suppléance
+****************************************************************************************************
+155A(3) Principes 
 Chapitre IV  Promotion des maîtres d’enseignement et de 
 recherche et des chargé-es de cours à la fonction de professeur-e associé-e
  
-Section 1(5) Promotion des maîtres d’enseignement et de recherche  
-Art\. 156  Condition  
-Art\. 156A(5) Procédure d’évaluation  
-Art\. 156B(5)  Procédure de promotion  
-Section 2(5) Promotion des  chargé-es de cours (nouveau)  
-Art\. 156C(5) Conditions et procédure  
+Section 1(5) Promotion des maîtres d’enseignement et de recherche
+****************************************************************************************************
+156  Condition  
+Art\.? | Article\.?156A(5) Procédure d’évaluation  
+Art\.? | Article\.?156B(5)  Procédure de promotion  
+Section 2(5) Promotion des  chargé-es de cours (nouveau)
+****************************************************************************************************
+156C(5) Conditions et procédure  
 Chapitre V   Procédure de renouvellement et procédure 
 de prolongation  
 Section 1  Procédure de renouvellement des maîtres 
@@ -3978,194 +3993,214 @@ d’enseignement et de recherche, chargé-es de cours,
 privat-docents, chargé-es d’enseignement, conseillers et 
 conseillères académiques(5), collaborateurs-trices 
 scientifiques I et II, maîtres assistant-es et assistant-es 
-(3) 
-Art\. 157  Conditions  
-Art\. 158  Procédure  
-Art\. 158A(5) Examen par le/la doyen-ne  
-Art\. 159  Notification  
-Art\. 160  Renouvellement conditionnel  
+(3)
+****************************************************************************************************
+157  Conditions  
+Art\.? | Article\.?158  Procédure  
+Art\.? | Article\.?158A(5) Examen par le/la doyen-ne  
+Art\.? | Article\.?159  Notification
+****************************************************************************************************
+160  Renouvellement conditionnel  
 Section 2  Procédure de prolongation des chef-fes de clinique 
 scientifiques, des post-doctorant-es, des auxiliaires de 
 recherche et d’enseignement et des chercheurs/euses invité-es
- 
-Art\. 161  Prolongation  
-Chapitre VI  Cessation de l’activité  
-Art\. 162  Cessation de l’activité  
-Chapitre VII  Modification du taux d’activité en cours 
-d’engagement
 ****************************************************************************************************
 161  Prolongation  
 Chapitre VI  Cessation de l’activité  
-Art\. 162  Cessation de l’activité  
+Art\.? | Article\.?162  Cessation de l’activité  
 Chapitre VII  Modification du taux d’activité en cours 
-d’engagement  
-Art\. 163  Modification du taux d’activité en cours 
+d’engagement
+****************************************************************************************************
+163  Modification du taux d’activité en cours 
 d’engagement  
 Titre V  Dispositions applicables aux membres du 
 corps enseignant rémunéré-es par des fonds provenant de l’extérieur
- 
-Art\. 164  Champ d’application  
-Art\. 165  Droit applicable  
-Art\. 166  Principes de l’engagement  
-Art\. 167  Engagement au sein du corps professoral  
-Art\. 168  Engagement au sein du corps des 
+****************************************************************************************************
+164  Champ d’application  
+Art\.? | Article\.?165  Droit applicable  
+Art\.? | Article\.?166  Principes de l’engagement  
+Art\.? | Article\.?167  Engagement au sein du corps professoral
+****************************************************************************************************
+168  Engagement au sein du corps des 
 collaborateurs/trices de l’enseignement et de la 
 recherche  
-Art\. 168A(3)Engagement d’un-e assistant-e  
-Art\. 169   (3) 
-Art\. 169A   (3) 
-Art\. 170   (3) 
-Art\. 171  Procédure d’engagement  
-Art\. 172  Durée 
-Art\. 173  Traitement  
-Art\. 174  Prolongation  
-Art\. 175  Evaluation  
-Art\. 176  Fin de l’engagement  
-Art\. 177  Contentieux  
+Art\.? | Article\.?168A(3)Engagement d’un-e assistant-e  
+Art\.? | Article\.?169   (3)
+****************************************************************************************************
+169A   (3) 
+Art\.? | Article\.?170   (3) 
+Art\.? | Article\.?171  Procédure d’engagement  
+Art\.? | Article\.?172  Durée 
+Art\.? | Article\.?173  Traitement  
+Art\.? | Article\.?174  Prolongation
+****************************************************************************************************
+175  Evaluation  
+Art\.? | Article\.?176  Fin de l’engagement  
+Art\.? | Article\.?177  Contentieux  
 Titre VI   Traitement et indemnités des membres du 
-corps enseignant  
-Art\. 178  Champ d’application  
+corps enseignant
+****************************************************************************************************
+178  Champ d’application  
 Chapitre I   Dispositions générales applicables aux 
-membres du corps enseignant  
-Art\. 179  Fixation du traitemen t des membres du corps 
+membres du corps enseignant
+****************************************************************************************************
+179  Fixation du traitemen t des membres du corps 
 enseignant rémunéré-es par fonds provenant du 
-budget de l’Etat  
-Art\. 180  Fixation du traitemen t des membres du corps 
+budget de l’Etat
+****************************************************************************************************
+180  Fixation du traitemen t des membres du corps 
 enseignant rémunéré-es par des fonds provenant de 
 l’extérieur  
-Art\. 181  Temps partiel  
-Art\. 182  Changement de foncti on avec promotion  
-Art\. 183   (3) 
-Art\. 184  Traitement en cas d’absenc e pour cause de maladie 
-ou d’accident  
-Art\. 184A(3) Gratification pour une année de service  
-Art\. 184B(3) Allocation à la naissance  
-Art\. 185  Prestations aux survivant-es  
-Art\. 186  Traitement doublé lors de la mise à la retraite  
-Art\. 187  Compensation  
-Art\. 188  Service obligatoire en Suisse  
+Art\.? | Article\.?181  Temps partiel
+****************************************************************************************************
+182  Changement de foncti on avec promotion  
+Art\.? | Article\.?183   (3) 
+Art\.? | Article\.?184  Traitement en cas d’absenc e pour cause de maladie 
+ou d’accident
+****************************************************************************************************
+184A(3) Gratification pour une année de service  
+Art\.? | Article\.?184B(3) Allocation à la naissance  
+Art\.? | Article\.?185  Prestations aux survivant-es
+****************************************************************************************************
+186  Traitement doublé lors de la mise à la retraite  
+Art\.? | Article\.?187  Compensation
+****************************************************************************************************
+188  Service obligatoire en Suisse  
 Chapitre II   Dispositions particulières applicables aux 
 membres du corps enseignant rémunéré-es par des fonds provenant du budget de l’Etat
- 
-Art\. 189  Suppléance  
-Art\. 190  Indemnités de direction  
-Art\. 191   (3)
 ****************************************************************************************************
 189  Suppléance  
-Art\. 190  Indemnités de direction  
-Art\. 191   (3) 
-Art\. 192   (3) 
+Art\.? | Article\.?190  Indemnités de direction  
+Art\.? | Article\.?191   (3) 
+Art\.? | Article\.?192   (3) 
 Chapitre III  Traitement des membres du corps 
-professoral  
-Art\. 193  Echelle des traitements  
-Art\. 194 (1) Dépassement de traitement  
-Art\. 194A(3)  Rachat de caisse de pension  
+professoral
+****************************************************************************************************
+193  Echelle des traitements  
+Art\.? | Article\.?194 (1) Dépassement de traitement
+****************************************************************************************************
+194A(3)  Rachat de caisse de pension  
 Chapitre IV  Traitement des membres du corps des 
 collaborateurs/trices de l’enseignement et 
-de la recherche  
-Art\. 195   Echelle des traitements  
-Art\. 196     (1) 
-Art\. 197     (1) 
-Art\. 198     (4) 
-Art\. 199 (3) 
-Art\. 200 (3) 
+de la recherche
+****************************************************************************************************
+195   Echelle des traitements  
+Art\.? | Article\.?196     (1) 
+Art\.? | Article\.?197     (1) 
+Art\.? | Article\.?198     (4) 
+Art\.? | Article\.?199 (3)
+****************************************************************************************************
+200 (3) 
 3E PARTIE  CORPS DU PERSONNEL 
 ADMINISTRATIF ET TECHNIQUE  
 Titre I  Dispositions générales  
-Chapitre I   Droit applicable  
-Art\. 201  Droit applicable  
+Chapitre I   Droit applicable
+****************************************************************************************************
+201  Droit applicable  
 Chapitre II   Compétences  
-Art\. 202  Compétences du Rectorat  
-Art\. 203 (5) (abrogé) 
-Art\. 204  Autres compétences spécifiques  
+Art\.? | Article\.?202  Compétences du Rectorat  
+Art\.? | Article\.?203 (5) (abrogé)
+****************************************************************************************************
+204  Autres compétences spécifiques  
 Titre II  Dispositions applicables aux membres du 
 corps du personnel administratif et 
 technique rémunéré-es par des fonds 
-provenant du budget de l’Etat  
-Art\. 205  En matière d’engagement et de nomination (5) 
-Art\. 206  En matière de fin des rapports de service  
-Art\. 207  En matière de sanctions  
+provenant du budget de l’Etat
+****************************************************************************************************
+205  En matière d’engagement et de nomination (5) 
+Art\.? | Article\.?206  En matière de fin des rapports de service
+****************************************************************************************************
+207  En matière de sanctions  
 Titre III   Dispositions applicables aux membres du corps du personnel administratif et 
 technique rémunéré-es par des fonds 
 provenant de l’extérieur
- 
-Art\. 208  Définition  
-Art\. 209  Autorité d’engagement  
-Art\. 210  Principes de l’engagement  
-Art\. 211  Durée 
-Art\. 212  Traitement  
-Art\. 213  Prolongation  
-Art\. 214  Evaluation  
-Art\. 215  Fin de l’engagement  
+****************************************************************************************************
+208  Définition  
+Art\.? | Article\.?209  Autorité d’engagement  
+Art\.? | Article\.?210  Principes de l’engagement  
+Art\.? | Article\.?211  Durée 
+Art\.? | Article\.?212  Traitement
+****************************************************************************************************
+213  Prolongation  
+Art\.? | Article\.?214  Evaluation
+****************************************************************************************************
+215  Fin de l’engagement  
 Titre IV   Dispositions applicables à l’ensemble des 
 membres du corps du personnel 
 administratif et technique  
 Chapitre I   Procédures applicables en matière de 
-protection de la personnalité  
-Art\. 216  Principes 
+protection de la personnalité
+****************************************************************************************************
+216  Principes 
 Chapitre II   Contentieux  
-Art\. 217  Opposition  
-Art\. 218  Recours à la chambre admini strative de la Cour de 
-justice (1) 
-Art\. 219  Tribunaux civils  
-4E PARTIE  COMMISSION DU PERSONNEL  
-Art\. 220  Commission du personnel  
-Art\. 221  Buts généraux
+Art\.? | Article\.?217  Opposition  
+Art\.? | Article\.?218  Recours à la chambre admini strative de la Cour de 
+justice (1)
 ****************************************************************************************************
 219  Tribunaux civils  
 4E PARTIE  COMMISSION DU PERSONNEL  
-Art\. 220  Commission du personnel  
-Art\. 221  Buts généraux  
-Art\. 222  Composition et durée de mandat  
-Art\. 223  Mode de désignation  
-Art\. 224  Fonctionnement  
-Art\. 225  Séances 
-Art\. 226  Devoir de discrétion et confidentialité des données  
-Art\. 227   (3) 
+Art\.? | Article\.?220  Commission du personnel  
+Art\.? | Article\.?221  Buts généraux
+****************************************************************************************************
+222  Composition et durée de mandat  
+Art\.? | Article\.?223  Mode de désignation  
+Art\.? | Article\.?224  Fonctionnement  
+Art\.? | Article\.?225  Séances
+****************************************************************************************************
+226  Devoir de discrétion et confidentialité des données  
+Art\.? | Article\.?227   (3) 
 5E PARTIE  DISPOSITIONS FINALES ET 
 TRANSITOIRES  
-Chapitre I   Dispositions finales  
-Art\. 228  Entrée en vigueur  
+Chapitre I   Dispositions finales
+****************************************************************************************************
+228  Entrée en vigueur  
 Chapitre II   Dispositions transitoires  
-Art\. 229  Dispositions transitoires concernant les rapports de 
-service existants  
-Art\. 230  Dispositions transitoires concernant les procédures 
-en matière de protection de la personnalité  
-Art\. 231  Dispositions transitoires concernant les procédures 
+Art\.? | Article\.?229  Dispositions transitoires concernant les rapports de 
+service existants
+****************************************************************************************************
+230  Dispositions transitoires concernant les procédures 
+en matière de protection de la personnalité
+****************************************************************************************************
+231  Dispositions transitoires concernant les procédures 
 en cours en matière de rapports de service (2) 
-Art\. 232 (2) 
-Art\. 233  Dispositions transitoires concernant les professeur-es d’école
+Art\.? | Article\.?232 (2)
+****************************************************************************************************
+233  Dispositions transitoires concernant les professeur-es d’école
  
-Art\. 234  Dispositions transitoires concernant les professeur-es adjoints
- 
-Art\. 235  Dispositions transitoires concernant les professeur-es  
+Art\.? | Article\.?234  Dispositions transitoires concernant les professeur-es adjoints
+****************************************************************************************************
+235  Dispositions transitoires concernant les professeur-es  
 associé-es 
-Art\. 236  Dispositions transitoires concernant les professeur-es 
-titulaires 
-Art\. 237  Dispositions transitoires  concernant les maîtres 
+Art\.? | Article\.?236  Dispositions transitoires concernant les professeur-es 
+titulaires
+****************************************************************************************************
+237  Dispositions transitoires  concernant les maîtres 
 d’enseignement et de recherche  
-Art\. 238  Dispositions transitoires concernant les chargé-es de 
-cours 
-Art\. 239  Dispositions transitoires  concernant les privat-
+Art\.? | Article\.?238  Dispositions transitoires concernant les chargé-es de 
+cours
+****************************************************************************************************
+239  Dispositions transitoires  concernant les privat-
 docents 
-Art\. 239A(1) Dispositions transitoires concernant les chargé-es      
-d’enseignement  
-Art\. 240  Dispositions transitoires concernant les 
-collaborateurs et collaboratr ices scientifiques I et II  
-Art\. 241  Dispositions transitoires concernant les 
+Art\.? | Article\.?239A(1) Dispositions transitoires concernant les chargé-es      
+d’enseignement
+****************************************************************************************************
+240  Dispositions transitoires concernant les 
+collaborateurs et collaboratr ices scientifiques I et II
+****************************************************************************************************
+241  Dispositions transitoires concernant les 
 collaborateurs et collaboratrices scientifiques III  
-Art\. 242  Dispositions transitoires concernant les assistant-es, 
-catégorie 3  
-Art\. 243  Dispositions transitoires concernant les assistant-es 
-rémunéré-es par des fonds provenant de l’extérieur  
-Art\. 243A(3)Dispositions transitoires concernant les attaché-es de 
-recherche I et II
+Art\.? | Article\.?242  Dispositions transitoires concernant les assistant-es, 
+catégorie 3
+****************************************************************************************************
+243  Dispositions transitoires concernant les assistant-es 
+rémunéré-es par des fonds provenant de l’extérieur
 ****************************************************************************************************
 243A(3)Dispositions transitoires concernant les attaché-es de 
 recherche I et II  
-Art\. 243B(3) Dispositions transitoires concernant les doctorant-es  
-Art\. 244  Dispositions transitoires pr opres au corps enseignant 
+Art\.? | Article\.?243B(3) Dispositions transitoires concernant les doctorant-es
+****************************************************************************************************
+244  Dispositions transitoires pr opres au corps enseignant 
 de l'Université  
-Art\. 245  Disposition transitoire concernant la commission du 
+Art\.? | Article\.?245  Disposition transitoire concernant la commission du 
 personnel
 ****************************************************************************************************

@@ -2,8 +2,9 @@ RÈGLEM ENT D'ÉTUDES
 adopté par le cons eil de faculté  le 15 oc tobre  2004, 
 état au 1er mars 2023  
  
-CHAPITRE PREMIER  : GENERALITES  
-Art\. 1  
+CHAPITRE PREMIER  : GENERALITES
+****************************************************************************************************
+1  
 GRADES ET CERTIFICATS  
 1. La faculté de droit décerne les grades et titres suivants :  
 a) baccalauréat universitaire en droit (Bachelor of Law)  
@@ -13,8 +14,9 @@ d) doctorat en droit
 e) diplôme  ou certificat de formation continue. 
 2. La faculté peut décerner des certificats pour des enseignements désignés à cet effet, ainsi que des 
 attestations  spéciales pour  les enseignements à  option supplémenta ires. 
-3. La fa culté peut dé cerner ces grades et c ertificats conjointement  avec d'autres  facultés ou univ ersités. 
-Art\. 2  INSCRIPTION  
+3. La fa culté peut dé cerner ces grades et c ertificats conjointement  avec d'autres  facultés ou univ ersités.
+****************************************************************************************************
+2  INSCRIPTION  
 1. Peuvent s'inscrire à la faculté les personnes qui remplissent les conditions d'immatriculation prévues à 
 l'article 55 du Statut de l’université.  
 2. Une admission à titre conditionnel est possible, notamment en cas de changement de faculté.  
@@ -57,8 +59,9 @@ qu’en cas de résultat suffis ant.
 5. En cas d’équiv alence sous forme de report, la note  de l’examen  qui donne  lieu à c elle-ci est prise en 
 compte dans la moyenne de la série.  En cas de dispense, la moyenne es t calculée sans note  pour  l’examen 
 qui en fait l’objet. 
-B. CHANGEMENT DE FACULTE  
-Art\. 5  
+B. CHANGEMENT DE FACULTE
+****************************************************************************************************
+5  
 PROC EDURE  
 1. Les demandes de changement de faculté sont adressées au service des admissions de  l’université qui les 
 transmet à la faculté.  
@@ -69,13 +72,14 @@ ADMISSION
 1. Peuvent s'inscrire librement et sans condition à la faculté les personnes qui n'ont pas suivi plus de deux semestres d'études universitaires à Genève ou ailleurs.  
 2. Il en va de même des personnes qui ont passé plus de deux semestres à la faculté, dans une autre faculté 
 de droit suisse ou étrangère et dont les études régulières ont été sanctionnées par des examens réussis ou 
-le cas échéant par d'autres travaux, conform ément au règ lemen t de leur uni versité de provenan ce. 
-Art\. 7  
+le cas échéant par d'autres travaux, conform ément au règ lemen t de leur uni versité de provenan ce.
+****************************************************************************************************
+7  
 REFUS D'ADMISS ION 
 La doyenne ou le doyen refuse l'inscription à la faculté des personnes qui ont été éliminées d'une autre 
-faculté ou univ ersité pour des mot ifs discip linaires graves. 
- 
-Art\. 8  
+faculté ou univ ersité pour des mot ifs discip linaires graves.
+****************************************************************************************************
+8  
  ADMISSION CONDIT IONNELLE  
  
 1. Les étudiantes et étudiants ayant passé plus de deux semestres à la faculté, dans une autre faculté ou 
@@ -100,8 +104,9 @@ ter alinéa 2, deuxième phrase, et 18bis alinéa 2, deuxième phrase, sont rés
 2. Le plan d’études peut faire figurer parmi les options des enseignements donnés dans une autre faculté ou un institut lié à l’Université de Genève.  
 3. Par ailleurs, sans préjudice de l’application de l’article  4, deux enseignements au maximum peuvent être 
 suivis dans une autre faculté ou un institut lié à l’Université de Genève à titre d’option.  
-4. Le plan d'études est adopté par le conseil participatif après consultation du collège des professeurs.  
-Art\. 9 bis 
+4. Le plan d'études est adopté par le conseil participatif après consultation du collège des professeurs.
+****************************************************************************************************
+9 bis 
 ACCÈS AUX ENSEIGNEMENTS DE 2E SÉRIE 
 L’accès aux enseignements obligatoires de deuxième série et aux enseignements à option est ouvert aux 
 étudiantes et étudiants qui ont réussi la première série d’examens. Le plan d'études peut prévoir des 
@@ -116,15 +121,17 @@ concours de plaidoiries et d’ exercices de rédaction juridique .
 Si les circonstances  (p.ex., motifs d’ordre logistique ou une situation exceptionnelle sur le plan sanitaire 
 ou sécuritaire)  l’exigent, la doyenne ou le doyen peut décider que les enseignements seront donnés en 
 ligne . 
-3.  Le plan d’études fixe le caractère obligatoire ou à option des cours.  
-Art\. 10  
+3.  Le plan d’études fixe le caractère obligatoire ou à option des cours.
+****************************************************************************************************
+10  
 COURS OBLIGATOIRES ET A OPTION  
 1. Les cours obligatoires et les cours à option sont donnés sous forme de leçons, de séances de travail ou 
 d'exercices. Les séances de travail et d’exercices impliquent une préparation et une participation active des étudiantes et étudiants.  
 2. Les cours à option sont en principe dispensés sur une base semestrielle et à raison de deux heures par 
 semaine. Ils peuvent être organisés en commun avec d'autres facultés et universités, notamment dans le cadre de programmes nationaux et internationaux  d'échanges, le cas échéant dans une langue autre que 
-le français  
-Art\. 11  
+le français
+****************************************************************************************************
+11  
 ATELIER  
 1. L’atelier consiste  en un exercice approfondi en petit groupe, portant en principe sur un problème touchant 
 à plusieurs branches du droit.  
@@ -146,8 +153,9 @@ l’échec du concours.
 4. La réussite d’un concours donne lieu aux crédits correspondants. Elle entraîne la dispense d’un enseignement à option. La réussite d’un concours supplémentaire donne uniquement lieu à une attestation 
 hors plan d’études.  
 5. Le conseil participatif peut édicter un règlement relatif à la procédure d’inscription, aux modalités de 
-sélection, aux délais, ainsi qu’aux modalités d’évaluation des prestations.  
-Art\. 13  
+sélection, aux délais, ainsi qu’aux modalités d’évaluation des prestations.
+****************************************************************************************************
+13  
 EXERCICES DE REDACTION JURIDIQUE  
 1. Les exercices de rédaction juridique sont obligatoires . Ils comportent un cours introductif, des exercices 
 préparatoires et un travail de rédaction.  
@@ -166,17 +174,14 @@ déterminé.
 3. Sur proposition du collège des professeurs, le conseil  participatif arrête chaque année la liste des 
  enseignements facultatifs.  
 4. Le conseil participatif édicte un règlement relatif aux conditions d’obtention des certificats.  
-D. CONTRÔLE DES CONNAISSANCES  
-Art\. 15  
-NOTES  
-Les notes sont attribuées au quart de point sur une échelle de 0 à 6. 6 est la meilleure note, 4 est la note 
-suffisante.
+D. CONTRÔLE DES CONNAISSANCES
 ****************************************************************************************************
 15  
 NOTES  
 Les notes sont attribuées au quart de point sur une échelle de 0 à 6. 6 est la meilleure note, 4 est la note 
-suffisante.  
-Art\. 16  
+suffisante.
+****************************************************************************************************
+16  
 CONTROLE CONTINU  
 1. Un contrôle continu facultatif est organisé dans le cadre de certains cours obligatoires.  
 2. La liste des cours donnant lieu à un contrôle continu est arrêtée chaque année conformément à l’article  9 
@@ -203,8 +208,9 @@ regroupement d’examens lors de deux sessions par an. L’examen peut être pr�
 suit immédiatement la fin du cours ou de l’ensemble des c ours faisant l’objet d’un regroupement 
 d’examens en cause ou lors de la session suivante. L'alinéa 1, deuxième phrase est réservé.  
 3. L’évaluation des ateliers, des ex ercices  de réda ction et des concours  de plaidoirie est prise en 
-considérat ion lors de la session  qui suit leur déroulement  ou leur remi se. 
-Art\. 17 bis  
+considérat ion lors de la session  qui suit leur déroulement  ou leur remi se.
+****************************************************************************************************
+17 bis  
 INSCRIPTION AUX ENSEIGNEMENTS ET AUX EXAMENS  
 1. Les étudiantes et étudiants s’inscrivent aux enseignements qu’ils souhaitent suivre dans le délai et selon 
 la forme indiqués, pour chaque semestre, par la faculté.  
@@ -255,8 +261,9 @@ peut autoriser leur rédaction sur ordinateur (examen en ligne en présentiel) s
 proportionnées  peuvent être mises en place afin d’éviter la communication avec des tiers et la 
 consultation de documents ou de sites non autorisés , notamment en tenant compte du nombre 
 d’étudiantes et étudiants se présentant à l’examen . 
-4. Les examens et les contrôles continus ne sont pas publics.  
-Art\. 19  
+4. Les examens et les contrôles continus ne sont pas publics.
+****************************************************************************************************
+19  
 OPPOSITIONS  
 1. Les oppo sitions contre  les décisions en matière d'év aluation des  contrô les continus, des examens, des 
 ateliers, des concours  de plaidoirie et  des travaux de réda ction personnels doivent être formées  par écrit 
@@ -272,8 +279,9 @@ DÉFAUT
 La candidate ou le  candidat qui ne se présente pas à un examen pour  lequel  il est inscrit obtient la note  0, à 
 moins que, sans retard, il ne justifie son absence par un motif accepté par la doyenne ou le doyen. En cas de 
 maladie ou d’accident, un certificat médical pertinent et détaillé doit être remis à la faculté dans les trois jours, 
-sauf force majeure.  
-Art\. 21  
+sauf force majeure.
+****************************************************************************************************
+21  
 FRAUDES 
 1. En cas de fraude ou de tentative de fraude à toute forme de contrôle des connaissances ou concernant un 
 travail faisant l’objet d’une évaluation, la personne responsable de l’enseignement peut réduire la note 
@@ -337,8 +345,9 @@ DEROGATIONS
 examens des deux séries lorsque la réussite de la première série ne dépend plus que d'un examen pour 
 lequel la note de 3 serait suffisante ou de deux examens dont un seul de droit positif, pour lesquels une 
 note moyenne de 2.5 serait suffisante.  
-2. L’échec de la première série entraîne l'annulation des examens passés au profit de la deuxième série. Les notes égales ou supérieures à 5 sont acquises et définitives.  
-Art\. 25  
+2. L’échec de la première série entraîne l'annulation des examens passés au profit de la deuxième série. Les notes égales ou supérieures à 5 sont acquises et définitives.
+****************************************************************************************************
+25  
 ÉLIMINATION  
 1. La personne candidate au baccalauréat qui n'a pas a tteint à la s ession d'aoû t-septembre suivant le début  
 de ses études  la moyenne  de 3  aux conditions de  l'arti cle 22 alinéa  6 est éliminé de la fa culté. 
@@ -400,8 +409,9 @@ indiquent  leur choix au mom ent de l’inscription  au programme de maîtrise. 
 une fois durant  les études  de maîtr ise. 
 2. La candidate ou le c andidat qui, à l’issue d’une s ession d ’examen s, a é choué  définitivement  à une 
 maîtrise thématique sans être élim iné de la faculté est tran sféré dans  le progr amme de maîtr ise en 
-droit. L’alinéa  1, deuxième phra se, est réservé. 
-Art\. 29  CONDITIONS D’OBTENTION  
+droit. L’alinéa  1, deuxième phra se, est réservé.
+****************************************************************************************************
+29  CONDITIONS D’OBTENTION  
 1. Pour  obtenir  une maîtr ise univ ersitaire  en droit, la candidate ou le  candidat doit : 
 a) être inscrit à la faculté ;  
 b) avoir obtenu dans les délais les crédits prévus au plan d’études.  
@@ -441,8 +451,9 @@ la faculté sous peine d’élimination.
 motifs (tels que maladie, maternité, service militaire, activité professionnelle importante, charges de 
 famille lourdes).  
 3.  L’article 30 n’est pas applicable.  
-B. ENSEIGNEMENTS  
-Art\. 32  
+B. ENSEIGNEMENTS
+****************************************************************************************************
+32  
 PLAN D’ETUDES  
 1. Pour chacune des maîtrises, la liste des enseignements , leur forme, leur durée, leur nombre d’heures 
 hebdomadaires, les crédits auxquels ils donnent droit et les examens qui les sanctionnent sont fixés dans 
@@ -468,8 +479,9 @@ ligne .
 plaidoirie. Suivant l’ampleur du travail requis, un concours de plaidoirie peut être défini par le plan 
 d’études comme équivalent à un séminaire ; le cas échéant, l’article  35 alinéa  4 s’applique par analogie.  
 4. La réussite d’un atelier ou d’un concours de plaidoirie supplémentaire donne uniquement lieu à une 
-attestation hors plan d’études.  
-Art\. 34  
+attestation hors plan d’études.
+****************************************************************************************************
+34  
 STAGES  
 1. Un stage  dans un m ilieu jurid ique  d’une durée  équivalente à  quatre  sema ines peut, sur décision, 
 rempla cer à une reprise une  option  au sens de l’article 40 alinéa 1 lettre  b et alinéa  2 lettre b.  
@@ -488,14 +500,16 @@ SEMINAIRE OU MEMOIRE
 enseignant dirigeant son mémoire dans le cadre d’un séminaire ou hors séminaire l’attestation que ce 
 mémoire entre dans le champ de la maîtrise poursuivie. En cas de contestation, la doyenne ou le doyen 
 statue.  
-5. Le conseil participatif édicte un règlement relatif aux modalités du séminaire et du mémoire.  
-Art\. 36  
+5. Le conseil participatif édicte un règlement relatif aux modalités du séminaire et du mémoire.
+****************************************************************************************************
+36  
 CLINIQUE JURIDIQUE (LAW CLINIC)  
 1. La clinique juridique offre la possibilité de travailler sur des situations réelles au travers d’exercices 
 pratiques d’expression juridique écrite et/ou orale dans un but d’intérêt public.  
 2. Elle équivaut à un séminaire. L’article 35 alinéa 4 s’applique par analogie.  
-3. Le conseil participatif peut édicter un règlement relatif à la procédure d’inscription, aux modalités de sélection, aux délais, ainsi qu’aux modalités d’évaluation des prestations.  
-Art\. 37  
+3. Le conseil participatif peut édicter un règlement relatif à la procédure d’inscription, aux modalités de sélection, aux délais, ainsi qu’aux modalités d’évaluation des prestations.
+****************************************************************************************************
+37  
 ENSEIGNEMENTS FACULTATIFS ET CERTIFICATS  
 L’article 14 est applicab le par  analog ie aux  enseignements fa cultatifs et certific ats organ isés en marge du 
 program me de maîtr ise. 
@@ -543,9 +557,9 @@ fournie entre dans le champ de  la maîtr ise poursuivie.
 INSCRIPTION AUX ÉVALUATIONS  
 1. L’inscription à des évaluations en vue de l’obtention de crédits dans le cadre du plan d’études de la 
 maîtrise choisie ne peut intervenir que pour un maximum de 90  crédits.  
- 2.  Lors de leur inscription aux examens, les étudiantes et étudiants s’engagent sur l’honneur à respecter les règles pour prévenir la fraude.  
- 
-Art\. 40  
+ 2.  Lors de leur inscription aux examens, les étudiantes et étudiants s’engagent sur l’honneur à respecter les règles pour prévenir la fraude.
+****************************************************************************************************
+40  
 MODALITÉS DE RÉUSSITE DE LA MAÎTRISE  
 1. Pour obtenir une maîtrise thématique, un total de 90 crédits doit avoir été acquis, dont  : 
 a) 36 crédits correspondant à des cours fondamentaux de la maîtrise visée; s'agissant de la maîtrise en 
@@ -579,8 +593,9 @@ ii. échoué définitivement à un enseignement de remplacement au sens de l’a
 maternité, service militaire, activité professionnelle importante, charges de famille lourdes), l’inobservation 
 du délai prévu à l’article 31 alinéa 1 o u de ceux prévus à l’article 40 alinéa 3 entraîne l’élimination de la faculté.  
 4. L’article 58 chiffre 4 du Statut de l’université est réservé.  
-CHAPITRE IV :  LA MAÎTRISE UNIVERSITAIRE D'ÉTUDES AVANCÉES EN DROIT  
-Art\. 42  
+CHAPITRE IV :  LA MAÎTRISE UNIVERSITAIRE D'ÉTUDES AVANCÉES EN DROIT
+****************************************************************************************************
+42  
 LA MAÎTRISE UNIVERSITAIRE D'ÉTUDES AVANCÉES EN DROIT  
 1. La maîtri se universitaire d'études avancées en droit est un titre postérieur à la maîtrise qui consacre une 
 spécialisation accrue dans un domaine déterminé.  
@@ -656,24 +671,28 @@ l’université.
 2. La remise du diplôme et le port du titre de docteure ou docteur en droit ne sont possible qu’après le dépôt, en nombre requis, des exemplaires de la version définitive de la thèse en format papier et électronique 
 conformément aux directives de la faculté et de l’université, notamment la Direc tive sur le dépôt  et la 
 diffusion des documents  scientif iques dans l’Arc hive ouverte UNIGE. 
-CHAPITRE VI :  COLLABORATION ET COORDINATION  
-Art\. 47  
+CHAPITRE VI :  COLLABORATION ET COORDINATION
+****************************************************************************************************
+47  
 COLLA BORATION  
 La faculté peut  collaborer  à l'enseignement  dispensé ou aux recherches dirig ées par d'autres  universités et 
-facultés. 
-Art\. 48  
+facultés.
+****************************************************************************************************
+48  
 COOR DINATION  DES ETUDES 
 Dans l'intérêt de la coordination des études en Suisse et en Europe, il peut être dérogé aux dispositions du 
 présent règlement, notamment en ce qui concerne la reconnaissance des études et des examens effectués dans une autre faculté.
  
-CHAPITRE VIII :  ENTRÉE EN VIGUEUR ET DISPOSITIONS TRANSITOIRES 
-Art\. 49  
+CHAPITRE VIII :  ENTRÉE EN VIGUEUR ET DISPOSITIONS TRANSITOIRES
+****************************************************************************************************
+49  
 1. Le présent règlement entre en vigueur à la rentrée universitaire d’octobre 2005, sous réserve des 
 exceptions prévues par les dispositions qui suivent.  
 2. Sauf dispositions transitoires particulières, les modifications du présent règlement entrent en vigueur au 
 début du semestre qui suit leur adoption et s’appliquent à toutes les étudiantes et à tous les étudiants 
-inscrits à la faculté à ce moment.  
-Art\. 50  
+inscrits à la faculté à ce moment.
+****************************************************************************************************
+50  
 ABROGATION  
 Le règlement d'études du 9  juin 1993 de même que tous les règlements d'études antérieurs sont abrogés.
 ****************************************************************************************************

@@ -4,17 +4,17 @@ des conseils participatifs des UPER
  
  
  
-Chapitre I Champ d’application et organisation des élections  
- 
-Art\. 1 Champ d’application  
+Chapitre I Champ d’application et organisation des élections
+****************************************************************************************************
+1 Champ d’application  
 1 Le présent règlement contient les dispositions d’exécution nécessaires à l’élection des membres de l’assemblée 
 de l’université et des conseils participatifs des UPER de l’ Université de Genève.  
 2 Les dispositions du statut de l’université re latives à l’élection de neuf  membres du corps professoral à l’assemblée 
 de l’université sont réservées.  
 3 Les principes du présent règlement peuvent également s’appliquer à l’élection d’un conseil participatif d’une 
-UER.  
- 
-Art\. 2 Système électoral et organisation des élections  
+UER.
+****************************************************************************************************
+2 Système électoral et organisation des élections  
 1 Conformément à l’article 38 du statut de l’université, les élections des membres de l’assemblée de l’université et 
 des membres des conseils participatifs des UPER ont lieu par scrutin secret selon le système proportionnel. Est 
 réservé e l’élection au systèm e majoritaire des neuf membres du corps professoral tel que prévu par l’article 48 
@@ -22,9 +22,9 @@ alinéa 2 du statut de l’université.
 2 L’appel au vote et les informations relatives aux modalités et aux calendriers  des opérations électorales sont 
 adressés aux électrices et électeurs par voie électronique.  
  
-Chapitre II Généralités  
- 
-Art\. 3 Membres  
+Chapitre II Généralités
+****************************************************************************************************
+3 Membres  
 1 Les membres de l’assemblée de l’université et des conseils participatifs sont élus à titre personnel. Ils exercent 
 leurs fonctions en toute liberté, sans pouvoir être liés par un mandat impératif.  
 2 Les membres de l’assemblée de l’université et des conseils participatifs qui, en cours d'exercice, ne remplissent 
@@ -41,30 +41,27 @@ e-s d’office par ordre alphabétique dans les rôles électoraux de leur corps
 l’administration centrale.  
 3 Les rôles électoraux font autorité pour chaque opération électorale.  
 4 Ils sont publiés  30 jours  avant le premier j our du scrutin sur le site intranet de l’université à usage exclusif des 
-membres de la communauté universitaire.  
-  
- 
- 
- 
-  
-Art\. 4 Computation des délais et date des opérations électorales  
+membres de la communauté universitaire.
+****************************************************************************************************
+4 Computation des délais et date des opérations électorales  
 1 En principe, tous les délais prévus dans le présent règlement s’entendent en jours civils, périodes d’examens et 
 de vacances universitaires non comptées.  
 2 Le ou la secrétaire général -e fixe la date des opérations électorales.  
 3 Il ou elle est autorisé -e, si des circonstances le nécessitent, à déplacer une date déjà fixée.  
 4 En principe, les élections ne peuvent avoir lieu en dehors de la période de cours.  
-2 
- Art\. 6  Correction  
+2
+****************************************************************************************************
+6  Correction  
 Toute personne peut signaler au  ou à la secrétaire général -e une erreur quant au contenu des rôles électoraux  dans 
-le délai spécifié par le calendrier des élections . 
- 
-Art\. 7 Radiation  
+le délai spécifié par le calendrier des élections .
+****************************************************************************************************
+7 Radiation  
 Sont radiés d’office les électeur s et les électrices qui n’appartiennent pas ou plus, au moment des élections, à l’un 
 des corps électoraux prévus par le statut  de l’Université . 
  
-Chapitre IV Appel et dépôt des listes  
- 
-Art\. 8  Appel aux électrices et électeur s 
+Chapitre IV Appel et dépôt des listes
+****************************************************************************************************
+8  Appel aux électrices et électeur s 
 Au plus tard 30 jours avant le premier jour du scrutin, le  ou la secrétaire général -e communique par  courrier 
 électronique à chaque électrice et électeur la date du  scrutin, sa durée , le format d’élection  ainsi que le nombre de 
 membres à élire par corps et par collège électoral.
@@ -78,9 +75,9 @@ des UPER s’agissant des élections aux  conseils participatifs.
 de l’université prévu e à cet effet et  de leur diffusion  par voie électronique.  
 4 Tout message électoral déloyal, trompeur ou diffamatoire est i nterdit.  
  
-Chapitre V Composition des listes  
- 
-Art\. 10 Candidatures  
+Chapitre V Composition des listes
+****************************************************************************************************
+10 Candidatures  
 1 Les candidatures doivent être déposées sur les listes prévues à cet effet disponibles sur le site web de l’université. 
 Elles doivent comporter la signature de chaque candidat -e.  
 2 Aucun -e candidat -e ne peut être porté -e plusieurs fois sur la même liste ou sur plus d’une liste pour la même 
@@ -103,9 +100,9 @@ douze candidatures.
 - les listes qui concernent l’élection des candidat -e-s aux quatre sièges rattachés à une UPER ou à une UER 
 ne peuvent comporter que les noms des candidat -e-s aux sièges en question ;  
 - les listes qui concernent l’élection des candidat -e-s au siège rattaché à l’administration centrale ne peuvent 
-comporter que les noms des candidat -e-s au siège concerné.  
- 
-Art\. 12 Parrainage  
+comporter que les noms des candidat -e-s au siège concerné.
+****************************************************************************************************
+12 Parrainage  
 1 Chaque liste doit être parrainée par trois électrices ou  électeurs non -candidat -e-s appartenant au même collège  
 électoral que la, le ou les candidat -e-s présenté -e-s sur la liste.  
 3 
@@ -117,9 +114,9 @@ candidat -e-s, son nom est biffé sur toutes les listes où elle ou il figure.
 1 L’électrice ou l’ électeur dont le nom figure en tête des signatures est considéré -e comme mandataire chargé -e 
 des relations avec le  secrétariat général, le  ou la  suivant -e comme son ou sa remplaçant -e. 
 2 Le ou la mandataire a le droit et le devoir de donner, au nom des candidat -e-s signataires de la liste, toutes les 
-informations nécessaires à la bonne marche des opérations électorales.  
- 
-Art\. 14 Vérification  
+informations nécessaires à la bonne marche des opérations électorales.
+****************************************************************************************************
+14 Vérification  
 1 Le ou la  secrétaire général -e vérifie au plus tard 18 jours avant le premier jour du scrutin si les listes et les 
 candidatures pour les élections à l’assemblée de l’université remplissent les conditions exigées. Dans le cas 
 contraire, il  ou elle  fixe un délai au ou à la mandataire pou r opérer les rectifications nécessaires.  
@@ -139,21 +136,21 @@ jour du scrutin avec un numéro d’ordre qui leur est attribué par ordre d’a
 l’élection à l’assemblée de l’université et a ux secrétariat s des administratrices et administrateurs des UPER 
 s’agissant des élections aux conseils participatifs.  
  
-Chapitre VI  Absence de candidat -e-s et élections tacites  
- 
-Art\. 16 Absence de candidat -e-s 
+Chapitre VI  Absence de candidat -e-s et élections tacites
+****************************************************************************************************
+16 Absence de candidat -e-s 
 Si, lors d’une élection, aucune ou aucun candidat -e d'un collège électoral n'est valablement présenté, ce collège 
 n'est pas représenté dans le cadre de l’élection concernée. Le conseil concerné est toutefois valablement constitué 
-et peut siéger normalement . 
- 
-Art\. 17  Elections tacites  
+et peut siéger normalement .
+****************************************************************************************************
+17  Elections tacites  
 Sont déclaré -e-s élu-e-s tacitement :  
 a) tous et toutes les candidat -e-s régulièrement représenté -e-s dans un collège électoral, lorsque leur nombre est 
 égal ou inférieur à celui des sièges revenant à ce collège dans le cadre de l’élection concernée ;  
 b) les candidat -e-s figurant en tête de liste lorsque, pour un collège  électoral, une seule liste a été valablement 
-déposée, et ce jusqu’à concurrence du nombre de sièges à pourvoir.  
- 
-Art\. 18 Publication et a ffichage  
+déposée, et ce jusqu’à concurrence du nombre de sièges à pourvoir.
+****************************************************************************************************
+18 Publication et a ffichage  
 Le rectorat procède, par voie d’affichage et de publication sur le site web de l’université, à la proclamation des 
 élections tacites conjointement à la publication des listes électorales et à la publication des noms des 9  membres 
 du corps profess oral élus à l’assemblée de l’université conformément à l’article 48 alinéa 2 du statut de l’université.  
@@ -187,15 +184,15 @@ conformément à l’art. 32 al. 1 du présent règlement.
 opérations nécessaires à la bonne tenue de ce dernier. Ces opérations sont décidées et communiquées par la ou le 
 secrétaire général -e au moment de la no mination de la Commission électorale.  
 5 En principe, la Commission électorale prend ses décisions à la majorité simple des membres présent -e-s. En cas 
-d’égalité, la voix de la ou du président -e est prépondérante.  
- 
-Art\. 20 Vote par procuration et par correspondance  
+d’égalité, la voix de la ou du président -e est prépondérante.
+****************************************************************************************************
+20 Vote par procuration et par correspondance  
 1 Le vote par procuration est interdit.  
 2 Le vote par correspondance est interdit.  
  
-Chapitre VIII  Dépouillement, attribution des sièges et détermination des élu -e-s 
- 
-Art\. 21  Dépouillement  
+Chapitre VIII  Dépouillement, attribution des sièges et détermination des élu -e-s
+****************************************************************************************************
+21  Dépouillement  
 1 Le ou la  secrétaire général -e organise le dépouillement des votes avec le concours de la Commission électorale 
 conformément à l’art. 19bis du présent règlement . 
 2 Le dépouillement est ouvert à tous les membres des corps concernés par les élections pour autant que cela 
@@ -203,9 +200,9 @@ n’entrave pas son bon déroulement.
 ****************************************************************************************************
 22  Suffrages nominatifs et de liste  
 Les suffrages donnés aux candidat -e-s reviennent individuellement à ces candidat -e-s (suffrages nominatifs), ainsi 
-qu’à la liste déposée officiellement sur laquelle elles ou ils figurent (suffrages de liste).  
- 
-Art\. 23  Suffrages complémentaires  
+qu’à la liste déposée officiellement sur laquelle elles ou ils figurent (suffrages de liste).
+****************************************************************************************************
+23  Suffrages complémentaires  
 1 Lorsqu’un bulletin de vote contient un nombre  de suffrages nominatifs valables inférieur à celui du double de 
 candidat -e-s à élire par le collège électoral, les suffrages non exprimés ainsi que les lignes devenues libres par la 
 radiation de leur contenu sont considérés comme autant de suffrages complémentaires donnés à la liste dont la 
@@ -213,9 +210,9 @@ dénomination ou le numéro d’ordre, écrit ou imprimé, figure en tête de li
 2 A moins que le scrutin n’ait lieu par voie électronique, si la dénomination de la liste et le numéro d’ordre ne 
 concordent p as, la dénomination l’emporte.  
 3 Si le bulletin de vote ne porte aucune dénomination  ou aucun numéro de liste, s i ces mentions ont été biffées ou 
-si le bulletin porte plus d’une dénomination, les suffrages non exprimés nominativement sont blancs.  
- 
-Art\. 24 Bulletins blancs et bulletins nuls  
+si le bulletin porte plus d’une dénomination, les suffrages non exprimés nominativement sont blancs.
+****************************************************************************************************
+24 Bulletins blancs et bulletins nuls  
 1 Sont blancs, les bulletins qui n’indiquent pas au moins le nom d’ une candidate ou d’ un candidat ou d’une liste.  
 2 Sont nuls, les bulletins qui  :  
 - ne sont pas des bulletins officiels  lorsque la votation a lieu sous format papier  ;  
@@ -230,19 +227,19 @@ chancellerie d’Etat séparément pour chaque collège.
 ou de suffrages blancs que le double du nombre de candidat -e-s à élire par le collège électoral considéré.  
 3 Pour chaque élection, il est ensuite établi une récapitulation qui indiqu e le nombre de voix obtenues par chacun 
 des candidat -e-s des différentes  listes (suffrages nominatifs) et  le nombre total des suffrages de liste (suffrages 
-nominatifs et complémentaires).  
- 
-Art\. 26  Chiffre de répartition  
+nominatifs et complémentaires).
+****************************************************************************************************
+26  Chiffre de répartition  
 Pour être admises à la répartition, les listes doivent avoir obtenu un nombre de suffrages de liste égal ou supérieur 
 au quotient obtenu par la division du total des suffrages valablement exprimés par le nombre de sièges à pourvoir 
-plus un . 
- 
-Art\. 27  Quotient électoral  
+plus un .
+****************************************************************************************************
+27  Quotient électoral  
 1 Pour chaque collège, le nombre total des suffrages des listes ayant atteint le chiffre de répartition  est divisé par le 
 nombre des candidat -e-s à élire augmenté d’une unité.  
-2 On appelle quotient électoral le nombre entier immédiatement supérieur.  
- 
-Art\. 28  Répartition  
+2 On appelle quotient électoral le nombre entier immédiatement supérieur.
+****************************************************************************************************
+28  Répartition  
 1 Chaque liste admise à la répartition reçoit autant de sièges que son chiffre total de suffrages de liste contient de 
 fois le quotient électoral.  
 2 Lorsque cette répartition ne permet pas d'attribuer tous les sièges à pourvoir, on divise le n ombre de suffrages 
@@ -255,19 +252,18 @@ sièges à pourvoir.
 attribué à celle des listes qui, après division par le quotient électoral, a le plus grand nombre de suffrages restants.  
 2 Si chaque liste a également obtenu le même nombre de suffrages de listes, le siège restant est attribué à celle des 
 listes dont des candidat -e-s ont recueilli le plus grand nombre de suffrages nominatifs.  
-3 En cas d'égalité de suffrages nominatifs, il est procédé à un tirage au sort.  
- 
-Art\. 30  Détermination des élu -e-s 
+3 En cas d'égalité de suffrages nominatifs, il est procédé à un tirage au sort.
+****************************************************************************************************
+30  Détermination des élu -e-s 
 1 Sont élu -e-s les candidat -e-s de chaque liste qui ont obtenu le plus grand nombre de suffrages  nominatifs . 
-2 En cas d’égalité de suffrage entre candidat -e-s d’une même liste, il est procédé à un tirage au sort.  
-Art\. 32 Transmission, validation et proclamation des résultats  
+2 En cas d’égalité de suffrage entre candidat -e-s d’une même liste, il est procédé à un tirage au sort.
+****************************************************************************************************
+32 Transmission, validation et proclamation des résultats  
 1 Les procès -verbaux définitifs sont transmis par le  ou la  secrétaire général -e au rectorat pour validation.  
 2 Les résultats sont communiqués conformément à l’article 44 alinéa 2 du statut de l’université . Les procès -verbaux 
-sont communiqués sur le site web de l’Université de Genève.  
-  
- 
-  
-Art\. 31 Procès -verbaux  
+sont communiqués sur le site web de l’Université de Genève.
+****************************************************************************************************
+31 Procès -verbaux  
 1 Un procès -verbal des résultats de chaque élection est établi par collège électoral.  
 2 Ces procès -verbaux indiquent :  
 a) le nombre des électrices et électeurs inscrit -e-s ; 
@@ -285,9 +281,9 @@ celui des sièges restant à pourvoir.
 administrateurs des UPER.  
 3 Les noms des candidat -e-s sont affichés et publiés pendant 30 jours.  
 4 Sous réserve d’une opposition au sens de l’article 45 du statut de l’université, les candidat -e-s sont réputé -e-s  
-élu-e-s. 
- 
-Art\. 34  Sièges non pourvus lors d’élection ouvertes  
+élu-e-s.
+****************************************************************************************************
+34  Sièges non pourvus lors d’élection ouvertes  
 1 Si une liste obtient plus de sièges qu’elle n’a présenté de candidat -e-s, les élu -e-s de cette liste peuvent proposer, 
 dans un délai de 30 jours dès la date de l’affichage des résultats  des élections ouvertes , un nombre de candidat -e-
 s égal à celui des sièges restant à pourvoir.  
@@ -307,14 +303,14 @@ respective ment par l’ administratrice et l’ administrateur de l’ UPER con
 4 Le nom de la candidate ou du candidat proposé est affiché et publié pendant 30 jours.  
 5 Sous réserve d’une opposition au sens de l’article 45 du statut de l’université, la ou le candidat -e proposé -e par 
 les autres élu -e-s est réputé -e élu-e. 
-6 La personne remplaçant e termine le mandat en cours.  
- 
-Art\. 36  Elections des étudiant -e-s 
+6 La personne remplaçant e termine le mandat en cours.
+****************************************************************************************************
+36  Elections des étudiant -e-s 
 Lorsque la fin du mandat des étudiant -e-s ne coïncide pas avec la fin des mandats des autres membres, leur 
 renouvellement s’effectue selon la procédure qui règle les élections générales.  
  
-Chapitre X Disposition finale  
- 
-Art\. 37  Entrée en vigueur  
+Chapitre X Disposition finale
+****************************************************************************************************
+37  Entrée en vigueur  
 Le présent règlement entre en vigueur le  15 novembre  2022 .  Il abroge celui du 21 janvier 2021 .
 ****************************************************************************************************
