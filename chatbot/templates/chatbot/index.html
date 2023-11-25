@@ -21,22 +21,13 @@
     <aside class="column is-2 is-narrow-mobile is-fullheight section">
         <p class="menu-label is-hidden-touch">History</p>
         <ul class="menu-list">
-            <li>
+            {% for hist in history %}
+                <li>
                 <a href="#" class="">
-                    <span class="icon"><i class="fa fa-home"></i></span> History 1
+                    <span class="icon"><i class="fa fa-home"></i></span> hist
                 </a>
             </li>
-            <li>
-                <a href="#" class="is-active">
-                    <span class="icon"><i class="fa fa-table"></i></span> History 2
-                </a>
-
-            </li>
-            <li>
-                <a href="#" class="">
-                    <span class="icon"><i class="fa fa-info"></i></span> History 3
-                </a>
-            </li>
+            {% endfor %}
         </ul>
     </aside>
 
