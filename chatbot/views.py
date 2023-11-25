@@ -51,15 +51,11 @@ class ChatBotFormView(FormView):
 		messages.append({"question": message, "answer": None})
 		self.request.session['messages'] = messages
 
-		csrf_token = get_token(self.request)
 		response = requests.post(
 			url=f"http://localhost:{self.request.META['SERVER_PORT']}/rag/",
 			data={
 				"id_thread": self.id_thread,
 				"message": message,
-			}, headers={
-				'X-CSRFToken': csrf_token,
-				'Cookie': f'csrftoken={csrf_token}',
 			})
 
 		result = response.json()
