@@ -92,7 +92,7 @@ def llm_routing(query):
 		max_tokens=512
 	)
 
-	#  ReAct prompt
+	# ReAct prompt
 	template = """
 You will be presented with a user query in french. Your task is to classify the user query into one final category.
 
@@ -131,7 +131,7 @@ def update_retriever(label, qa):
 		print(">>> Routing to cours DB")
 	else:
 		retriever = MergerRetriever(retrievers=[retriever_reglement, retriever_cours])
-		raise ValueError(">>> Routing failed")
+		print(">>> Routing failed")
 
 	qa.retriever = retriever
 
