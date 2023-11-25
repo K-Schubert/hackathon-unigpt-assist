@@ -23,7 +23,7 @@ class ChatBotFormView(FormView):
 
 	def setup(self, request, *args, **kwargs):
 		super().setup(request, *args, **kwargs)
-		self.id_thread = kwargs.get('id_thread', None)
+		self.id_thread = str(kwargs.get('id_thread', None))
 		try:
 			if uuid.UUID(self.id_thread) not in chat_history_map:
 				self.id_thread = None
@@ -34,6 +34,7 @@ class ChatBotFormView(FormView):
 		context = super().get_context_data(**kwargs)
 		context["id_thread"] = kwargs.get('id_thread', None)
 		context["messages"] = self.request.session.get('messages', [])
+		context["history"] = self.request.session.get('history', list(str(key) for key in chat_history_map.keys()))
 		return context
 
 	def post(self, request, *args, **kwargs):
@@ -64,8 +65,10 @@ class ChatBotFormView(FormView):
 		result = response.json()
 
 		messages[-1]['answer'] = result['answer']
-		self.id_thread = result.get('id_thread', None)
 
+		self.id_thread = str(result.get('id_thread', None))
+
+		self.request.session["history"] = self.request.session.get('history', list(str(key) for key in chat_history_map.keys()))
 		return super().form_valid(form)
 
 	def get_success_url(self):

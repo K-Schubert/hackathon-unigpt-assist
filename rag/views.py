@@ -24,5 +24,5 @@ class RagProcessMessageView(View):
 		print(result)
 		return JsonResponse({
 			"answer": result["answer"],
-			"id_thread": result["session_id"],
+			"id_thread": str(result["session_id"]),
 		})

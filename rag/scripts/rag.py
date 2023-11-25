@@ -115,7 +115,6 @@ def init_retrievalqa_chain():
 
 def run_query(qa, query, session_id=None):
 	global chat_history_map
-	print(chat_history_map)
 
 	if session_id is None:
 		session_id = uuid.uuid4()
@@ -136,7 +135,7 @@ def run_query(qa, query, session_id=None):
 	return {
 		"answer": res["result"],
 		"source_documents": res["source_documents"],
-		"session_id": session_id
+		"session_id": str(session_id),
 	}
 
 
