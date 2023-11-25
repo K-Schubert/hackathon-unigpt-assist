@@ -7,4 +7,4 @@ class RagConfig(AppConfig):
 
 	def ready(self):
 		from .scripts import rag
-		rag.init_retrievalqa_chain()
+		rag.startup_function()

@@ -101,3 +101,23 @@
 </div>
 </body>
 </html>
+
+{#<script>#}
+{#    function checkTaskStatus(taskId) {#}
+{#        fetch(`/path-to-task-status/${taskId}`)#}
+{#            .then(response => response.json())#}
+{#            .then(data => {#}
+{#                if (data.status === 'complete') {#}
+{#                    console.log('Task complete:', data.result);#}
+{#                    // Update your page with the result here#}
+{#                } else {#}
+{#                    console.log('Task still processing');#}
+{#                    setTimeout(() => checkTaskStatus(taskId), 2000);#}
+{#                }#}
+{#            });#}
+{#    }#}
+{##}
+{#    // Call this function with the actual task ID returned from the server#}
+{#    // after form submission#}
+{#    // checkTaskStatus('your-task-id-from-server');#}
+{#</script>#}

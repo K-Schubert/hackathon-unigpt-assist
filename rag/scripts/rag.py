@@ -114,6 +114,9 @@ def init_retrievalqa_chain():
 
 
 def run_query(qa, query, session_id=None):
+	global chat_history_map
+	print(chat_history_map)
+
 	if session_id is None:
 		session_id = uuid.uuid4()
 		current_chat_history = ConversationBufferWindowMemory(
@@ -124,10 +127,10 @@ def run_query(qa, query, session_id=None):
 		)
 		chat_history_map[session_id] = current_chat_history
 	else:
+		session_id = uuid.UUID(session_id)
 		current_chat_history = chat_history_map[session_id]
 
-	res = qa({"query": query,
-	          "chat_history": current_chat_history})
+	res = qa({"query": query, "chat_history": current_chat_history})
 	chat_history_map[session_id] = qa.combine_documents_chain.memory
 
 	return {
@@ -137,10 +140,20 @@ def run_query(qa, query, session_id=None):
 	}
 
 
-if __name__ == "__main__":
+qa = None
+
+
+def startup_function():
+	global qa, chat_history_map
 	qa = init_retrievalqa_chain()
-	session_id = None
-	while True:
-		question = input('>')
-		res = run_query(qa, question, session_id)
-		print(res["answer"])
+	chat_history_map = dict()
+
+
+if __name__ == "__main__":
+	# qa = init_retrievalqa_chain()
+	# session_id = None
+	# while True:
+	# 	question = input('>')
+	# 	res = run_query(qa, question, session_id)
+	# 	print(res["answer"])
+	pass

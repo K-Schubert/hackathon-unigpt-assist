@@ -15,6 +15,10 @@ from pathlib import Path
 
 from celery import Celery
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -22,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure--(pui$&$j%@*)$g_)1o#vrq4r#1&730--pe1)3tyd7gy$%(epp'
+SECRET_KEY = os.environ["PYTHON_DJANGO_SECRET_KEY"]
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -32,10 +36,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'unigpt.settings')
-
-app = Celery('unigpt')
-app.config_from_object('django.conf:settings', namespace='CELERY')
-app.autodiscover_tasks()
 
 INSTALLED_APPS = [
 	'django.contrib.admin',

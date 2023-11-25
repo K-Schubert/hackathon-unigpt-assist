@@ -1,9 +1,16 @@
+import uuid
+
+import requests
+from django.middleware.csrf import get_token
 from django.shortcuts import render
 from django.urls import reverse
 from django.views import View
+from django.http import JsonResponse
+from celery.result import AsyncResult
 from django.views.generic import (TemplateView, FormView)
 
 from chatbot.forms import ChatBotForm
+from rag.scripts.rag import chat_history_map
 
 
 class ChatBotFormView(FormView):
@@ -17,6 +24,11 @@ class ChatBotFormView(FormView):
 	def setup(self, request, *args, **kwargs):
 		super().setup(request, *args, **kwargs)
 		self.id_thread = kwargs.get('id_thread', None)
+		try:
+			if uuid.UUID(self.id_thread) not in chat_history_map:
+				self.id_thread = None
+		except:
+			self.id_thread = None
 
 	def get_context_data(self, **kwargs):
 		context = super().get_context_data(**kwargs)
@@ -37,6 +49,23 @@ class ChatBotFormView(FormView):
 		messages = self.request.session.get('messages', [])
 		messages.append({"question": message, "answer": None})
 		self.request.session['messages'] = messages
+
+		csrf_token = get_token(self.request)
+		response = requests.post(
+			url="http://localhost:8000/rag/",
+			data={
+				"id_thread": self.id_thread,
+				"message": message,
+			}, headers={
+				'X-CSRFToken': csrf_token,
+				'Cookie': f'csrftoken={csrf_token}',
+			})
+
+		result = response.json()
+
+		messages[-1]['answer'] = result['answer']
+		self.id_thread = result.get('id_thread', None)
+
 		return super().form_valid(form)
 
 	def get_success_url(self):
@@ -46,20 +75,9 @@ class ChatBotFormView(FormView):
 			return reverse('chatbot:index_thread', kwargs={'id_thread': self.id_thread})
 
 
-class ChatBotCreateView(View):
-	template_name = 'chatbot/create.html'
-
-	def post(self, request, *args, **kwargs):
-		id_thread = request.POST.get('id_thread', None)
-		message = request.POST.get('message', None)
-		if not message:
-			return render(request, self.template_name)
-
-		if id_thread is not None:
-			# create new thread
-			...
-		else:
-			# use old thread
-			...
-
-		return render(request, self.template_name)
+def task_status(request, task_id):
+	task_result = AsyncResult(task_id)
+	if task_result.ready():
+		return JsonResponse({'status': 'complete', 'result': task_result.get()})
+	else:
+		return JsonResponse({'status': 'pending'})

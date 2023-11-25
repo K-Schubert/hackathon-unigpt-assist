@@ -1,3 +1,5 @@
+from django.core.handlers.wsgi import WSGIRequest
+from django.http import HttpResponse, JsonResponse
 from django.shortcuts import render
 
 # Create your views here.
@@ -5,46 +7,22 @@ from django.shortcuts import render
 
 from celery import shared_task
 import requests
+from django.utils.decorators import method_decorator
+from django.views import View
+from django.views.decorators.csrf import csrf_exempt
+
+from rag.scripts.rag import run_query, qa
 
 
-@shared_task
-def fetch_and_process_data(api_url):
-	response = requests.get(api_url)
-	data = response.json()
+# @method_decorator(csrf_exempt, name='dispatch')
+class RagProcessMessageView(View):
 
-	# Process the data
-	processed_data = process_data(data)
-
-	return processed_data
-
-
-def process_data(data):
-	# Dummy function for processing data
-	return {"processed": True, "original_data": data}
-
-
-# appname/views.py
-
-from django.http import JsonResponse
-from .tasks import fetch_and_process_data
-
-
-def trigger_data_processing(request):
-	api_url = "https://api.example.com/data"
-	fetch_and_process_data.delay(api_url)
-	return JsonResponse({"status": "Processing started"})
-
-
-# Trigger the task and get task ID
-task = fetch_and_process_data.delay(api_url)
-task_id = task.id
-
-# Later, you can retrieve the result using the task ID
-from celery.result import AsyncResult
-
-task_result = AsyncResult(task_id).get()
-
-from celery import chain
-
-task_chain = chain(fetch_and_process_data.s(api_url), another_task.s())
-task_chain()
+	def post(self, request: WSGIRequest, *args, **kwargs):
+		id_thread = request.POST.get('id_thread', None)
+		message = request.POST.get('message')
+		result = run_query(qa, query=message, session_id=id_thread)
+		print(result)
+		return JsonResponse({
+			"answer": result["answer"],
+			"id_thread": result["session_id"],
+		})
