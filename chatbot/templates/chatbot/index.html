@@ -84,14 +84,14 @@
                                                 <img class="is-rounded" alt="" src={% static "chatbot/images/monkeyGPT.png" %}/>
                                             </p>
                                         </figure>
-                                        <div class="message">
+                                        <div class="message" id="how_can_i_help">
                                             How can I help you?
-                                            <div>
-                                                <div class="buttons are-small" style="margin-top: 8px;">
-                                                    <button class="button is-rounded">Regulations</button>
-                                                    <button class="button is-rounded">Big problem</button>
-                                                </div>
-                                            </div>
+                                            {#                                            <div>#}
+                                            {#                                                <div class="buttons are-small" style="margin-top: 8px;">#}
+                                            {#                                                    <button class="button is-rounded">Regulations</button>#}
+                                            {#                                                    <button class="button is-rounded">Big problem</button>#}
+                                            {#                                                </div>#}
+                                            {#                                            </div>#}
                                         </div>
                                     </div>
                                 {% else %}
@@ -144,7 +144,7 @@
                         {{ form.message }}
                     </div>
                     <div class="control">
-                        <button type="submit" class="button is-info">
+                        <button type="submit" class="button is-info" onclick="click_button()">
                             Send
                         </button>
                     </div>
@@ -156,6 +156,27 @@
 </div>
 
 
+<script type="text/javascript">
+    let local_messages = [];
+    local_messages = {{ messages|safe }};
+    console.log(local_messages);
+
+    function click_button() {
+        try {
+            if (local_messages.length === 0) {
+                // Replace the content of 'how_can_i_help'
+                document.getElementById("how_can_i_help").innerHTML = '<div class="lds-ring"><div></div><div></div><div></div><div></div></div>';
+            } else {
+                const newContent = '<div class="media chat-right"><div class="message chat-right" id="question">{{ form.message.value }}</div></div><div class="media chat-left"><figure class="media-left bot-icon"><p class="image is-48x48"><img class="is-rounded" alt="User icon" src={% static "chatbot/images/monkeyGPT.png" %}/></p></figure><div class="message"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div></div>';
+                document.getElementById("content").insertAdjacentHTML('beforeend', newContent);
+            }
+        } catch (e) {
+            console.log(e);
+        }
+        document.getElementById("myForm").submit();
+    }
+
+</script>
 </body>
 
 
