@@ -1928,9 +1928,9 @@ terme ordinaire du mandat, soit de renoncer définitivement au renouvellement, e
 Section 2  Procédure de renouvellement des professeur-es 
 invités
 ****************************************************************************************************
-125  (3) 
- 
-Art\.? | Article\.?126  (3) 
+125  (3)
+****************************************************************************************************
+126  (3) 
  
  
 Section 3  Procédure de renouvellement des professeur-es 
@@ -2742,9 +2742,9 @@ Le taux peut être réduit aux conditions de l’alinéa 1.
 ****************************************************************************************************
 169  
 (3) 
- Art\.? | Article\.?169A
+ Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.169A
    (3) 
- Art\.? | Article\.?170  
+ Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.170  
 (3)
 ****************************************************************************************************
 171 Procédure d’engagement 
@@ -3013,7 +3013,7 @@ de direction.
 191  
 (3) 
  
-Art\.? | Article\.?192  (3) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.192  (3) 
  
  
 Chapitre III Traitement des membres du corps 
@@ -3155,11 +3155,11 @@ d’activité équivalent.
 ****************************************************************************************************
 196     (1)   
  
-Art\.? | Article\.?197     (1)  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.197     (1)  
  
-Art\.? | Article\.?198     (4) 
- 
-Art\.? | Article\.?199 (3)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.198     (4)
+****************************************************************************************************
+199 (3)
 ****************************************************************************************************
 200 (3) 
  
@@ -3647,9 +3647,105 @@ c) Professeu r-e associé-e 23 0 à 15
 d) Professeu r-e titulaire 23 0 à 15 
 e) Assistan t-e, caté gorie 3 9 4 à 12
 ****************************************************************************************************
+245 Disposition transitoire concernant la commission du 
+personnel 
+1 Dès l'entrée en vigueur du présent règl ement, il est instauré une commission 
+provisoire du personnel.  
+2 Les membres de cette commission sont désigné-es par le Rectorat. Leur 
+mandat prend fin dès l’entrée en fonction de la commission désignée conformément à l’article 222.  
+3 Sous réserve de l’article 222, les di spositions de la quatrième partie du 
+présent règlement sont applicables. 
+  
+Certifié conforme 
+La chancelière d'Etat : Anja WYDEN 
+GUELPA 
+ 
+ 
+Intitulé 
+  
+Entrée en vigueur 
+Règlement sur le personnel de l’université Modifications : 1.  nouveau ou nouvelle teneur  : 
+ 4/4m, 38/1c, 43/1, 43/3, 43/4, 43/5, 43/6 46/2, 
+ 46/3, 48/1, 48/2, 53/1, 59/3, 85/1, 88/3, 89/3, 
+ 90/3, 92/2, 92/3, 103/2, 103/3, 103/4, 103/5 
+ 114/3, 116/2, 116/3, 117/4, 118/2, 118A,  119/1b, 119/3, 120 modif. de la note, 120/1, 
+ 122/1, 122/5, 141/4, 145/4, 145/5, 148/1, 
+ 148/3, 148/6 154/2, 156/4, 157/1c 157/2, 
+ 158, 168/3, 169 modif. de la note, 169/1, 
+ 169/7, 169A, 170/1, 170/4, 170/5,  170/6, 171/2, 171/3, 171/4, 171/5, 182/2, 
+ 192/1, 193/2, 193/3, 194, 195/1b, 195/2, 
+ 195/3, 199 modif. de la note,  199/1, 199/2,  200/2, 209/1, 209/2, 218 modif. de la note, 
+ 218/1, 221/3c, 233/3, 236/1, 236/2, 
+ 238/2, 239A. 
+ abrogés : 196, 197, 209/3.  
+2.   nouveau ou nouvelle teneur : 
+ 50, 95/1, 95/2, 95/3, 95/4, 95/5, 95/6, 
+  95/7, 95/8, 98/2, 98/3, 98/4, 98/5, 98/6, 108/1,  108/2, 108/3, 108/4, 116/2, 116/3, 116/4,   116/5, 117/2, 120/1, 120/2, 120/3, 121/1,  121/2, 121/3, 122/2, 122/3, 122/4, 128/1,   128/2, 231 modif. de la note, 231/1, 231/2,   236/3, 236/4. 17 mai 2009 
+ 
+1
+er avril 2011 
+              
+28 juillet 2011 
+ 
+      
+ abrogé  : 232. 
+3.   nouveau ou nouvelle teneur : 
+    4/4m, 4/4n, 5/1, 25 modif. de la note, 25/1, 
+ 25/6, 31/3, 39/2, 42/3, 42/4, 44/2, 46/2, 46/3, 
+ 48/1, 48/2, 53/3, 53/5, 62/2, 63/3, 66/4, 67A,  67B, 70/2, 70/3, 71/1, 71/4, 71/5, 73/1, 73/2, 
+ 73/3, 73/4, 73/7, 74/3, 74A, 75/1, 75/2, 75/3, 
+ 76, 77/1, 77/2, 77/3, 78/1, 78/2, 78/3, 78/4,  78/5, 92/2, 92/3, 94 modif. de la note, 95/1, 
+ 95/4, 98/1, 98/4, 99/8, 102/1, 102/2, 103/3, 
+ 103/4, 103/5, 104/3, 112A, 112B, 114/1,  114/2, 116/2, 116/3, 116/4, 116/5, 116/6, 
+ 117/5, 119/3, 120/2, 120/3, 120/4, 120/5, 
+ 122/2, 122/6, 128 modif. de la note, 131A,  131B, 134/1, 135, 136/1, 136/2, 136/3, 137/1, 
+ 137/2, 137/3, 140/4, 144/1, 144/2, 146/3, 
+ 149/3, 149/9, 150/3, 151/1, 151/2, 152/2,  154/2, 155/1, 155A, 156/3, 156/5, 156/6, 
+ 158/3, 158/4, 163/1, 163/2, 168/1, 168/2, 
+ 168/3, 168A, 171/1, 174/2, 174/3, 174/4, 
+ 184A, 184B, 194/2, 194A, 195/j, 221/1c, 
+ 221/3b, 221/3c, 222/2, 243A, 243B. 
+ abrogés  : 61, 76, 77/4, 125, 126, 137/4, 169, 
+ 169A, 170, 172/5, 172/6, 172/7, 180/3, 183, 
+ 191, 192, 195/o, 199, 200, 221/3b, 227. 
+ 4.  nouveau ou nouvelle teneur :  34/4, 40/1, 40/2, 42/7, 48/2, 91/3, 113/3, 
+ 116/3, 116/4, 116/5, 116/6, 116/7, 116/8,  116/9, 116A, 117/5, 117/6, 118/2, 118A, 
+ 122/4, 124/2, 131/2, 131A, 134/1, 134/2, 
+ 134/3, 134/4, 134/5, 149/3, 160/2, 163/1,  163/2, 165/2, 172/2, 186/1, 186/2, 194A/4.  
+ 195/i  Abrogé  : 198 
+   
+14 mars 2013 
+                  
+ 
+  
+02 juin 2016 
+     
+01 août 2016 
+   
+5. nouveau ou nouvelle teneur : 
+ 4/4e, 38/1n, 40A, 41, 41/2, 42, 43/1, 48, 64, 
+ 69A,  70/1, 70/2, 70/3, 70/4, 71/4, 73, 92/3, 
+ 92/4, 92/5, 92/6, 97/3, 97/4, 103/1, 103/2,  103/5, 113/1, 113/2, 113/3, 113/5, 113/6, 
+ 114/1, 114/2, 114A, 114B, 116/3, 116/4, 
+ 116/5, 116/6, 116/7, 116/8, 116/9, 116/10,  116A/2, 116A/3, 116A/4, 116A/5, 116A/6, 
+ 116A/7, 117/3, 117/4, 117/5, 117/6, 117/7, 
+ 117A, 118/2, 119/1b, 119/1e 119/1f, 121/1,  122/3, 122/4, 122/5, 122/7, 122A, 139/e, 
+ 140/1, 144, 144/1, 147/5, 149/8, 150/3, 153/2, 
+ 155A/2, 156/1, 156/2, 156A, 156B, 156C,  157/1b, 157/1c, 157/1d, 157/1e, 157/1f, 158/2, 
+ 158/3, 158A, 160/1, 171/4, 171/5, 171/6, 
+ 171/7, 194A/7, 195/1d, 201/1a, 201/2, 201/3, 201/3a, 201/3b, 201/3c, 201/3d, 202/2, 205,  205/1, 205/2, 205/3, 206/1, 206/2, 209/1,  
+ Abrogés  : 90/3, 114/3, 114/4, 131A, 156/3, 
+ 156/4, 156/5, 156/6, 201/1e, 203, 
+       
+17 décembre 2020 
+  
+TABLE DES MATIERES  
+1E PARTIE - DISPOSITIONS GENERALES
+****************************************************************************************************
 1  Objet 
-Art\.? | Article\.?2  Structure du règlement  
-Art\.? | Article\.?3  Compétences  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.2  Structure du règlement
+****************************************************************************************************
+3  Compétences  
 2E PARTIE – CORPS ENSEIGNANT  
 Titre I   Composition du corps enseignant et droit 
 applicable
@@ -3659,69 +3755,75 @@ applicable
 5  Droit applicable  
 Titre II   Dispositions générales applicables aux membres du corps enseignant
  
-Chapitre I   Conditions générales de travail  
-Art\.? | Article\.?6  Principes généraux
+Chapitre I   Conditions générales de travail
 ****************************************************************************************************
-7  Organisation du travail  
-Art\.? | Article\.?8  Protection de la personnalité  
-Art\.? | Article\.?9  Egalité des chances  
-Art\.? | Article\.?10  Limite d’âge
+6  Principes généraux  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.7  Organisation du travail
+****************************************************************************************************
+8  Protection de la personnalité  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.9  Egalité des chances  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.10  Limite d’âge
 ****************************************************************************************************
 11  Etat de santé  
-Art\.? | Article\.?12  Invalidité 
-Art\.? | Article\.?13  Activités 
-Art\.? | Article\.?14  Entrée en fonction  
-Art\.? | Article\.?15  Cahiers des charges
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.12  Invalidité 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.13  Activités
+****************************************************************************************************
+14  Entrée en fonction  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.15  Cahiers des charges
 ****************************************************************************************************
 16  Exercice d’un mandat électif  
-Art\.? | Article\.?17  Responsabilités civile et pénale  
-Art\.? | Article\.?18  Dossier administratif
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.17  Responsabilités civile et pénale
 ****************************************************************************************************
-19  Information syndicale  
-Chapitre II   Devoirs des membres du corps enseignant  
-Art\.? | Article\.?20  Respect de l’intérêt de l’Université  
-Art\.? | Article\.?21  Attitude générale
+18  Dossier administratif  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.19  Information syndicale  
+Chapitre II   Devoirs des membres du corps enseignant
+****************************************************************************************************
+20  Respect de l’intérêt de l’Université  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.21  Attitude générale
 ****************************************************************************************************
 22  Devoirs d’autorité  
-Art\.? | Article\.?23  Exécution du travail  
-Art\.? | Article\.?24  Domicile 
-Art\.? | Article\.?25  Utilisation du téléphon e et des ressources 
-informatiques (3)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.23  Exécution du travail  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.24  Domicile
 ****************************************************************************************************
-26  Absences 
-Art\.? | Article\.?27  Interdiction d’accepter des dons  
-Art\.? | Article\.?28  Secret de fonction  
+25  Utilisation du téléphon e et des ressources 
+informatiques (3) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.26  Absences
+****************************************************************************************************
+27  Interdiction d’accepter des dons  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.28  Secret de fonction  
 Chapitre III  Durée du travail et horaire règlementaire
 ****************************************************************************************************
 29  Activité annuelle  
-Art\.? | Article\.?30  Durée du travail et horaire règlementaire
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.30  Durée du travail et horaire règlementaire
 ****************************************************************************************************
 31  Heures supplémentaires  
 Chapitre IV  Droits des membres du corps enseignant  
 Section 1  Vacances 
-Art\.? | Article\.?32  Durée 
-Art\.? | Article\.?33  Réductions
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.32  Durée
 ****************************************************************************************************
-34  Périodes 
-Art\.? | Article\.?35  Droits et obligations  
-Section 2  Congés 
-Art\.? | Article\.?36  Principe 
-Art\.? | Article\.?37  Congés officiels et autre congé
+33  Réductions  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.34  Périodes 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.35  Droits et obligations  
+Section 2  Congés
 ****************************************************************************************************
-38  Congés spéciaux  
-Art\.? | Article\.?39  Congé maternité  
-Art\.? | Article\.?40  Congé parental  
-Art\.? | Article\.?40A(5) Congé paternité supplémentaire
+36  Principe 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.37  Congés officiels et autre congé  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.38  Congés spéciaux
+****************************************************************************************************
+39  Congé maternité  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.40  Congé parental  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.40A(5) Congé paternité supplémentaire
 ****************************************************************************************************
 41  Congé syndical et décharge syndicale (5) 
-Art\.? | Article\.?42  Congé scientifique (5) 
-Art\.? | Article\.?43  Congé extraordinaire  
-Section 3  Assurances
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.42  Congé scientifique (5)
 ****************************************************************************************************
-44  Assurance-accident  
-Art\.? | Article\.?45  Assurance-maladie  
+43  Congé extraordinaire  
+Section 3  Assurances  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.44  Assurance-accident
+****************************************************************************************************
+45  Assurance-maladie  
 Section 4  Cumul des fonctions et des charges  
-Art\.? | Article\.?46  Cumul des fonctions
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.46  Cumul des fonctions
 ****************************************************************************************************
 47  Cumul des charges des membres du corps enseignant
 ****************************************************************************************************
@@ -3740,94 +3842,100 @@ Section 1  Activités de service
 51  Activités de service  
 Section 2  Activités accessoires des membres du corps enseignant 
 à charge complète  
-Art\.? | Article\.?52  Définition  
-Art\.? | Article\.?53  Conditions
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.52  Définition
 ****************************************************************************************************
-54  Information  
-Art\.? | Article\.?55  Valorisation de la propriété intellectuelle
+53  Conditions  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.54  Information
+****************************************************************************************************
+55  Valorisation de la propriété intellectuelle
 ****************************************************************************************************
 56  Clientèle privée des professeurs à la section de médecine dentaire
  
 Section 3  Autres activités lucratives des membres du corps enseignant à charge complète
- 
-Art\.? | Article\.?57  Conditions
 ****************************************************************************************************
-58  Information  
+57  Conditions  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.58  Information  
 Section 4  Activités extérieures des membres du corps enseignant à charge partielle
 ****************************************************************************************************
 59  Activités extérieures des membres du corps enseignant à charge partielle
  
-Art\.? | Article\.?60  Information  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.60  Information  
 Chapitre VII  (3)
 ****************************************************************************************************
 61   (3) 
 Chapitre VIII  Procédures applicables en matière de 
 protection de la personnalité  
-Section 1  Principes 
-Art\.? | Article\.?62   Champ d’application
+Section 1  Principes
 ****************************************************************************************************
-63  Définition du harcèlement psychologique et du 
+62   Champ d’application  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.63  Définition du harcèlement psychologique et du 
 harcèlement sexuel  
-Section 2  Processus de médiation  
-Art\.? | Article\.?64   Les médiateurs et médiatrices (5)
+Section 2  Processus de médiation
 ****************************************************************************************************
-65  Principes de la médiation  
-Art\.? | Article\.?66  Saisine du médiateur ou de la médiatrice  
-Art\.? | Article\.?67  Processus de médiation  
-Art\.? | Article\.?67A(3) Suspension
+64   Les médiateurs et médiatrices (5) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.65  Principes de la médiation
 ****************************************************************************************************
-67B(3)Accès aux documents  
-Art\.? | Article\.?68  Fin du processus de médiation  
+66  Saisine du médiateur ou de la médiatrice  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.67  Processus de médiation
+****************************************************************************************************
+67A(3) Suspension  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.67B(3)Accès aux documents
+****************************************************************************************************
+68  Fin du processus de médiation  
 Section 3  Procédure d’investigation  
-Art\.? | Article\.?69  But
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.69  But
 ****************************************************************************************************
 69A (5) Protection des plaignant-es et des témoins  
-Art\.? | Article\.?70  Demande d’investigation  
-Art\.? | Article\.?71  Examen de la plainte par le Rectorat
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.70  Demande d’investigation
 ****************************************************************************************************
-72  Saisine d’un enquêteur externe  
-Art\.? | Article\.?73  Mission de la personne en charge de l’enquête et  
+71  Examen de la plainte par le Rectorat  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.72  Saisine d’un enquêteur externe
+****************************************************************************************************
+73  Mission de la personne en charge de l’enquête et  
 instruction (5) 
-Art\.? | Article\.?74  Défaut d’une partie ou d’un-e témoin
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.74  Défaut d’une partie ou d’un-e témoin
 ****************************************************************************************************
 74A(3) Renonciation à la plainte  
-Art\.? | Article\.?75  Clôture de l’instruction  
-Art\.? | Article\.?76 (3) 
-Art\.? | Article\.?77  Détermination des parties et rapport
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.75  Clôture de l’instruction  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.76 (3)
 ****************************************************************************************************
-78  Décision du Rectorat  
-Art\.? | Article\.?79  Contentieux  
+77  Détermination des parties et rapport  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.78  Décision du Rectorat
+****************************************************************************************************
+79  Contentieux  
 Chapitre IX  Sanctions disciplinaires et procédure en cas 
 de sanctions disciplinaires  
 Section 1  Sanctions disciplinaires
 ****************************************************************************************************
 80  Autorités compétentes et sanctions disciplinaires  
-Section 2  Procédure en cas de sanctions disciplinaires  
-Art\.? | Article\.?81  Etablissement des faits
+Section 2  Procédure en cas de sanctions disciplinaires
 ****************************************************************************************************
-82  Suspension provisoire pour enquête  
-Art\.? | Article\.?83  Coordination avec d’autres procédures 
+81  Etablissement des faits  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.82  Suspension provisoire pour enquête
+****************************************************************************************************
+83  Coordination avec d’autres procédures 
 administrative, civile et pénale  
-Chapitre X   Contentieux
+Chapitre X   Contentieux  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.84  Opposition
 ****************************************************************************************************
-84  Opposition  
-Art\.? | Article\.?85  Recours 
+85  Recours 
 Titre III   Dispositions applicables aux membres du 
 corps professoral rémunéré-es par des 
 fonds provenant du budget de l’Etat
 ****************************************************************************************************
 86  Champ d’application  
 Chapitre I   Statut des membres du corps professoral  
-Art\.? | Article\.?87  Composition  
-Art\.? | Article\.?88  Professeur-e ordinaire
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.87  Composition
 ****************************************************************************************************
-89  Professeur-e associé  
-Art\.? | Article\.?90  Professeur-e titulaire  
-Art\.? | Article\.?91  Professeur-e assistant-e
+88  Professeur-e ordinaire  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.89  Professeur-e associé
+****************************************************************************************************
+90  Professeur-e titulaire  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.91  Professeur-e assistant-e
 ****************************************************************************************************
 92  Professeur-e invité-e  
 Chapitre II   Autorité de nomination  
-Art\.? | Article\.?93  Autorité de nomination  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.93  Autorité de nomination  
 Chapitre III  Procédure de nomination
 ****************************************************************************************************
 94  Titre (3) 
@@ -3837,15 +3945,16 @@ assistant-es au sein des unités principales
 d’enseignement et de recherche
 ****************************************************************************************************
 95   Commission de planification académique  
-Art\.? | Article\.?96  Mise au concours  
-Art\.? | Article\.?97  Ouverture de la procédure de nomination
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.96  Mise au concours
 ****************************************************************************************************
-98  Commission de nomination  
-Art\.? | Article\.?99  Examen et proposition de la commission  
-Art\.? | Article\.?100  Examen par le Rectorat
+97  Ouverture de la procédure de nomination  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.98  Commission de nomination
+****************************************************************************************************
+99  Examen et proposition de la commission  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.100  Examen par le Rectorat
 ****************************************************************************************************
 101  Décision du recteu r ou de la rectrice  
-Art\.? | Article\.?102  Information aux candidat-es et procédure de plainte
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.102  Information aux candidat-es et procédure de plainte
 ****************************************************************************************************
 103  Appel 
 Section 2  Procédure de nomination des professeur-es titulaires et 
@@ -3856,39 +3965,42 @@ des professeur-es invité-es au sein des unités principales d’enseignement et
 105  Professeur-e invité-e  
 Section 3  Procédure de nomination des membres du corps 
 professoral hors unité principale d’enseignement et de recherche
- 
-Art\.? | Article\.?106  Mise au concours
 ****************************************************************************************************
-107  Ouverture de la procédure de nomination  
-Art\.? | Article\.?108  Commission de nomination  
-Art\.? | Article\.?109  Examen et proposition de la commission
+106  Mise au concours  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.107  Ouverture de la procédure de nomination
+****************************************************************************************************
+108  Commission de nomination  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.109  Examen et proposition de la commission
 ****************************************************************************************************
 110  Examen par le Rectorat  
-Art\.? | Article\.?111  Décision du recteu r ou de la rectrice  
-Art\.? | Article\.?112  Appel
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.111  Décision du recteu r ou de la rectrice
 ****************************************************************************************************
-112A(3) Professeur-e invité-e  
-Section 3A  Suppléance (3) (5) 
-Art\.? | Article\.?112B  Principes (3) 
+112  Appel 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.112A(3) Professeur-e invité-e  
+Section 3A  Suppléance (3) (5)
+****************************************************************************************************
+112B  Principes (3) 
 Section 4  Nomination au titre de professeur-e honoraire
 ****************************************************************************************************
 113  Professeur-e honoraire  
 Chapitre IV  Promotion des professeur-es associé-es (1) 
-Art\.? | Article\.?114  Conditions  
-Art\.? | Article\.?114A (5) Procédure d’évaluation
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.114  Conditions
+****************************************************************************************************
+114A (5) Procédure d’évaluation
 ****************************************************************************************************
 114B (5) Procédure de promotion  
 Chapitre V   Evaluation et titularisa tion des  professeur-
 es assistant-es  
-Art\.? | Article\.?115  Principes
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.115  Principes
 ****************************************************************************************************
 116  Procédure d’évaluati on du premier mandat  
-Art\.? | Article\.?116A (4) Procédure de titularisation à l’issue du premier 
-mandat 
-Art\.? | Article\.?117  Procédure d’évaluation finale
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.116A (4) Procédure de titularisation à l’issue du premier 
+mandat
 ****************************************************************************************************
-117A (5) Evaluation par le/la doyen-e  
-Art\.? | Article\.?118  Titularisation ou fin des rapports de service
+117  Procédure d’évaluation finale  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.117A (5) Evaluation par le/la doyen-e
+****************************************************************************************************
+118  Titularisation ou fin des rapports de service
 ****************************************************************************************************
 118A (1)Nomination par voie d’appel  
 Chapitre VI  Procédure de renouvellement (3) 
@@ -3896,34 +4008,36 @@ Section 1  Procédure de renouvellement des professeur-es ordinaires, professeu
 (3)
 ****************************************************************************************************
 119  Conditions  
-Art\.? | Article\.?120   Commission de renouvellement (1) 
-Art\.? | Article\.?121   Examen par la commission  
-Art\.? | Article\.?122  Procédure
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.120   Commission de renouvellement (1)
+****************************************************************************************************
+121   Examen par la commission  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.122  Procédure
 ****************************************************************************************************
 122A (5) Evaluation par le/la Doyen-ne  
-Art\.? | Article\.?123  Notification
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.123  Notification
 ****************************************************************************************************
 124  Renouvellement conditionnel  
 Section 2  Procédure de renouvellement des professeur-es invités  
-Art\.? | Article\.?125   (3)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.125   (3)
 ****************************************************************************************************
 126   (3) 
 Section 3  Procédure de renouvellement des professeur-es nommés 
-hors unité principale d’enseignement et de recherche (3) 
-Art\.? | Article\.?127  Conditions
+hors unité principale d’enseignement et de recherche (3)
 ****************************************************************************************************
-128  Commission de renouvellement  (3) 
-Art\.? | Article\.?129  Examen par la commission et notification  
-Art\.? | Article\.?130  Notification
+127  Conditions  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.128  Commission de renouvellement  (3)
+****************************************************************************************************
+129  Examen par la commission et notification  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.130  Notification
 ****************************************************************************************************
 131  Renouvellement conditionnel  
 Section 3A  Procédure de prolongation des professeur-es invité-es 
 (4) 
-Art\.? | Article\.?131A(5)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.131A(5)
 ****************************************************************************************************
 131B(3)Procédures  
 Chapitre VII  Cessation d’activité  
-Art\.? | Article\.?132  Cessation d’activité  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.132  Cessation d’activité  
 Chapitre VIII  Nomination conjointe
 ****************************************************************************************************
 133  Nomination conjointe  
@@ -3933,10 +4047,10 @@ d’engagement
 134  Modification du taux d’activité en cours 
 d’engagement  
 Chapitre X   Plainte pour violatio n de la règle de 
-préférence  
-Art\.? | Article\.?135  Délai et qualité pour agir
+préférence
 ****************************************************************************************************
-136  Procédure
+135  Délai et qualité pour agir  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.136  Procédure
 ****************************************************************************************************
 137  Rapport final  
 Titre IV   Dispositions applicables aux membres du 
@@ -3947,31 +4061,33 @@ rémunéré-es par des fonds provenant du budget de l’Etat
 138  Champ d’application  
 Chapitre I   Statut des membres du corps des 
 collaborateurs et collaboratrices de l’enseignement et de la recherche
- 
-Art\.? | Article\.?139  Composition
 ****************************************************************************************************
-140  Maître d’enseignement et de recherche  
-Art\.? | Article\.?141  Chargé-e de cours  
-Art\.? | Article\.?142  Privat-docent  
-Art\.? | Article\.?143  Chargé-e d’enseignement
+139  Composition  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.140  Maître d’enseignement et de recherche
+****************************************************************************************************
+141  Chargé-e de cours  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.142  Privat-docent  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.143  Chargé-e d’enseignement
 ****************************************************************************************************
 144 (5) Conseiller et conseillère académique  
-Art\.? | Article\.?145  Collaborateur scientifique I et II  
-Art\.? | Article\.?146  Chef-fe de clinique scientifique
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.145  Collaborateur scientifique I et II
 ****************************************************************************************************
-147  Maître assistant-e  
-Art\.? | Article\.?148  Post-doctorant-e  
-Art\.? | Article\.?149  Assistant-e  
-Art\.? | Article\.?150  Auxiliaire de recherche et d’enseignement
+146  Chef-fe de clinique scientifique  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.147  Maître assistant-e
 ****************************************************************************************************
-151  Chercheur et chercheuse invité-e  
-Chapitre II   Autorité de nomination  
-Art\.? | Article\.?152  Autorité de nomination  
-Chapitre III  Procédure de nomination
+148  Post-doctorant-e  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.149  Assistant-e
 ****************************************************************************************************
-153  Recherche des candidat-es  
-Art\.? | Article\.?154  Proposition de nomination  
-Art\.? | Article\.?155  Information aux candidat-es et procédure de plainte  
+150  Auxiliaire de recherche et d’enseignement  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.151  Chercheur et chercheuse invité-e  
+Chapitre II   Autorité de nomination
+****************************************************************************************************
+152  Autorité de nomination  
+Chapitre III  Procédure de nomination  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.153  Recherche des candidat-es
+****************************************************************************************************
+154  Proposition de nomination  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.155  Information aux candidat-es et procédure de plainte  
 Chapitre IIIA(3) Suppléance
 ****************************************************************************************************
 155A(3) Principes 
@@ -3981,8 +4097,9 @@ recherche et des chargé-es de cours à la fonction de professeur-e associé-e
 Section 1(5) Promotion des maîtres d’enseignement et de recherche
 ****************************************************************************************************
 156  Condition  
-Art\.? | Article\.?156A(5) Procédure d’évaluation  
-Art\.? | Article\.?156B(5)  Procédure de promotion  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.156A(5) Procédure d’évaluation
+****************************************************************************************************
+156B(5)  Procédure de promotion  
 Section 2(5) Promotion des  chargé-es de cours (nouveau)
 ****************************************************************************************************
 156C(5) Conditions et procédure  
@@ -3996,9 +4113,10 @@ scientifiques I et II, maîtres assistant-es et assistant-es
 (3)
 ****************************************************************************************************
 157  Conditions  
-Art\.? | Article\.?158  Procédure  
-Art\.? | Article\.?158A(5) Examen par le/la doyen-ne  
-Art\.? | Article\.?159  Notification
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.158  Procédure  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.158A(5) Examen par le/la doyen-ne
+****************************************************************************************************
+159  Notification
 ****************************************************************************************************
 160  Renouvellement conditionnel  
 Section 2  Procédure de prolongation des chef-fes de clinique 
@@ -4006,8 +4124,9 @@ scientifiques, des post-doctorant-es, des auxiliaires de
 recherche et d’enseignement et des chercheurs/euses invité-es
 ****************************************************************************************************
 161  Prolongation  
-Chapitre VI  Cessation de l’activité  
-Art\.? | Article\.?162  Cessation de l’activité  
+Chapitre VI  Cessation de l’activité
+****************************************************************************************************
+162  Cessation de l’activité  
 Chapitre VII  Modification du taux d’activité en cours 
 d’engagement
 ****************************************************************************************************
@@ -4017,26 +4136,29 @@ Titre V  Dispositions applicables aux membres du
 corps enseignant rémunéré-es par des fonds provenant de l’extérieur
 ****************************************************************************************************
 164  Champ d’application  
-Art\.? | Article\.?165  Droit applicable  
-Art\.? | Article\.?166  Principes de l’engagement  
-Art\.? | Article\.?167  Engagement au sein du corps professoral
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.165  Droit applicable  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.166  Principes de l’engagement
+****************************************************************************************************
+167  Engagement au sein du corps professoral
 ****************************************************************************************************
 168  Engagement au sein du corps des 
 collaborateurs/trices de l’enseignement et de la 
 recherche  
-Art\.? | Article\.?168A(3)Engagement d’un-e assistant-e  
-Art\.? | Article\.?169   (3)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.168A(3)Engagement d’un-e assistant-e
 ****************************************************************************************************
-169A   (3) 
-Art\.? | Article\.?170   (3) 
-Art\.? | Article\.?171  Procédure d’engagement  
-Art\.? | Article\.?172  Durée 
-Art\.? | Article\.?173  Traitement  
-Art\.? | Article\.?174  Prolongation
+169   (3) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.169A   (3) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.170   (3)
 ****************************************************************************************************
-175  Evaluation  
-Art\.? | Article\.?176  Fin de l’engagement  
-Art\.? | Article\.?177  Contentieux  
+171  Procédure d’engagement  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.172  Durée 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.173  Traitement
+****************************************************************************************************
+174  Prolongation  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.175  Evaluation  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.176  Fin de l’engagement
+****************************************************************************************************
+177  Contentieux  
 Titre VI   Traitement et indemnités des membres du 
 corps enseignant
 ****************************************************************************************************
@@ -4051,33 +4173,35 @@ budget de l’Etat
 180  Fixation du traitemen t des membres du corps 
 enseignant rémunéré-es par des fonds provenant de 
 l’extérieur  
-Art\.? | Article\.?181  Temps partiel
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.181  Temps partiel
 ****************************************************************************************************
 182  Changement de foncti on avec promotion  
-Art\.? | Article\.?183   (3) 
-Art\.? | Article\.?184  Traitement en cas d’absenc e pour cause de maladie 
-ou d’accident
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.183   (3)
 ****************************************************************************************************
-184A(3) Gratification pour une année de service  
-Art\.? | Article\.?184B(3) Allocation à la naissance  
-Art\.? | Article\.?185  Prestations aux survivant-es
+184  Traitement en cas d’absenc e pour cause de maladie 
+ou d’accident  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.184A(3) Gratification pour une année de service
+****************************************************************************************************
+184B(3) Allocation à la naissance  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.185  Prestations aux survivant-es
 ****************************************************************************************************
 186  Traitement doublé lors de la mise à la retraite  
-Art\.? | Article\.?187  Compensation
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.187  Compensation
 ****************************************************************************************************
 188  Service obligatoire en Suisse  
 Chapitre II   Dispositions particulières applicables aux 
 membres du corps enseignant rémunéré-es par des fonds provenant du budget de l’Etat
 ****************************************************************************************************
 189  Suppléance  
-Art\.? | Article\.?190  Indemnités de direction  
-Art\.? | Article\.?191   (3) 
-Art\.? | Article\.?192   (3) 
-Chapitre III  Traitement des membres du corps 
-professoral
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.190  Indemnités de direction  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.191   (3)
 ****************************************************************************************************
-193  Echelle des traitements  
-Art\.? | Article\.?194 (1) Dépassement de traitement
+192   (3) 
+Chapitre III  Traitement des membres du corps 
+professoral  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.193  Echelle des traitements
+****************************************************************************************************
+194 (1) Dépassement de traitement
 ****************************************************************************************************
 194A(3)  Rachat de caisse de pension  
 Chapitre IV  Traitement des membres du corps des 
@@ -4085,10 +4209,11 @@ collaborateurs/trices de l’enseignement et
 de la recherche
 ****************************************************************************************************
 195   Echelle des traitements  
-Art\.? | Article\.?196     (1) 
-Art\.? | Article\.?197     (1) 
-Art\.? | Article\.?198     (4) 
-Art\.? | Article\.?199 (3)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.196     (1) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.197     (1)
+****************************************************************************************************
+198     (4) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.199 (3)
 ****************************************************************************************************
 200 (3) 
 3E PARTIE  CORPS DU PERSONNEL 
@@ -4098,8 +4223,9 @@ Chapitre I   Droit applicable
 ****************************************************************************************************
 201  Droit applicable  
 Chapitre II   Compétences  
-Art\.? | Article\.?202  Compétences du Rectorat  
-Art\.? | Article\.?203 (5) (abrogé)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.202  Compétences du Rectorat
+****************************************************************************************************
+203 (5) (abrogé)
 ****************************************************************************************************
 204  Autres compétences spécifiques  
 Titre II  Dispositions applicables aux membres du 
@@ -4108,7 +4234,7 @@ technique rémunéré-es par des fonds
 provenant du budget de l’Etat
 ****************************************************************************************************
 205  En matière d’engagement et de nomination (5) 
-Art\.? | Article\.?206  En matière de fin des rapports de service
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.206  En matière de fin des rapports de service
 ****************************************************************************************************
 207  En matière de sanctions  
 Titre III   Dispositions applicables aux membres du corps du personnel administratif et 
@@ -4116,13 +4242,14 @@ technique rémunéré-es par des fonds
 provenant de l’extérieur
 ****************************************************************************************************
 208  Définition  
-Art\.? | Article\.?209  Autorité d’engagement  
-Art\.? | Article\.?210  Principes de l’engagement  
-Art\.? | Article\.?211  Durée 
-Art\.? | Article\.?212  Traitement
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.209  Autorité d’engagement  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.210  Principes de l’engagement
 ****************************************************************************************************
-213  Prolongation  
-Art\.? | Article\.?214  Evaluation
+211  Durée 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.212  Traitement  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.213  Prolongation
+****************************************************************************************************
+214  Evaluation
 ****************************************************************************************************
 215  Fin de l’engagement  
 Titre IV   Dispositions applicables à l’ensemble des 
@@ -4133,29 +4260,33 @@ protection de la personnalité
 ****************************************************************************************************
 216  Principes 
 Chapitre II   Contentieux  
-Art\.? | Article\.?217  Opposition  
-Art\.? | Article\.?218  Recours à la chambre admini strative de la Cour de 
-justice (1)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.217  Opposition
 ****************************************************************************************************
-219  Tribunaux civils  
-4E PARTIE  COMMISSION DU PERSONNEL  
-Art\.? | Article\.?220  Commission du personnel  
-Art\.? | Article\.?221  Buts généraux
+218  Recours à la chambre admini strative de la Cour de 
+justice (1) 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.219  Tribunaux civils  
+4E PARTIE  COMMISSION DU PERSONNEL
+****************************************************************************************************
+220  Commission du personnel  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.221  Buts généraux
 ****************************************************************************************************
 222  Composition et durée de mandat  
-Art\.? | Article\.?223  Mode de désignation  
-Art\.? | Article\.?224  Fonctionnement  
-Art\.? | Article\.?225  Séances
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.223  Mode de désignation
 ****************************************************************************************************
-226  Devoir de discrétion et confidentialité des données  
-Art\.? | Article\.?227   (3) 
+224  Fonctionnement  
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.225  Séances
+****************************************************************************************************
+226  Devoir de discrétion et confidentialité des données
+****************************************************************************************************
+227   (3) 
 5E PARTIE  DISPOSITIONS FINALES ET 
 TRANSITOIRES  
 Chapitre I   Dispositions finales
 ****************************************************************************************************
 228  Entrée en vigueur  
-Chapitre II   Dispositions transitoires  
-Art\.? | Article\.?229  Dispositions transitoires concernant les rapports de 
+Chapitre II   Dispositions transitoires
+****************************************************************************************************
+229  Dispositions transitoires concernant les rapports de 
 service existants
 ****************************************************************************************************
 230  Dispositions transitoires concernant les procédures 
@@ -4163,44 +4294,49 @@ en matière de protection de la personnalité
 ****************************************************************************************************
 231  Dispositions transitoires concernant les procédures 
 en cours en matière de rapports de service (2) 
-Art\.? | Article\.?232 (2)
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.232 (2)
 ****************************************************************************************************
 233  Dispositions transitoires concernant les professeur-es d’école
  
-Art\.? | Article\.?234  Dispositions transitoires concernant les professeur-es adjoints
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.234  Dispositions transitoires concernant les professeur-es adjoints
 ****************************************************************************************************
 235  Dispositions transitoires concernant les professeur-es  
-associé-es 
-Art\.? | Article\.?236  Dispositions transitoires concernant les professeur-es 
+associé-es
+****************************************************************************************************
+236  Dispositions transitoires concernant les professeur-es 
 titulaires
 ****************************************************************************************************
 237  Dispositions transitoires  concernant les maîtres 
-d’enseignement et de recherche  
-Art\.? | Article\.?238  Dispositions transitoires concernant les chargé-es de 
-cours
+d’enseignement et de recherche
 ****************************************************************************************************
-239  Dispositions transitoires  concernant les privat-
-docents 
-Art\.? | Article\.?239A(1) Dispositions transitoires concernant les chargé-es      
+238  Dispositions transitoires concernant les chargé-es de 
+cours 
+Art\.? | Article\.? | ARTICLE\. | ARTICLE | ART\.? | art\.239  Dispositions transitoires  concernant les privat-
+docents
+****************************************************************************************************
+239A(1) Dispositions transitoires concernant les chargé-es      
 d’enseignement
 ****************************************************************************************************
 240  Dispositions transitoires concernant les 
 collaborateurs et collaboratr ices scientifiques I et II
 ****************************************************************************************************
 241  Dispositions transitoires concernant les 
-collaborateurs et collaboratrices scientifiques III  
-Art\.? | Article\.?242  Dispositions transitoires concernant les assistant-es, 
+collaborateurs et collaboratrices scientifiques III
+****************************************************************************************************
+242  Dispositions transitoires concernant les assistant-es, 
 catégorie 3
 ****************************************************************************************************
 243  Dispositions transitoires concernant les assistant-es 
 rémunéré-es par des fonds provenant de l’extérieur
 ****************************************************************************************************
 243A(3)Dispositions transitoires concernant les attaché-es de 
-recherche I et II  
-Art\.? | Article\.?243B(3) Dispositions transitoires concernant les doctorant-es
+recherche I et II
+****************************************************************************************************
+243B(3) Dispositions transitoires concernant les doctorant-es
 ****************************************************************************************************
 244  Dispositions transitoires pr opres au corps enseignant 
-de l'Université  
-Art\.? | Article\.?245  Disposition transitoire concernant la commission du 
+de l'Université
+****************************************************************************************************
+245  Disposition transitoire concernant la commission du 
 personnel
 ****************************************************************************************************
