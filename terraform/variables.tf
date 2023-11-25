@@ -22,10 +22,6 @@ variable "server_image" {
   type = string
 }
 
-variable "gateway_image" {
-  type = string
-}
-
 variable "registry_server" {
   type = string
 }
