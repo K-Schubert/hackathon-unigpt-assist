@@ -3,7 +3,6 @@ venv_unigpt/
 /unigpt/.env
 /.idea/.gitignore
 /db.sqlite3
-corpus
 notebooks/.ipynb_checkpoints
 scripts/__pycache__
 venv_unigpt
