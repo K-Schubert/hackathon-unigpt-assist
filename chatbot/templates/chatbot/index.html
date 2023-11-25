@@ -2,6 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,115 +10,99 @@
 
     <link rel="stylesheet" href={% static 'chatbot/css/bulma.css' %}>
 </head>
+
 <body>
 <nav class="navbar" role="navigation" aria-label="main navigation">
 
 </nav>
+<div class="columns"></div>
+<div class="column is-4">
 
-<section class="section">
-    <div class="container">
-        <div class="columns is-multiline">
-            <div class="column">
-                <div class="box">
-                    <div class="content">
-                        {% if not messages %}
-                            <div class="media">
-                                <figure class="media-left bot-icon">
-                                    <p class="image is-48x48">
-                                        <img class="is-rounded" alt="" src={% static "chatbot/images/1547183.png" %}/>
-                                    </p>
-                                </figure>
-                                <div class="message">
-                                    How can I help you?
-                                    <div>
-                                        <div class="buttons are-small" style="margin-top: 8px;">
-                                            <button class="button is-rounded">Regulations</button>
-                                            <button class="button is-rounded">Big problem</button>
+</div>
+<div class="column is-8">
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-multiline">
+                <div class="column">
+                    <div class="box">
+                        <div class="content">
+                            {% if not messages %}
+                                <div class="media">
+                                    <figure class="media-left bot-icon">
+                                        <p class="image is-48x48">
+                                            <img class="is-rounded" alt="" src={% static "chatbot/images/1547183.png" %}/>
+                                        </p>
+                                    </figure>
+                                    <div class="message">
+                                        How can I help you?
+                                        <div>
+                                            <div class="buttons are-small" style="margin-top: 8px;">
+                                                <button class="button is-rounded">Regulations</button>
+                                                <button class="button is-rounded">Big problem</button>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        {% else %}
-                            {% for obj in messages %}
-                                {% if obj.question %}
-                                    <div class="media chat-right">
-                                        <div class="message chat-right">
-                                            {{ obj.question }}
+                            {% else %}
+                                {% for obj in messages %}
+                                    {% if obj.question %}
+                                        <div class="media chat-right">
+                                            <div class="message chat-right">
+                                                {{ obj.question }}
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="media chat-left">
-                                        <figure class="media-left bot-icon">
-                                            <p class="image is-48x48">
-                                                <img class="is-rounded" alt="User icon" src={% static "chatbot/images/1547183.png" %}/>
-                                            </p>
-                                        </figure>
-                                        {% if obj.answer %}
-                                            <div class="message">
-                                                {{ obj.answer }}
-                                            </div>
-                                        {% else %}
-                                            <div class="message">
-                                                Waiting for answer...
-                                            </div>
-                                        {% endif %}
-                                    </div>
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %}
+                                        <div class="media chat-left">
+                                            <figure class="media-left bot-icon">
+                                                <p class="image is-48x48">
+                                                    <img class="is-rounded" alt="User icon" src={% static "chatbot/images/1547183.png" %}/>
+                                                </p>
+                                            </figure>
+                                            {% if obj.answer %}
+                                                <div class="message">
+                                                    {{ obj.answer }}
+                                                </div>
+                                            {% else %}
+                                                <div class="message">
+                                                    Waiting for answer...
+                                                </div>
+                                            {% endif %}
+                                        </div>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+</div>
+<div class="column is-4">
+
+</div>
 
 {# Render django form errors #}
 
 <div class="elm-input">
     <div class="container">
-        <div class="columns is-multiline">
-            <div class="column">
-                <div class="box">
-                    <div class="field is-grouped">
-                        <form method="POST" enctype="multipart/form-data" id="myForm">
-                            {% csrf_token %}
-
-                            <div class="control is-expanded">
-                                <label>
-                                    {{ form.message }}
-                                </label>
-                            </div>
-                            <div class="control">
-                                <button type="submit" class="button is-info" onclick="document.getElementById('myForm').submit();">
-                                    Send
-                                </button>
-                            </div>
-                        </form>
+        <div class="box">
+            <form method="POST" enctype="multipart/form-data" id="myForm">
+                {% csrf_token %}
+                <div class="field is-grouped">
+                    <div class="control is-expanded">
+                        {{ form.message }}
+                    </div>
+                    <div class="control">
+                        <button type="submit" class="button is-info">
+                            Send
+                        </button>
                     </div>
                 </div>
-            </div>
+            </form>
         </div>
     </div>
 </div>
 </body>
-</html>
 
-{#<script>#}
-{#    function checkTaskStatus(taskId) {#}
-{#        fetch(`/path-to-task-status/${taskId}`)#}
-{#            .then(response => response.json())#}
-{#            .then(data => {#}
-{#                if (data.status === 'complete') {#}
-{#                    console.log('Task complete:', data.result);#}
-{#                    // Update your page with the result here#}
-{#                } else {#}
-{#                    console.log('Task still processing');#}
-{#                    setTimeout(() => checkTaskStatus(taskId), 2000);#}
-{#                }#}
-{#            });#}
-{#    }#}
-{##}
-{#    // Call this function with the actual task ID returned from the server#}
-{#    // after form submission#}
-{#    // checkTaskStatus('your-task-id-from-server');#}
-{#</script>#}
+</html>
