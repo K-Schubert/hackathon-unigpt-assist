@@ -12,97 +12,151 @@
 </head>
 
 <body>
-<nav class="navbar" role="navigation" aria-label="main navigation">
+    <!--<nav class="navbar" role="navigation" aria-label="main navigation"> 
+    
+    </nav> -->
+    <div class="columns">
+        
+            
+                <aside class="column is-2 is-narrow-mobile is-fullheight section" >
+                    <p class="menu-label is-hidden-touch">History</p>
+                    <ul class="menu-list">
+                      <li>
+                        <a href="#" class="">
+                          <span class="icon"><i class="fa fa-home"></i></span> History 1
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#" class="is-active">
+                          <span class="icon"><i class="fa fa-table"></i></span> History 2
+                        </a>
+                
+                      </li>
+                      <li>
+                        <a href="#" class="">
+                          <span class="icon"><i class="fa fa-info"></i></span> History 3
+                        </a>
+                      </li>
+                    </ul>
+                  </aside>
 
-</nav>
-<div class="columns"></div>
-<div class="column is-4">
+                  <!--
+                <div class="container">
+                    <div class="box"> 
 
-</div>
-<div class="column is-8">
-
-    <section class="section">
-        <div class="container">
-            <div class="columns is-multiline">
-                <div class="column">
-                    <div class="box">
-                        <div class="content">
-                            {% if not messages %}
-                                <div class="media">
-                                    <figure class="media-left bot-icon">
-                                        <p class="image is-48x48">
-                                            <img class="is-rounded" alt="" src={% static "chatbot/images/img.png" %}/>
-                                        </p>
-                                    </figure>
-                                    <div class="message">
-                                        How can I help you?
-                                        <div>
-                                            <div class="buttons are-small" style="margin-top: 8px;">
-                                                <button class="button is-rounded">Regulations</button>
-                                                <button class="button is-rounded">Big problem</button>
-                                            </div>
+                    
+                        <div class="row columns is-multiline is-vcentered">
+                            <div class="column is-12">
+                                <div class="card">
+                                    <div class="card-content">
+                                        <div class="content">
+                                            History content 1
                                         </div>
                                     </div>
                                 </div>
-                            {% else %}
-                                {% for obj in messages %}
-                                    {% if obj.question %}
-                                        <div class="media chat-right">
-                                            <div class="message chat-right">
-                                                {{ obj.question }}
-                                            </div>
+                            </div>
+                            <div class="column is-12">
+                                <div class="card">
+                                    <div class="card-content">
+                                        <div class="content">
+                                            History content 1
                                         </div>
-                                        <div class="media chat-left">
-                                            <figure class="media-left bot-icon">
-                                                <p class="image is-48x48">
-                                                    <img class="is-rounded" alt="User icon" src={% static "chatbot/images/img.png" %}/>
-                                                </p>
-                                            </figure>
-                                            {% if obj.answer %}
-                                                <div class="message">
-                                                    {{ obj.answer }}
-                                                </div>
-                                            {% else %}
-                                                <div class="message">
-                                                    Waiting for answer...
-                                                </div>
-                                            {% endif %}
-                                        </div>
-                                    {% endif %}
-                                {% endfor %}
-                            {% endif %}
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-</div>
-<div class="column is-4">
+            
+        </div>-->
+        <div class="column is-10">
 
-</div>
-
-{# Render django form errors #}
-
-<div class="elm-input">
-    <div class="container">
-        <div class="box">
-            <form method="POST" enctype="multipart/form-data" id="myForm">
-                {% csrf_token %}
-                <div class="field is-grouped">
-                    <div class="control is-expanded">
-                        {{ form.message }}
-                    </div>
-                    <div class="control">
-                        <button type="submit" class="button is-info">
-                            Send
-                        </button>
+            <section class="section">
+                <div class="container">
+                    <div class="columns is-multiline">
+                        <div class="column">
+                            <div class="box">
+                                <div class="content">
+                                    {% if not messages %}
+                                    <div class="media">
+                                        <figure class="media-left bot-icon">
+                                            <p class="image is-48x48">
+                                                <img class="is-rounded" alt="" src={% static "chatbot/images/img.png" %} />
+                                            </p>
+                                        </figure>
+                                        <div class="message">
+                                            How can I help you?
+                                            <div>
+                                                <div class="buttons are-small" style="margin-top: 8px;">
+                                                    <button class="button is-rounded">Regulations</button>
+                                                    <button class="button is-rounded">Big problem</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% else %}
+                                    {% for obj in messages %}
+                                    {% if obj.question %}
+                                    <div class="media chat-right">
+                                        <div class="message chat-right">
+                                            {{ obj.question }}
+                                        </div>
+                                    </div>
+                                    <div class="media chat-left">
+                                        <figure class="media-left bot-icon">
+                                            <p class="image is-48x48">
+                                                <img class="is-rounded" alt="User icon" src={% static "chatbot/images/img.png" %} />
+                                            </p>
+                                        </figure>
+                                        {% if obj.answer %}
+                                        <div class="message">
+                                            {{ obj.answer }}
+                                        </div>
+                                        {% else %}
+                                        <div class="message">
+                                            Waiting for answer...
+                                        </div>
+                                        {% endif %}
+                                    </div>
+                                    {% endif %}
+                                    {% endfor %}
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </form>
+            </section>
+        </div>
+
+    </div>
+    {# Render django form errors #}
+
+
+
+    <div class="elm-input">
+        <div class="container">
+
+            <div class="box">
+                <form method="POST" enctype="multipart/form-data" id="myForm">
+                    {% csrf_token %}
+                    <div class="field is-grouped">
+                        <div class="control is-expanded">
+                            {{ form.message }}
+                        </div>
+                        <div class="control">
+                            <button type="submit" class="button is-info">
+                                Send
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
         </div>
     </div>
-</div>
+
+
 </body>
 
 </html>
