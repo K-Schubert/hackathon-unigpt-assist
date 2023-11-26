@@ -1,12 +1,15 @@
 const {Events} = require("discord.js");
+// https://www.npmjs.com/package/node-fetch
 // use : npm install node-fetch@2
 const fetch = require('node-fetch');
 // otherwise ...
 // import fetch from 'node-fetch';
 // ES Modules (ESM) etc...
 
+// API URL
 let url_api = 'http://unigpt-assist.westeurope.azurecontainer.io/rag/'
 
+// change prefix to call the UniGPT
 const regexPrefix = new RegExp('unigpt*');
 
 module.exports = {
@@ -17,18 +20,20 @@ module.exports = {
             // change the arg to correspond to the regexPrefix length
             const message = msg.content.substring(6);
             console.log(message);
-            // https://www.npmjs.com/package/node-fetch
+
             /*
             const callResult = await fetch(url_api, {
                 method : 'post',
                 body : JSON.stringify(message),
                 headers: {'Content-Type': 'application/json}'},
             });*/
-            //
-            // const callResult = await fetch(url_api, {
-            //     method : 'POST',
-            //     body : `message=${message}`
-            // });
+            /*
+            // simple post
+            const callResult = await fetch(url_api, {
+                method : 'POST',
+                body : `message=${message}`
+            });*/
+
             // with form params
             const params = new URLSearchParams();
             params.append('message', message);
@@ -37,6 +42,7 @@ module.exports = {
                     method: 'POST',
                     body: params
                 });
+
             // console.log(callResult);
 
             const data = await callResult.json();
@@ -47,7 +53,7 @@ module.exports = {
             const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
             await delay(1000);
 
-            // await msg.reply(watsonResponse)
+            // console.log(data.answer);
             await msg.reply(data.answer)
                 .then(() => console.log(`Replied to message "${msg.content}"`))
                 .catch(console.error);

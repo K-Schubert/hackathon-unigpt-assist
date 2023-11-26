@@ -1,11 +1,11 @@
 const dotenv = require('dotenv').config();
-// dotenv.config();
 
 const fs = require('node:fs');
 const path = require('node:path');
 
 const {Client, Events, GatewayIntentBits, Collection, EmbedBuilder} = require('discord.js');
 
+// GatewayIntentBits.MessageContent is required for the Event 'messageCreate,js' and reading the content of the messages
 const client = new Client({ intents: [
     GatewayIntentBits.Guilds,
     GatewayIntentBits.GuildMessages,
