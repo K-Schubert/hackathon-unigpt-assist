@@ -5,6 +5,7 @@ unigpt/.env
 .env
 /discord/.env
 /discord/.idea
+/discord/node_modules/
 /.idea/.gitignore
 /db.sqlite3
 rag/corpus
